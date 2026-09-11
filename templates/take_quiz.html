@@ -39,12 +39,41 @@
 <script>
 const deadline = new Date("{{ deadline }}");
 
+let isSubmitting = false;
+let timerInterval = null;
+
+function beforeUnloadHandler(e) {
+    if (!isSubmitting) {
+        e.preventDefault();
+        e.returnValue = '';
+    }
+}
+
+function submitQuiz() {
+    if (isSubmitting) {
+        return;
+    }
+
+    isSubmitting = true;
+
+    // Stop the timer so it cannot submit again
+    if (timerInterval) {
+        clearInterval(timerInterval);
+    }
+
+    // Remove the "Leave site?" warning
+    window.removeEventListener('beforeunload', beforeUnloadHandler);
+
+    // Use requestSubmit() so the normal form submit flow is triggered
+    document.getElementById('quiz-form').requestSubmit();
+}
+
 function updateTimer() {
     const now = new Date();
     const remaining = deadline - now;
 
     if (remaining <= 0) {
-        document.getElementById('quiz-form').submit();
+        submitQuiz();
         return;
     }
 
@@ -55,6 +84,7 @@ function updateTimer() {
     document.getElementById('time-display').textContent = display;
 
     const timerDiv = document.getElementById('timer');
+
     if (remaining < 60000) {
         timerDiv.className = 'timer danger';
     } else if (remaining < 300000) {
@@ -62,18 +92,22 @@ function updateTimer() {
     }
 }
 
-updateTimer();
-setInterval(updateTimer, 1000);
+// Warn if the user tries to leave while taking the quiz
+window.addEventListener('beforeunload', beforeUnloadHandler);
 
-// Warn before leaving
-window.addEventListener('beforeunload', function(e) {
-    e.preventDefault();
-    e.returnValue = '';
-});
-
-// Remove warning on submit
+// Handle manual submission
 document.getElementById('quiz-form').addEventListener('submit', function() {
-    window.removeEventListener('beforeunload', arguments.callee);
+    isSubmitting = true;
+
+    if (timerInterval) {
+        clearInterval(timerInterval);
+    }
+
+    window.removeEventListener('beforeunload', beforeUnloadHandler);
 });
+
+// Start timer
+updateTimer();
+timerInterval = setInterval(updateTimer, 1000);
 </script>
 {% endblock %}
