@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% block title %}Quiz Results - {{ quiz.title }}{% endblock %}
+
+{% block header_extra %}
+<a href="/admin/dashboard" class="btn">Back to Dashboard</a>
+{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>{{ quiz.title }}</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 1rem 0;">
+        <div>
+            <strong>Questions:</strong> {{ quiz.question_ids|length }}
+        </div>
+        <div>
+            <strong>Time Limit:</strong> {{ quiz.time_limit_minutes }} minutes
+        </div>
+        <div>
+            <strong>Marking:</strong> +{{ quiz.marks_correct }} / {{ quiz.marks_wrong }}
+        </div>
+        <div>
+            <strong>Explanations:</strong> {{ 'Enabled' if quiz.show_explanations else 'Disabled' }}
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <h3>Share Link</h3>
+    <div style="display: flex; gap: 1rem; align-items: center;">
+        <input type="text" id="share-url" value="{{ share_url }}" readonly onclick="this.select()">
+        <button class="btn" onclick="copyShareLink()">Copy</button>
+    </div>
+</div>
+
+<h3>Participant Results</h3>
+
+{% if attempts %}
+<div class="card">
+    <table>
+        <thead>
+            <tr>
+                <th>Participant Name</th>
+                <th>Score</th>
+                <th>Time Taken</th>
+                <th>Submitted At</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for attempt in attempts %}
+            <tr>
+                <td>{{ attempt.participant_name }}</td>
+                <td><strong>{{ attempt.score }}</strong></td>
+                <td>{{ attempt.time_taken_str }}</td>
+                <td>{{ attempt.submitted_at.strftime('%Y-%m-%d %H:%M:%S') if attempt.submitted_at else 'In progress' }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% else %}
+<p class="alert alert-info">No attempts yet. Share the link above to get participants!</p>
+{% endif %}
+
+<script>
+function copyShareLink() {
+    const input = document.getElementById('share-url');
+    input.select();
+    document.execCommand('copy');
+    alert('Link copied to clipboard!');
+}
+</script>
+{% endblock %}

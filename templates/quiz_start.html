@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}{{ quiz.title }}{% endblock %}
+
+{% block content %}
+<div class="card" style="max-width: 600px; margin: 4rem auto; text-align: center;">
+    <h2>{{ quiz.title }}</h2>
+
+    <div style="text-align: left; margin: 2rem 0;">
+        <p><strong>Number of Questions:</strong> {{ quiz.question_ids|length }}</p>
+        <p><strong>Time Limit:</strong> {{ quiz.time_limit_minutes }} minutes</p>
+        <p><strong>Marking Scheme:</strong> +{{ quiz.marks_correct }} for correct, {{ quiz.marks_wrong }} for wrong</p>
+    </div>
+
+    <form method="post" action="/quiz/{{ quiz.share_slug }}/begin">
+        <div class="form-group">
+            <label for="participant_name">Enter Your Name</label>
+            <input type="text" id="participant_name" name="participant_name" required autofocus>
+        </div>
+        <button type="submit" class="btn btn-success">Start Quiz</button>
+    </form>
+</div>
+{% endblock %}

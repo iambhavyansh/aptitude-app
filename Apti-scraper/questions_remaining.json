@@ -1,0 +1,2902 @@
+[
+  {
+    "qid": "60",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "In each step, element at the upper-right position gets enlarged, inverts vertically and reaches the lower-left corner; the existing element at the lower-left position, is lost and a new small element appears at the upper-right position."
+  },
+  {
+    "qid": "22",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "In each step, the elements move in the sequence."
+  },
+  {
+    "qid": "20",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "In each step, the CW-end element moves to the ACW-end position."
+  },
+  {
+    "qid": "97",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "Both the larger and the smaller squares move to the adjacent corner ACW in each turn. Also, the shading in the smaller square moves 1, 2, 3, 4, 5, ... steps ACW sequentially and the shading in the larger square moves 1, 2, 3, 4, 5,.... steps CW sequentially."
+  },
+  {
+    "qid": "10",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "One, two, three, one, two, three.....arcs get inverted sequentially. This inversion takes place in an ACW direction."
+  },
+  {
+    "qid": "100",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "Similar figure reappears in every second step. Each time the first figure reappears, the elements interchange positions in the order : . And, each time the second figure reappears, the elements interchange positions in the order :"
+  },
+  {
+    "qid": "33",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "In One step, the middle element rotates through 180 o and in the next step, the other two elements rotate through 180 o . The two steps are repeated alternately."
+  },
+  {
+    "qid": "95",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The central arrow rotates 90 o ACW and 45 o CW alternately. The half-arrow moves half-a-side of the square boundary in a CW direction and its head turns to the other side of the line in each step."
+  },
+  {
+    "qid": "43",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "The 'T' shaped large element rotates 90 o CW in each step. The two small symbols interchange positions and the symbol that reaches the upper position gets replaced by a new one."
+  },
+  {
+    "qid": "68",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "In the first step, the lowermost line segment is converted into a curve. In the second step, the second line segment also gets converted into a curve and the (existing curve is inverted. In each subsequent step, all the elements (line segments and curves) move in the sequence"
+  },
+  {
+    "qid": "28",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "In one step, the existing element enlarges and a new element appears inside this element. In the next step, the outer element is lost."
+  },
+  {
+    "qid": "76",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "The number of parts increases by one along with the number of sides in the figure."
+  },
+  {
+    "qid": "81",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "In each step, the dot moves one space CW and the arrow moves two spaces CW."
+  },
+  {
+    "qid": "42",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "One arc and four arcs get inverted alternately."
+  },
+  {
+    "qid": "14",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The pin rotates 45 o CW and 90 o CW alternately and moves one space (each space is equal to half-a-side of the square) and two spaces CW alternately. The arrow rotates 90 o ACW and 45 o ACW alternately and moves two spaces and one space."
+  },
+  {
+    "qid": "2",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "In each step, the pin rotates 90 o CW and the arrow rotates 90 o ACW."
+  },
+  {
+    "qid": "86",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "In one step, the figure gets laterally inverted and one line segment is lost from the upper end of the RHS portion of the figure. In the next step, the figure gets laterally inverted and one line segment is lost from the upper end of the LHS portion of the figure."
+  },
+  {
+    "qid": "88",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "The elements move in the sequence's and alternately."
+  },
+  {
+    "qid": "77",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "All the elements move half-a-side of the square boundary in ACW direction in each step. Also, first, third and fifth elements are replaced by new elements in one step and second, fourth and sixth elements are replaced by new elements in the next step. The two steps are repeated alternately."
+  },
+  {
+    "qid": "89",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "In the first step, the ACW end element moves two spaces (each space is equal to half-a-side of the square boundary) in an ACW direction. In the second step, the CW-end element moves three spaces ACW. In the third step, the remaining element moves four spaces ACW. The three steps are repeated to continue the series."
+  },
+  {
+    "qid": "65",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The symbols move in the sequence in the first step. In each subsequent step, the symbols move in the sequence obtained by rotating the previous sequence through 90 o ACW. Also, in each step, the symbol that reaches the encircled position gets replaced by a new one."
+  },
+  {
+    "qid": "48",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "In each step, all the elements move to the adjacent corner (of the square boundary) in a CW direction and the element that reaches the upper-left corner gets vertically inverted."
+  },
+  {
+    "qid": "72",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "In each step, one line segment is lost from the CW-end of the outer element and a new line segment appears at the ACW-end. Also, the inner 'L' shaped element rotates 90 o CW in each step."
+  },
+  {
+    "qid": "67",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "In each step, the first element moves to the third position and gets replaced by a new element; the second and the third elements move to the first and the second positions respectively and the entire figure rotates 90 o CW."
+  },
+  {
+    "qid": "87",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "We can label the arcs as shown . The arcs get inverted in the sequence (1 & 2), (3, 4 & 5), (6 & 1), (2, 3 & 4), (5 & 6),..........."
+  },
+  {
+    "qid": "59",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The elements move in the sequences and alternately. Also, in each step, the symbol that reaches the encircled position, gets replaced by a new symbol."
+  },
+  {
+    "qid": "55",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "In one step, all the elements get vertically inverted and interchange positions in the sequence . In the next step, the elements interchange positions in the sequence and the third element gets vertically inverted."
+  },
+  {
+    "qid": "61",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "Three elements (encircled in-the figures below) rotate through 90 o CW in each step. This rotation takes place in the following sequence : This sequence is repeated to continue the series."
+  },
+  {
+    "qid": "78",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "In each step, all the existing arcs get laterally inverted and a new arc is added which is oriented in a direction opposite to that of the last added arc. The arcs are added at various positions in the following sequences :"
+  },
+  {
+    "qid": "16",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "In each step, one of the elements-gets laterally inverted."
+  },
+  {
+    "qid": "32",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "All the symbols move CW half the side of the square in each step. The symbols are replaced by new ones sequentially in an ACW direction."
+  },
+  {
+    "qid": "34",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "One of the pins gets inverted in each step. The pins get inverted sequentially from right to left."
+  },
+  {
+    "qid": "84",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The shading moves in the sequence as shown in the figure: The similar upper element appears in every fourth step. The lower element is replaced by a new element in every second step."
+  },
+  {
+    "qid": "9",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "Five line segments are added in each step to complete the squares in an ACW direction."
+  },
+  {
+    "qid": "31",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The number of symbols added sequentially is 3, 2, 5, 2, 7, 2, .... These symbols are added to form a sequence of 1, 2, 3, 4, 5, 6 identical symbols."
+  },
+  {
+    "qid": "49",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "Similar figure appears alternately and each time a figure reappears, all the elements move one step CW."
+  },
+  {
+    "qid": "17",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "One extra line is added in each step in a set order."
+  },
+  {
+    "qid": "15",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "Similar figure reappears in every fourth step and each time a figure reappears, it rotates through 90 o ACW."
+  },
+  {
+    "qid": "35",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "In one step, the elements move in the sequence and in the next step, the elements move in the sequence The two steps are repeated alternately."
+  },
+  {
+    "qid": "3",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The symbol gets vertically inverted and laterally inverted alternately. It also moves in ACW direction through distances equal to two half-sides (of square boundary) and three half-sides alternately."
+  },
+  {
+    "qid": "50",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The elements interchange positions in the orders and alternately."
+  },
+  {
+    "qid": "82",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "The upper-left element gets laterally inverted in first, third, fifth. .... steps; the upper-right element gets rotated through 180 o is first, fourth, seventh,.... steps; the lower-left element gets laterally inverted in second, fourth, sixth, ... steps; the lower-right element gets rotated through 180 o in third, sixth,... steps and the pin at the middle-right position gets laterally inverted in every second step."
+  },
+  {
+    "qid": "18",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "Three and two arcs are inverted alternately. The central element rotates 90 o ACW and 180 o alternately."
+  },
+  {
+    "qid": "58",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "All the elements together move one space to the right in each step and once they reach the rightmost position, then in the next step, they move to the leftmost position. Also, in the first step, the first (uppermost) and the third elements interchange positions; in the second step, the second and the fourth elements interchange positions and in the third step, none of the elements interchange positions. These three steps are repeated to continue the series."
+  },
+  {
+    "qid": "41",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "In each step, the elements move in the order"
+  },
+  {
+    "qid": "25",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "All the elements move one space ACW (each space is equal to a quadrant of the circle) and get inverted in each step."
+  },
+  {
+    "qid": "29",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "In each step, the symbols move in the sequence and the symbol that reaches the encircled position gets replaced by a new one."
+  },
+  {
+    "qid": "5",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "In each step, one dot is lost while another dot is replaced by a cross."
+  },
+  {
+    "qid": "54",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The elements move in the sequences and alternately. Also, in each step, the element that reaches the encircled position, gets replaced by a new element."
+  },
+  {
+    "qid": "92",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "series",
+    "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures. Problem Figures:                          Answer Figures: (A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "In one step, the two elements interchange positions and the smaller element gets enlarged while the larger element gets reduced in size. In the next step, the smaller element is replaced by a new small element and the larger element is replaced by a new large element."
+  },
+  {
+    "qid": "172",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The half-shaded leaf rotates 135 o ACW and the unshaded leaf rotates 135 o CW."
+  },
+  {
+    "qid": "146",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The upper element is converted to an element similar to the lower elements and each one of the lower elements is converted to an element similar to the upper element."
+  },
+  {
+    "qid": "139",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The figure gets vertically inverted."
+  },
+  {
+    "qid": "171",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "Each one of the upper elements is replaced by an element similar to the lower element(s) and each one of the lower elements is replaced by an element similar to the upper element(s)."
+  },
+  {
+    "qid": "135",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "Except for the dots, the remaining part of the figure rotates through 180 o and shifts to the opposite side of the square boundary."
+  },
+  {
+    "qid": "129",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "The combination of two symbols placed at the lower-right corner, rotates 90 o CW and moves to the Upper-right corner. Also, the combination of two symbols placed at the upper-left corner, moves to the lower-right corner."
+  },
+  {
+    "qid": "136",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The figure gets divided into eight equal parts."
+  },
+  {
+    "qid": "105",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "The inner element enlarges to become the outer element while the outer element reduces in size, turns black and becomes the inner element."
+  },
+  {
+    "qid": "130",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "The figure rotates through 90 o ACW and the arrowhead shifts closer to the black circle."
+  },
+  {
+    "qid": "128",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "The figure gets rotated through 180 o ."
+  },
+  {
+    "qid": "161",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The trapezium gets vertically inverted and move to the middle right position; the pin rotates 90 o CW and moves to the lower-right position; the third element rotates 135 o ACW."
+  },
+  {
+    "qid": "195",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The figure rotates 45 o ACW; the circle changes colour (turns black if initially white and vice-versa). The 'L'-shaped element shifts to the other side of the main figure."
+  },
+  {
+    "qid": "165",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The rightmost element enlarges to become the outer element; the leftmost element becomes the inner-lower element and the middle element becomes the inner-upper element."
+  },
+  {
+    "qid": "187",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The figure gets laterally inverted."
+  },
+  {
+    "qid": "186",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The pentagon gets vertically inverted. The lower half of the black element becomes white and this element moves inside the pentagon and gets attached to its upper end."
+  },
+  {
+    "qid": "157",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "The arrow moves four spaces (each space is equal to a side of the hexagon) in a CW direction while the line segment and the circle move two spaces in a CW direction."
+  },
+  {
+    "qid": "147",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The line segment moves four spaces ACW and the dot moves three spaces ACW."
+  },
+  {
+    "qid": "140",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "Both the elements move to the adjacent side in a CW direction; the half-arrow rotates 90 o ACW; the semi-circular element rotates 90 o ACW and gets laterally inverted."
+  },
+  {
+    "qid": "151",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The figure rotates 90 o ACW and gets vertically inverted."
+  },
+  {
+    "qid": "101",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "The figure gets vertically inverted."
+  },
+  {
+    "qid": "185",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The black leaf rotates 135 o CW and the white leaf rotates 135 o ACW."
+  },
+  {
+    "qid": "160",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The figure rotates 90 o CW and the stars disappears."
+  },
+  {
+    "qid": "156",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The figure gets vertically inverted and the two vertical lines inside the figure get rotated through 90 o ."
+  },
+  {
+    "qid": "121",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The figure rotates 90 o ACW and its black inverted image is placed over it."
+  },
+  {
+    "qid": "123",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "The curved pin rotates 90 o ACW and moves to the adjacent side (of the square boundary) in a CW direction. The curved arrow rotates 90 o ACW and moves to the adjacent side in a CW direction."
+  },
+  {
+    "qid": "188",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The figure rotates through 135 o ACW and is placed inside another figure with one more number of sides."
+  },
+  {
+    "qid": "142",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "The figure gets laterally inverted and the head of the arrow (the arrowhead may be a 'V' or an arc) gets inverted."
+  },
+  {
+    "qid": "134",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The two elements approach each other and get overlapped;"
+  },
+  {
+    "qid": "192",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "The elements move downwards along the diagonal and the lowermost element moves to the uppermost position. The triangle and the half shaded rectangle get vertically inverted and the pentagon rotates 90 o CW."
+  },
+  {
+    "qid": "168",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "An element similar to but smaller than the outer element appears as the inner element and it hides the parts of the line segments that come under it."
+  },
+  {
+    "qid": "175",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "All the diagonals of the figure have been drawn."
+  },
+  {
+    "qid": "196",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "The black leaf rotates 135 o ACW and the white leaf rotates 135 o CW."
+  },
+  {
+    "qid": "124",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E",
+    "explanation": "The figure rotates through 180 o and the head of the arrow attached to the main figure, gets inverted."
+  },
+  {
+    "qid": "144",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The line segment along one of the sides of the figure moves two spaces ACW (each space is equal to a side of the figure) and the other element moves three spaces CW."
+  },
+  {
+    "qid": "104",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "The four parts at the outer ends of the figure are lost."
+  },
+  {
+    "qid": "180",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "One of the arrowheads moves from the lower part to the upper part of the figure above the circle and gets vertically inverted."
+  },
+  {
+    "qid": "113",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The figure rotates through 180 o ."
+  },
+  {
+    "qid": "153",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "The lower element gets enlarged and becomes the outermost element; the upper element gets slightly enlarged and becomes the middle element and a new element with one more number of sides than the lower element appears as the innermost element."
+  },
+  {
+    "qid": "199",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The LHS element becomes a closed figure by combining with three similar elements. The RHS element gets reduced in size, turns black and moves to the centre of the other figure."
+  },
+  {
+    "qid": "183",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "In the upper and the lower elements, the white part turns black and the black turns white. In the central arrow, one of the arrowheads from the LHS gets laterally inverted and moves to the RHS."
+  },
+  {
+    "qid": "179",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "The half-arrow rotates 90 o ACW and gets laterally inverted and moves to the adjacent side of the square boundary in a CW direction. The bent pin rotates 90 o ACW and moves to the adjacent side of the square boundary in a CW direction."
+  },
+  {
+    "qid": "132",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "The inner element gets enlarged, rotates 45 o CW and becomes the outer element. The outer element reduces in size, gets vertically inverted and becomes the inner element."
+  },
+  {
+    "qid": "170",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "The two elements interchange positions; the element that reaches the LHS position gets vertically inverted and the element that reaches the RHS position, rotates 90 o ACW."
+  },
+  {
+    "qid": "194",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "B",
+    "explanation": "The figure rotates 90 o CW and gets laterally inverted."
+  },
+  {
+    "qid": "200",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The existing line segments that join the corners of the squares move to the adjacent corners in an ACW direction and one more line segment appears in the next corner at the ACW-end. The shading inside the innermost square changes from dots to slanting lines."
+  },
+  {
+    "qid": "117",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "analogy",
+    "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?). Problem Figures:                            Answer Figures: (A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "All the arrows reverse their directions."
+  },
+  {
+    "qid": "277",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "classification",
+    "question": "Choose the figure which is different from the rest. (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "The pins, equal in number to the number of sides in the main figure are attached to the midpoint of a side of the main figure in case of figures (2), (3), (4) and (5). In fig. (1), these pins are attached to a vertex of the main figure."
+  },
+  {
+    "qid": "208",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "classification",
+    "question": "Choose the figure which is different from the rest. (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C",
+    "explanation": "In all other figures, the two line segments are parallel to each other."
+  },
+  {
+    "qid": "262",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "classification",
+    "question": "Choose the figure which is different from the rest. (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "D",
+    "explanation": "In all other figures, the arrow and the V sign lie towards the black end of the main figure."
+  },
+  {
+    "qid": "294",
+    "main_tag": "non-verbal-reasoning",
+    "sub_tag": "classification",
+    "question": "Choose the figure which is different from the rest. (1)     (2)     (3)     (4)     (5)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A",
+    "explanation": "In all other figures, there are two small line segments towards the pin and three small line segments towards the arrow."
+  },
+  {
+    "qid": "24",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "We discussed about the problem so thoroughly",
+      "B": "on the eve of the examination",
+      "C": "that I found it very easy to work it out",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "We discussed the problem so thoroughly"
+  },
+  {
+    "qid": "206",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "An Indian ship",
+      "B": "laden with merchandise",
+      "C": "got drowned in the Pacific Ocean.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "sank in the Pacific Ocean"
+  },
+  {
+    "qid": "11",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The Indian radio",
+      "B": "which was previously controlled by the British rulers",
+      "C": "is free now from the narrow vested interests.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "is now free from the narrow vested interests."
+  },
+  {
+    "qid": "211",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "I have got",
+      "B": "my  M.Sc. degree",
+      "C": "in 1988.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "I got"
+  },
+  {
+    "qid": "93",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Do the roses in your garden smell",
+      "B": "more sweetly",
+      "C": "than those in ours?",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "sweeter"
+  },
+  {
+    "qid": "138",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Block of Residential flats",
+      "B": "are coming up",
+      "C": "near our house.",
+      "D": "No error"
+    },
+    "answer": "A",
+    "explanation": "Blocks of Residential flats"
+  },
+  {
+    "qid": "148",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "You can get",
+      "B": "all the information that you want",
+      "C": "in this book.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "all the information you want"
+  },
+  {
+    "qid": "37",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "They have been",
+      "B": "very close friends",
+      "C": "until they quarrelled.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "'They had been'"
+  },
+  {
+    "qid": "74",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "When the dentist came in",
+      "B": "my tooth was stopped aching",
+      "C": "out of fear that I might lose my tooth.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "my tooth stopped aching"
+  },
+  {
+    "qid": "232",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "It is the duty of every citizen to do his utmost",
+      "B": "to defend the hardly-won",
+      "C": "freedom of the country.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "to defend the hard-won"
+  },
+  {
+    "qid": "53",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "No sooner did I open the door",
+      "B": "when the rain, heavy and stormy, rushed in",
+      "C": "making us shiver from head to foot",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "than the rain, heavy and stormy, rushed in"
+  },
+  {
+    "qid": "243",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "If a man diligently seeks to come into the contact",
+      "B": "with the best that has been thought and said in this world",
+      "C": "he will become simple and unselfish.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "If a man diligently seeks to come into contact"
+  },
+  {
+    "qid": "125",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "You must",
+      "B": "remember me",
+      "C": "to post this letter.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "remind me"
+  },
+  {
+    "qid": "215",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "I shall certainly",
+      "B": "write you",
+      "C": "when I shall reach NewDelhi.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "when I reach New Delhi"
+  },
+  {
+    "qid": "85",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "On the busy Ring Road",
+      "B": "we witnessed  a collusion",
+      "C": "between a truck and an auto.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "we witnessed a collision"
+  },
+  {
+    "qid": "46",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "He couldn't  but help",
+      "B": "shedding tears at the plight of the villagers",
+      "C": "rendered homeless by a devastating cyclone.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "He couldn't help"
+  },
+  {
+    "qid": "190",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "He will certainly help you",
+      "B": "if you will ask him",
+      "C": "in a pleasant manner.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "if you ask him"
+  },
+  {
+    "qid": "248",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The brand propositon now therefore had to be that Keokarpin Antiseptic Cream is more effective",
+      "B": "because it penetrates deepdown (beinglight and non-sticky) and works from within",
+      "C": "(because of its ayurvedic ingredients) to keep skin blemish, free and helps cope with cuts nicks, burns and nappy rash.",
+      "D": "No error"
+    },
+    "answer": "A",
+    "explanation": "The brand proposition now therefore is"
+  },
+  {
+    "qid": "176",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Will you please buy",
+      "B": "some jaggery for me",
+      "C": "if  you go to the market?",
+      "D": "No error."
+    },
+    "answer": "D",
+    "explanation": "No answer description is available. Let's discuss."
+  },
+  {
+    "qid": "108",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Most of the members at the meeting felt",
+      "B": "that the group appointed for investigating  the case",
+      "C": "were not competent to do the job efficiently.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "was not competent to do the job efficiently"
+  },
+  {
+    "qid": "120",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Our conception of",
+      "B": "what should a science of mental life be",
+      "C": "has changed considerably since James' time.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "what a science of mental life should be"
+  },
+  {
+    "qid": "36",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "He is not coming tomorrow",
+      "B": "as he is having  a pain in the chest",
+      "C": "and has to see a doctor.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "'and he has to see a doctor'"
+  },
+  {
+    "qid": "162",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The reason Ram",
+      "B": "is absent from his duty",
+      "C": "is because he is unwell.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "The reason why Ram"
+  },
+  {
+    "qid": "205",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Azharuddin is one of the finest batsmen",
+      "B": "that India have produced",
+      "C": "over the decades.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "that India has produced"
+  },
+  {
+    "qid": "241",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Arun's parents died when he was young and",
+      "B": "he looked after his aunt",
+      "C": "who had no children.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "he was looked after by his aunt"
+  },
+  {
+    "qid": "27",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Though child marriage",
+      "B": "has been banned.",
+      "C": "the custom still prevailed among some groups in India.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "The custom still prevails among some groups in India"
+  },
+  {
+    "qid": "189",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The warden",
+      "B": "forbade the student",
+      "C": "from leaving the hostel.",
+      "D": "No error."
+    },
+    "answer": "D",
+    "explanation": "No answer description is available. Let's discuss."
+  },
+  {
+    "qid": "224",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "In spite of several reminders,",
+      "B": "he did not so far send",
+      "C": "any reply to me, letters.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "he has not so far sent"
+  },
+  {
+    "qid": "98",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Please try to understand",
+      "B": "that the dispute on this issue is between my brother and myself,",
+      "C": "and concerns nobody else.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "that the dispute on this issue is between my brother and me"
+  },
+  {
+    "qid": "107",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "It does not matter how you do it;",
+      "B": "what I want is that",
+      "C": "you should finish the work within a month.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "I want that"
+  },
+  {
+    "qid": "207",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Though senior in age,",
+      "B": "his father is junior  than",
+      "C": "my father in service.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "his father is junior to"
+  },
+  {
+    "qid": "71",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "While walking slowly in the park",
+      "B": "on a quiet summer afternoon",
+      "C": "a mad dog suddenly attacked him from behind",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "While he was walking slowly in the park"
+  },
+  {
+    "qid": "70",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Everyone visiting the house asked the young girl",
+      "B": "how could she kill the wolf",
+      "C": "single handed and without a weapon.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "'how she could kill the wolf'"
+  },
+  {
+    "qid": "159",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Many health-conscious people",
+      "B": "prefer  margarine",
+      "C": "than butter.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "to butter"
+  },
+  {
+    "qid": "122",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The retiring principal asked his old pupils",
+      "B": "to take the interest in the school",
+      "C": "after he has retired.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "to take interest in his school"
+  },
+  {
+    "qid": "13",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "At present juncture",
+      "B": "however, the supercomputer",
+      "C": "would be a costly toy.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "At the present juncture"
+  },
+  {
+    "qid": "119",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Troy was taken by Greeks",
+      "B": "this formed the basis of a story",
+      "C": "which has become famous.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "Troy was taken by the Greeks"
+  },
+  {
+    "qid": "178",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "I am much pleased",
+      "B": "to know that",
+      "C": "you have topped the list.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "I am very pleased"
+  },
+  {
+    "qid": "115",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "It is time",
+      "B": "we should accept all our people as equals",
+      "C": "and as partners in the task of building a strong and united nation.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "we should accept all our people as equal"
+  },
+  {
+    "qid": "99",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Regretfully, profits earned by your company",
+      "B": "fell by 20 per cent last year",
+      "C": "despite higher sales.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "Regrettably, profits earned by your company"
+  },
+  {
+    "qid": "137",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "In a report issued by Indian Statistical Institute,",
+      "B": "the Iron and Steel Industry is investing more than any other",
+      "C": "Indian industry in fighting pollution.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "Indian industry on fighting pollution"
+  },
+  {
+    "qid": "238",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "He is going everyday",
+      "B": "for a morning walk",
+      "C": "with his friends and neighbours",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "He goes everyday"
+  },
+  {
+    "qid": "80",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "If she will be promoted",
+      "B": "she will get",
+      "C": "a higher salary.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "If she is promoted"
+  },
+  {
+    "qid": "163",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "If I were him,",
+      "B": "I would have taught",
+      "C": "those cheats a lesson.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "If I were he, I would have taught those cheats a lesson."
+  },
+  {
+    "qid": "225",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Looking back, I find that among the many impressions ofthe people of India,",
+      "B": "absorbed while I lived among them,",
+      "C": "are their reverence for great men and women.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "I find that among the many impressions I got of the people of India"
+  },
+  {
+    "qid": "141",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "If  you work hard,",
+      "B": "you will get good grades",
+      "C": "in examinations.",
+      "D": "No error"
+    },
+    "answer": "C",
+    "explanation": "in the examination"
+  },
+  {
+    "qid": "51",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "He managed to make sense of the book",
+      "B": "even though it was the first time",
+      "C": "he read anything on the subject.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "when he read anything on the subject"
+  },
+  {
+    "qid": "96",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "I fail to understand",
+      "B": "why he replied in negative",
+      "C": "when the proposal was in his favour.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "I failed to understand"
+  },
+  {
+    "qid": "212",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "They",
+      "B": "enjoyed  thoroughly",
+      "C": "at the party.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "thoroughly enjoyed themselves"
+  },
+  {
+    "qid": "167",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The school is",
+      "B": "within hundred yards",
+      "C": "from the church.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "within a hundred yards"
+  },
+  {
+    "qid": "209",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "His father died of cholera",
+      "B": "but his mother also,",
+      "C": "though very weak, is out of danger.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "but his mother"
+  },
+  {
+    "qid": "231",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The police  broke upon the robbers",
+      "B": "when they were in the lonely place",
+      "C": "to divide their booty.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "The police came upon the robbers"
+  },
+  {
+    "qid": "47",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Since it was his first election campaign, the  candidate was confused;",
+      "B": "none  could clearly understand",
+      "C": "either the principles he stood for or the benefits he promised.",
+      "D": "No error."
+    },
+    "answer": "D",
+    "explanation": "No answer description is available. Let's discuss."
+  },
+  {
+    "qid": "106",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "He loved",
+      "B": "none but",
+      "C": "his neighbour's daughter.",
+      "D": "No error."
+    },
+    "answer": "D",
+    "explanation": "No answer description is available. Let's discuss."
+  },
+  {
+    "qid": "216",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The criminal was",
+      "B": "caught, convicted the hung",
+      "C": "in a short period of time.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "within a short period of time"
+  },
+  {
+    "qid": "126",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "I am thinking of",
+      "B": "to go to Agra",
+      "C": "for my cousin's marriage.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "going to Agra"
+  },
+  {
+    "qid": "239",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "In management, as you rise higher,",
+      "B": "the problems you face becomemore and more unstructured and you can't just fall back on",
+      "C": "the tools you had been",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "the problem you face become more and more unstructured and you can't afford to fall back upon"
+  },
+  {
+    "qid": "90",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Neeraj said",
+      "B": "that he would rather fail than copying",
+      "C": "in the examination",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "he would rather fail than copy"
+  },
+  {
+    "qid": "228",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The man told to her",
+      "B": "that he had not brought his dog",
+      "C": "out for a walk as he was afraid that it would rain.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "The man told her"
+  },
+  {
+    "qid": "214",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Kamala's fountain-pen",
+      "B": "is as expensive",
+      "C": "as Shyama.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "as Shyama's"
+  },
+  {
+    "qid": "233",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "When we consider all the factors, which are many,",
+      "B": "the number of school dropouts",
+      "C": "are quite disturbing.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "is quite disturbing"
+  },
+  {
+    "qid": "169",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "She has never",
+      "B": "approve of him",
+      "C": "working as a clerk.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "approved of his"
+  },
+  {
+    "qid": "143",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "At the station,",
+      "B": "I'll hire a coolie",
+      "C": "to carry my baggages",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "to carry my baggage"
+  },
+  {
+    "qid": "7",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The number of marks carried by each question",
+      "B": "are indicated",
+      "C": "at the end of the question",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "is indicated"
+  },
+  {
+    "qid": "220",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "There is no question",
+      "B": "of my failing",
+      "C": "in the examination.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "of me failing"
+  },
+  {
+    "qid": "166",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "It is necessary",
+      "B": "that everybody",
+      "C": "must have a house.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "should have a house"
+  },
+  {
+    "qid": "203",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "To facilitate exports and improve sales in the domestic market",
+      "B": "some of the improvised  fabrics and garments fabricated out  from them",
+      "C": "are displayed in the main pavilion.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "some of the improvised fabrics and garments made from them"
+  },
+  {
+    "qid": "63",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Both of you two",
+      "B": "can come with me",
+      "C": "to the play tonight",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "Both of you"
+  },
+  {
+    "qid": "221",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "No sooner did the sun rise",
+      "B": "when we took a hasty breakfast",
+      "C": "and resumed the journey.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "than we took a hasty breakfast"
+  },
+  {
+    "qid": "174",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The charges in this hospital",
+      "B": "are less than",
+      "C": "the hospital near my house.",
+      "D": "No error"
+    },
+    "answer": "C",
+    "explanation": "those in the hospital near my house"
+  },
+  {
+    "qid": "1",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The brakes and steering failed",
+      "B": "and  the bus ran down the hill",
+      "C": "without anyone being able control it.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "without being controlled by anyone"
+  },
+  {
+    "qid": "154",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The tall three girls",
+      "B": "had left",
+      "C": "the day before.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "The three tall girls"
+  },
+  {
+    "qid": "236",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Remember that you are part of",
+      "B": "the team and your success depends on the support",
+      "C": "you are able to give and get from your other team members.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "Remember that you are a part of"
+  },
+  {
+    "qid": "23",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Happily, zoos were",
+      "B": "unwilling to cooperate",
+      "C": "in a scheme that was potentially harmful to animal welfare",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "on a scheme that was potentially harmful to animal welfare"
+  },
+  {
+    "qid": "246",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "She was told",
+      "B": "to give the award to whosoever",
+      "C": "she thought has done the most  for the downtrodden.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "she thought had done the most for the downtrodden"
+  },
+  {
+    "qid": "21",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "At the end of the year",
+      "B": "every student who had done adequate work",
+      "C": "was automatically promoted.",
+      "D": "No error."
+    },
+    "answer": "D",
+    "explanation": "No answer description is available. Let's discuss."
+  },
+  {
+    "qid": "112",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Since we are friends",
+      "B": "there should be no secret",
+      "C": "between you and I.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "between you and me"
+  },
+  {
+    "qid": "202",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "If I will have the time",
+      "B": "I shall try and make it",
+      "C": "to the zoo this afternoon.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "If I have the time"
+  },
+  {
+    "qid": "57",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "A leading textile manufacturer, one  of the fastest growing in the industry.",
+      "B": "is looking for a marketing manager",
+      "C": "to look up the marketing network of the company",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "to look after the marketing network of the company"
+  },
+  {
+    "qid": "66",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Not one of the hundreds",
+      "B": "of striking workers.",
+      "C": "were allowed to go near the factory.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "was allowed to go near the factory"
+  },
+  {
+    "qid": "245",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The single biggest gainer in this process",
+      "B": "was ITC's Gold Flake Kings sales are estimated",
+      "C": "to have moved up from 50 million to 200 million sticks per month during 1987 and last year.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "was ITC's Gold Flake Kings sales of which are estimated' or 'whose sales are estimated"
+  },
+  {
+    "qid": "229",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "They left",
+      "B": "their luggages",
+      "C": "at the railway station.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "their luggage"
+  },
+  {
+    "qid": "182",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "She is",
+      "B": "five years",
+      "C": "senior than me.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "senior to me"
+  },
+  {
+    "qid": "217",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "You will  get",
+      "B": "all the information",
+      "C": "if you read this booklet carefully.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "you can get"
+  },
+  {
+    "qid": "230",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "None of the students attending your class",
+      "B": "answered your questions",
+      "C": "did  they?",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "'did one' or 'did any'"
+  },
+  {
+    "qid": "8",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "An animal",
+      "B": "can be just as unhappy in a vast area",
+      "C": "or in a small one",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "as in a small one"
+  },
+  {
+    "qid": "219",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "He is working in",
+      "B": "a bank in New  Delhi",
+      "C": "for the past several months.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "He has been working in"
+  },
+  {
+    "qid": "52",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "A large scale exchange of nuclear weapons",
+      "B": "will produce unprecedented amounts of radiation",
+      "C": "that can penetrate into the biological tissue.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "that can penetrate the biological tissue"
+  },
+  {
+    "qid": "127",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Had I",
+      "B": "known it earlier",
+      "C": "I would contact you.",
+      "D": "No error."
+    },
+    "answer": "C",
+    "explanation": "I would have contacted you"
+  },
+  {
+    "qid": "210",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "He asked me",
+      "B": "why did I call",
+      "C": "him a rogue.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "why I called"
+  },
+  {
+    "qid": "19",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Were you",
+      "B": "given a choice",
+      "C": "or you had to do it?",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "Had you been"
+  },
+  {
+    "qid": "114",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The person which was",
+      "B": "recommended for the position",
+      "C": "did not fulfil the prescribed qualifications.",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "The person who was"
+  },
+  {
+    "qid": "152",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "What does Professor Dhavan",
+      "B": "spend so many hours",
+      "C": "in the laboratory?",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "why does Professor Dhavan"
+  },
+  {
+    "qid": "223",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The presumption that the average investor does not understand",
+      "B": "or take interest in the affairs of the company",
+      "C": "is not correct.",
+      "D": "No error."
+    },
+    "answer": "D",
+    "explanation": "No answer description is available. Let's discuss."
+  },
+  {
+    "qid": "44",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Scarcely had",
+      "B": "I arrived than",
+      "C": "the train left.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "'I arrived when'"
+  },
+  {
+    "qid": "75",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Emphasis on equality of life ensures",
+      "B": "for the health and happiness",
+      "C": "of every individual.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "the health and happiness"
+  },
+  {
+    "qid": "56",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "There was very heavy rain last night,",
+      "B": "and the rivers have overflown their banks",
+      "C": "causing severe hardship to the people living by them.",
+      "D": "No error."
+    },
+    "answer": "B",
+    "explanation": "and the rivers have overflowed their banks"
+  },
+  {
+    "qid": "116",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Every motorist knows",
+      "B": "road signs---whether symbols or colour codes--- have an immediacy",
+      "C": "that neither the spoken nor the written word can match.",
+      "D": "No error."
+    },
+    "answer": "D",
+    "explanation": "No answer description is available. Let's discuss."
+  },
+  {
+    "qid": "12",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "Because of the emergency help",
+      "B": "that the patient received",
+      "C": "he would have died",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "But for emergency help"
+  },
+  {
+    "qid": "111",
+    "main_tag": "verbal-ability",
+    "sub_tag": "spotting-errors",
+    "question": "(solve as per the direction given above)",
+    "options": {
+      "A": "The course provide",
+      "B": "not only theoretical inputs",
+      "C": "but also practical training",
+      "D": "No error."
+    },
+    "answer": "A",
+    "explanation": "The course provides"
+  }
+]

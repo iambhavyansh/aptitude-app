@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+
+{% block title %}Taking Quiz - {{ quiz.title }}{% endblock %}
+
+{% block content %}
+<div id="timer" class="timer">
+    Time Remaining: <span id="time-display">--:--</span>
+</div>
+
+<div class="card">
+    <h2>{{ quiz.title }}</h2>
+    <p><strong>Participant:</strong> {{ attempt.participant_name }}</p>
+</div>
+
+<form method="post" action="/quiz/{{ quiz.share_slug }}/submit/{{ attempt.id }}" id="quiz-form">
+    {% for question in questions %}
+    <div class="card">
+        <h3>Question {{ loop.index }} of {{ questions|length }}</h3>
+        <p style="font-size: 1.1rem; margin: 1rem 0;">{{ question.question_text }}</p>
+
+        <div style="margin: 1rem 0;">
+            {% for key, value in question.options.items() %}
+            <label style="display: block; padding: 10px; margin: 5px 0; background: #f8f9fa; border-radius: 4px; cursor: pointer;">
+                <input type="radio" name="q_{{ question.id }}" value="{{ key }}">
+                <strong>{{ key }}.</strong> {{ value }}
+            </label>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+
+    <div class="card" style="text-align: center;">
+        <button type="submit" class="btn btn-success" style="font-size: 1.2rem; padding: 15px 40px;">
+            Submit Quiz
+        </button>
+    </div>
+</form>
+
+<script>
+const deadline = new Date("{{ deadline }}");
+
+function updateTimer() {
+    const now = new Date();
+    const remaining = deadline - now;
+
+    if (remaining <= 0) {
+        document.getElementById('quiz-form').submit();
+        return;
+    }
+
+    const minutes = Math.floor(remaining / 60000);
+    const seconds = Math.floor((remaining % 60000) / 1000);
+
+    const display = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+    document.getElementById('time-display').textContent = display;
+
+    const timerDiv = document.getElementById('timer');
+    if (remaining < 60000) {
+        timerDiv.className = 'timer danger';
+    } else if (remaining < 300000) {
+        timerDiv.className = 'timer warning';
+    }
+}
+
+updateTimer();
+setInterval(updateTimer, 1000);
+
+// Warn before leaving
+window.addEventListener('beforeunload', function(e) {
+    e.preventDefault();
+    e.returnValue = '';
+});
+
+// Remove warning on submit
+document.getElementById('quiz-form').addEventListener('submit', function() {
+    window.removeEventListener('beforeunload', arguments.callee);
+});
+</script>
+{% endblock %}

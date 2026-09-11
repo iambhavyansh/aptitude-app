@@ -1,0 +1,2404 @@
+[
+  {
+    "qid": "454",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+    "options": {
+      "A": "120 metres",
+      "B": "180 metres",
+      "C": "324 metres",
+      "D": "150 metres"
+    },
+    "answer": "D",
+    "explanation": "Speed = 60 x 5 m/sec = 50 m/sec. 18 3 Length of the train = (Speed x Time). Length of the train = 50 x 9 m = 150 m. 3"
+  },
+  {
+    "qid": "463",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+    "options": {
+      "A": "45 km/hr",
+      "B": "50 km/hr",
+      "C": "54 km/hr",
+      "D": "55 km/hr"
+    },
+    "answer": "B",
+    "explanation": "Speed of the train relative to man = 125 m/sec 10 = 25 m/sec. 2 = 25 x 18 km/hr 2 5 = 45 km/hr. Let the speed of the train be x km/hr. Then, relative speed = ( x - 5) km/hr. x - 5 = 45 x = 50 km/hr."
+  },
+  {
+    "qid": "456",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+    "options": {
+      "A": "200 m",
+      "B": "225 m",
+      "C": "245 m",
+      "D": "250 m"
+    },
+    "answer": "C",
+    "explanation": "Speed = 45 x 5 m/sec = 25 m/sec. 18 2 Time = 30 sec. Let the length of bridge be x metres. Then, 130 + x = 25 30 2 2(130 + x ) = 750 x = 245 m. Video Explanation: https://youtu.be/M_d8WufJWKc"
+  },
+  {
+    "qid": "467",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+    "options": {
+      "A": "1 : 3",
+      "B": "3 : 2",
+      "C": "3 : 4",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Let the speeds of the two trains be x m/sec and y m/sec respectively. Then, length of the first train = 27 x metres, and length of the second train = 17 y metres. 27 x + 17 y = 23 x + y 27 x + 17 y = 23 x + 23 y 4 x = 6 y x = 3 . y 2"
+  },
+  {
+    "qid": "458",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+    "options": {
+      "A": "120 m",
+      "B": "240 m",
+      "C": "300 m",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Speed = 54 x 5 m/sec = 15 m/sec. 18 Length of the train = (15 x 20)m = 300 m. Let the length of the platform be x metres. Then, x + 300 = 15 36 x + 300 = 540 x = 240 m."
+  },
+  {
+    "qid": "455",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
+    "options": {
+      "A": "65 sec",
+      "B": "89 sec",
+      "C": "100 sec",
+      "D": "150 sec"
+    },
+    "answer": "B",
+    "explanation": "Speed = 240 m/sec = 10 m/sec. 24 Required time = 240 + 650 sec = 89 sec. 10"
+  },
+  {
+    "qid": "464",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is:",
+    "options": {
+      "A": "50 m",
+      "B": "72 m",
+      "C": "80 m",
+      "D": "82 m"
+    },
+    "answer": "A",
+    "explanation": "Let the length of each train be x metres. Then, distance covered = 2 x metres. Relative speed = (46 - 36) km/hr = 10 x 5 m/sec 18 = 25 m/sec 9 2 x = 25 36 9 2 x = 100 x = 50."
+  },
+  {
+    "qid": "453",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?",
+    "options": {
+      "A": "40 sec",
+      "B": "42 sec",
+      "C": "45 sec",
+      "D": "48 sec"
+    },
+    "answer": "A",
+    "explanation": "Formula for converting from km/hr to m/s: X km/hr = X x 5 m/s. 18 Therefore, Speed = 45 x 5 m/sec = 25 m/sec. 18 2 Total distance to be covered = (360 + 140) m = 500 m. Formula for finding Time = Distance Speed Required time = 500 x 2 sec = 40 sec. 25"
+  },
+  {
+    "qid": "462",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains are moving in opposite directions @ 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:",
+    "options": {
+      "A": "36",
+      "B": "45",
+      "C": "48",
+      "D": "49"
+    },
+    "answer": "C",
+    "explanation": "Relative speed = (60+ 90) km/hr = 150 x 5 m/sec 18 = 125 m/sec. 3 Distance covered = (1.10 + 0.9) km = 2 km = 2000 m. Required time = 2000 x 3 sec = 48 sec. 125"
+  },
+  {
+    "qid": "459",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A jogger running at 9 kmph alongside a railway track in 240 metres ahead of the engine of a 120 metres long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?",
+    "options": {
+      "A": "3.6 sec",
+      "B": "18 sec",
+      "C": "36 sec",
+      "D": "72 sec"
+    },
+    "answer": "C",
+    "explanation": "Speed of train relative to jogger = (45 - 9) km/hr = 36 km/hr. = 36 x 5 m/sec 18 = 10 m/sec. Distance to be covered = (240 + 120) m = 360 m. Time taken = 360 sec = 36 sec. 10"
+  },
+  {
+    "qid": "465",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?",
+    "options": {
+      "A": "230 m",
+      "B": "240 m",
+      "C": "260 m",
+      "D": "320 m",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "Relative speed = (120 + 80) km/hr = 200 x 5 m/sec 18 = 500 m/sec. 9 Let the length of the other train be x metres. Then, x + 270 = 500 9 9 x + 270 = 500 x = 230."
+  },
+  {
+    "qid": "457",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?",
+    "options": {
+      "A": "230 m",
+      "B": "240 m",
+      "C": "260 m",
+      "D": "270 m"
+    },
+    "answer": "D",
+    "explanation": "Speed = 72 x 5 m/sec = 20 m/sec. 18 Time = 26 sec. Let the length of the train be x metres. Then, x + 250 = 20 26 x + 250 = 520 x = 270."
+  },
+  {
+    "qid": "466",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains, each 100 m long, moving in opposite directions, cross each other in 8 seconds. If one is moving twice as fast the other, then the speed of the faster train is:",
+    "options": {
+      "A": "30 km/hr",
+      "B": "45 km/hr",
+      "C": "60 km/hr",
+      "D": "75 km/hr"
+    },
+    "answer": "C",
+    "explanation": "Let the speed of the slower train be x m/sec. Then, speed of the faster train = 2 x m/sec. Relative speed = ( x + 2 x ) m/sec = 3 x m/sec. (100 + 100) = 3 x 8 24 x = 200 x = 25 . 3 So, speed of the faster train = 50 m/sec 3 = 50 x 18 km/hr 3 5 = 60 km/hr."
+  },
+  {
+    "qid": "461",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite directions on parallel tracks. The time (in seconds) which they take to cross each other, is:",
+    "options": {
+      "A": "9",
+      "B": "9.6",
+      "C": "10",
+      "D": "10.8"
+    },
+    "answer": "D",
+    "explanation": "Relative speed = (60 + 40) km/hr = 100 x 5 m/sec = 250 m/sec. 18 9 Distance covered in crossing each other = (140 + 160) m = 300 m. Required time = 300 x 9 sec = 54 sec = 10.8 sec. 250 5"
+  },
+  {
+    "qid": "460",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?",
+    "options": {
+      "A": "5 sec",
+      "B": "6 sec",
+      "C": "7 sec",
+      "D": "10 sec"
+    },
+    "answer": "B",
+    "explanation": "Speed of train relative to man = (60 + 6) km/hr = 66 km/hr. = 66 x 5 m/sec 18 = 55 m/sec. 3 Time taken to pass the man = 110 x 3 sec = 6 sec. 55"
+  },
+  {
+    "qid": "798",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train travelling at a speed of 75 mph enters a tunnel 3 miles long. The train is mile long. How long does it take for the train to pass through the tunnel from the moment the front enters to the moment the rear emerges?",
+    "options": {
+      "A": "2.5 min",
+      "B": "3 min",
+      "C": "3.2 min",
+      "D": "3.5 min"
+    },
+    "answer": "B",
+    "explanation": "Total distance covered = 7 + 1 miles 2 4 = 15 miles. 4 Time taken = 15 hrs 4 x 75 = 1 hrs 20 = 1 x 60 min. 20 = 3 min."
+  },
+  {
+    "qid": "799",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train 800 metres long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, then the length of the tunnel (in meters) is:",
+    "options": {
+      "A": "130",
+      "B": "360",
+      "C": "500",
+      "D": "540"
+    },
+    "answer": "C",
+    "explanation": "Speed = 78 x 5 m/sec = 65 m/sec. 18 3 Time = 1 minute = 60 seconds. Let the length of the tunnel be x metres. Then, 800 + x = 65 60 3 3(800 + x ) = 3900 x = 500."
+  },
+  {
+    "qid": "800",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A 300 metre long train crosses a platform in 39 seconds while it crosses a signal pole in 18 seconds. What is the length of the platform?",
+    "options": {
+      "A": "320 m",
+      "B": "350 m",
+      "C": "650 m",
+      "D": "Data inadequate"
+    },
+    "answer": "B",
+    "explanation": "Speed = 300 m/sec = 50 m/sec. 18 3 Let the length of the platform be x metres. Then, x + 300 = 50 39 3 3( x + 300) = 1950 x = 350 m."
+  },
+  {
+    "qid": "801",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is:",
+    "options": {
+      "A": "50 m",
+      "B": "150 m",
+      "C": "200 m",
+      "D": "Data inadequate"
+    },
+    "answer": "B",
+    "explanation": "Let the length of the train be x metres and its speed by y m/sec. Then, x = 15 y = x . y 15 x + 100 = x 25 15 15( x + 100) = 25 x 15 x + 1500 = 25 x 1500 = 10 x x = 150 m."
+  },
+  {
+    "qid": "802",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?",
+    "options": {
+      "A": "69.5 km/hr",
+      "B": "70 km/hr",
+      "C": "79 km/hr",
+      "D": "79.2 km/hr"
+    },
+    "answer": "D",
+    "explanation": "Let the length of the train be x metres and its speed by y m/sec. Then, x = 8 x = 8 y y Now, x + 264 = y 20 8 y + 264 = 20 y y = 22. Speed = 22 m/sec = 22 x 18 km/hr = 79.2 km/hr. 5"
+  },
+  {
+    "qid": "803",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "How many seconds will a 500 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+    "options": {
+      "A": "25",
+      "B": "30",
+      "C": "40",
+      "D": "45"
+    },
+    "answer": "B",
+    "explanation": "Speed of the train relative to man = (63 - 3) km/hr = 60 km/hr = 60 x 5 m/sec 18 = 50 m/sec. 3 Time taken to pass the man = 500 x 3 sec 50 = 30 sec."
+  },
+  {
+    "qid": "804",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two goods train each 500 m long, are running in opposite directions on parallel tracks. Their speeds are 45 km/hr and 30 km/hr respectively. Find the time taken by the slower train to pass the driver of the faster one.",
+    "options": {
+      "A": "12 sec",
+      "B": "24 sec",
+      "C": "48 sec",
+      "D": "60 sec"
+    },
+    "answer": "B",
+    "explanation": "Relative speed = = (45 + 30) km/hr = 75 x 5 m/sec 18 = 125 m/sec. 6 We have to find the time taken by the slower train to pass the DRIVER of the faster train and not the complete train. So, distance covered = Length of the slower train. Therefore, Distance covered = 500 m. Required time = 500 x 6 = 24 sec. 125"
+  },
+  {
+    "qid": "805",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains are running in opposite directions with the same speed. If the length of each train is 120 metres and they cross each other in 12 seconds, then the speed of each train (in km/hr) is:",
+    "options": {
+      "A": "10",
+      "B": "18",
+      "C": "36",
+      "D": "72"
+    },
+    "answer": "C",
+    "explanation": "Let the speed of each train be x m/sec. Then, relative speed of the two trains = 2 x m/sec. So, 2 x = (120 + 120) 12 2 x = 20 x = 10. Speed of  each train = 10 m/sec = 10 x 18 km/hr = 36 km/hr. 5"
+  },
+  {
+    "qid": "806",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains of equal lengths take 10 seconds and 15 seconds respectively to cross a telegraph post. If the length of each train be 120 metres, in what time (in seconds) will they cross each other travelling in opposite direction?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "20"
+    },
+    "answer": "B",
+    "explanation": "Speed of the first train = 120 m/sec = 12 m/sec. 10 Speed of the second train = 120 m/sec = 8 m/sec. 15 Relative speed = (12 + 8) = 20 m/sec. Required time = (120 + 120) sec = 12 sec. 20"
+  },
+  {
+    "qid": "807",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train 108 m long moving at a speed of 50 km/hr crosses a train 112 m long coming from opposite direction in 6 seconds. The speed of the second train is:",
+    "options": {
+      "A": "48 km/hr",
+      "B": "54 km/hr",
+      "C": "66 km/hr",
+      "D": "82 km/hr"
+    },
+    "answer": "D",
+    "explanation": "Let the speed of the second train be x km/hr. Relative speed = ( x + 50) km/hr = ( x + 50) x 5 m/sec 18 = 250 + 5 x m/sec. 18 Distance covered = (108 + 112) = 220 m. 220 = 6 250 + 5 x 18 250 + 5 x = 660 x = 82 km/hr."
+  },
+  {
+    "qid": "808",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains are running at 40 km/hr and 20 km/hr respectively in the same direction. Fast train completely passes a man sitting in the slower train in 5 seconds. What is the length of the fast train?",
+    "options": {
+      "A": "23 m",
+      "B": "23 2 m 9",
+      "C": "27 7 m 9",
+      "D": "29 m"
+    },
+    "answer": "C",
+    "explanation": "Relative speed = (40 - 20) km/hr = 20 x 5 m/sec = 50 m/sec. 18 9 Length of faster train = 50 x 5 m = 250 m = 27 7 m. 9 9 9"
+  },
+  {
+    "qid": "809",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train overtakes two persons who are walking in the same direction in which the train is going, at the rate of 2 kmph and 4 kmph and passes them completely in 9 and 10 seconds respectively. The length of the train is:",
+    "options": {
+      "A": "45 m",
+      "B": "50 m",
+      "C": "54 m",
+      "D": "72 m"
+    },
+    "answer": "B",
+    "explanation": "2 kmph = 2 x 5 m/sec = 5 m/sec. 18 9 4 kmph = 4 x 5 m/sec = 10 m/sec. 18 9 Let the length of the train be x metres and its speed by y m/sec. Then, x = 9 and x = 10. y - 5 9 y - 10 9 9 y - 5 = x and 10(9 y - 10) = 9 x 9 y - x = 5 and 90 y - 9 x = 100. On solving, we get: x = 50. Length of the train is 50 m."
+  },
+  {
+    "qid": "810",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr. The other one walks at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train if both the persons are walking in the same direction as the train?",
+    "options": {
+      "A": "66 km/hr",
+      "B": "72 km/hr",
+      "C": "78 km/hr",
+      "D": "81 km/hr"
+    },
+    "answer": "D",
+    "explanation": "4.5 km/hr = 4.5 x 5 m/sec = 5 m/sec = 1.25 m/sec, and 18 4 5.4 km/hr = 5.4 x 5 m/sec = 3 m/sec = 1.5 m/sec. 18 2 Let the speed of the train be x m/sec. Then, ( x - 1.25) x 8.4 = ( x - 1.5) x 8.5 8.4 x - 10.5 = 8.5 x - 12.75 0.1 x = 2.25 x = 22.5 Speed of the train = 22.5 x 18 km/hr = 81 km/hr. 5"
+  },
+  {
+    "qid": "811",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "A train travelling at 48 kmph completely crosses another train having half its length and travelling in opposite direction at 42 kmph, in 12 seconds. It also passes a railway platform in 45 seconds. The length of the platform is",
+    "options": {
+      "A": "400 m",
+      "B": "450 m",
+      "C": "560 m",
+      "D": "600 m"
+    },
+    "answer": "A",
+    "explanation": "Let the length of the first train be x metres. Then, the length of the second train is x metres. 2 Relative speed = (48 + 42) kmph = 90 x 5 m/sec = 25 m/sec. 18 [ x + ( x /2)] = 12 or 3 x = 300     or x = 200. 25 2 Length of first train = 200 m. Let the length of platform be y metres. Speed of the first train = 48 x 5 m/sec = 40 m/sec. 18 3 (200 + y ) x 3 = 45 40 600 + 3 y = 1800 y = 400 m."
+  },
+  {
+    "qid": "812",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 a.m. and travels towards B at 20 kmph. Another train starts from B at 8 a.m. and travels towards A at a speed of 25 kmph. At what time will they meet?",
+    "options": {
+      "A": "9 a.m.",
+      "B": "10 a.m.",
+      "C": "10.30 a.m.",
+      "D": "11 a.m."
+    },
+    "answer": "B",
+    "explanation": "Suppose they meet x hours after 7 a.m. Distance covered by A in x hours = 20 x km. Distance covered by B in ( x - 1) hours = 25( x - 1) km. 20 x + 25( x - 1) = 110 45 x = 135 x = 3. So, they meet at 10 a.m."
+  },
+  {
+    "qid": "813",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two, trains, one from Howrah to Patna and the other from Patna to Howrah, start simultaneously. After they meet, the trains reach their destinations after 9 hours and 16 hours respectively. The ratio of their speeds is:",
+    "options": {
+      "A": "2 : 3",
+      "B": "4 : 3",
+      "C": "6 : 7",
+      "D": "9 : 16"
+    },
+    "answer": "B",
+    "explanation": "Let us name the trains as A and B. Then, (A's speed) : (B's speed) = b : a = 16 : 9 = 4 : 3."
+  },
+  {
+    "qid": "434",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+    "options": {
+      "A": "3.6",
+      "B": "7.2",
+      "C": "8.4",
+      "D": "10"
+    },
+    "answer": "B",
+    "explanation": "Speed = 600 m/sec. 5 x 60 = 2 m/sec. Converting m/sec to km/hr (see important formulas section) = 2 x 18 km/hr 5 = 7.2 km/hr."
+  },
+  {
+    "qid": "436",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 hours, it must travel at a speed of:",
+    "options": {
+      "A": "300 kmph",
+      "B": "360 kmph",
+      "C": "600 kmph",
+      "D": "720 kmph"
+    },
+    "answer": "D",
+    "explanation": "Distance = (240 x 5) = 1200 km. Speed = Distance/Time Speed = 1200/(5/3) km/hr.     [We can write 1 hours as 5/3 hours] Required speed = 1200 x 3 km/hr = 720 km/hr. 5"
+  },
+  {
+    "qid": "446",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
+    "options": {
+      "A": "50 km",
+      "B": "56 km",
+      "C": "70 km",
+      "D": "80 km"
+    },
+    "answer": "A",
+    "explanation": "Let the actual distance travelled be x km. Then, x = x + 20 10 14 14 x = 10 x + 200 4 x = 200 x = 50 km."
+  },
+  {
+    "qid": "443",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:",
+    "options": {
+      "A": "100 kmph",
+      "B": "110 kmph",
+      "C": "120 kmph",
+      "D": "130 kmph"
+    },
+    "answer": "C",
+    "explanation": "Let speed of the car be x kmph. Then, speed of the train = 150 x = 3 x kmph. 100 2 75 - 75 = 125 x (3/2) x 10 x 60 75 - 50 = 5 x x 24 x = 25 x24 = 120 kmph. 5"
+  },
+  {
+    "qid": "444",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "12",
+      "D": "20"
+    },
+    "answer": "B",
+    "explanation": "Due to stoppages, it covers 9 km less. Time taken to cover 9 km = 9 x 60 min = 10 min. 54"
+  },
+  {
+    "qid": "447",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "In a flight of 600 km, an aircraft was slowed down due to bad weather. Its average speed for the trip was reduced by 200 km/hr and the time of flight increased by 30 minutes. The duration of the flight is:",
+    "options": {
+      "A": "1 hour",
+      "B": "2 hours",
+      "C": "3 hours",
+      "D": "4 hours"
+    },
+    "answer": "A",
+    "explanation": "Let the duration of the flight be x hours. Then, 600 - 600 = 200 x x + (1/2) 600 - 1200 = 200 x 2 x + 1 x (2 x + 1) = 3 2 x 2 + x - 3 = 0 (2 x + 3)( x - 1) = 0 x = 1 hr.      [neglecting the -ve value of x ]"
+  },
+  {
+    "qid": "437",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "A man complete a journey in 10 hours. He travels first half of the journey at the rate of 21 km/hr and second half at the rate of 24 km/hr. Find the total journey in km.",
+    "options": {
+      "A": "220 km",
+      "B": "224 km",
+      "C": "230 km",
+      "D": "234 km"
+    },
+    "answer": "B",
+    "explanation": "(1/2) x + (1/2) x = 10 21 24 x + x = 20 21 24 15 x = 168 x 20 x = 168 x 20 = 224 km. 15"
+  },
+  {
+    "qid": "435",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "The ratio between the speeds of two trains is 7 : 8. If the second train runs 400 km in 4 hours, then the speed of the first train is:",
+    "options": {
+      "A": "70 km/hr",
+      "B": "75 km/hr",
+      "C": "84 km/hr",
+      "D": "87.5 km/hr"
+    },
+    "answer": "D",
+    "explanation": "Let the speed of two trains be 7 x and 8 x km/hr. Then, 8 x = 400 = 100 4 x = 100 = 12.5 8 Speed of first train = (7 x 12.5) km/hr = 87.5 km/hr."
+  },
+  {
+    "qid": "439",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "A man on tour travels first 160 km at 64 km/hr and the next 160 km at 80 km/hr. The average speed for the first 320 km of the tour is:",
+    "options": {
+      "A": "35.55 km/hr",
+      "B": "36 km/hr",
+      "C": "71.11 km/hr",
+      "D": "71 km/hr"
+    },
+    "answer": "C",
+    "explanation": "Total time taken = 160 + 160 hrs. = 9 hrs. 64 80 2 Average speed = 320 x 2 km/hr = 71.11 km/hr. 9"
+  },
+  {
+    "qid": "440",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "A car travelling with of its actual speed covers 42 km in 1 hr 40 min 48 sec. Find the actual speed of the car.",
+    "options": {
+      "A": "17 6 km/hr 7",
+      "B": "25 km/hr",
+      "C": "30 km/hr",
+      "D": "35 km/hr"
+    },
+    "answer": "D",
+    "explanation": "Time taken = 1 hr 40 min 48 sec = 1 hr 40 4 min = 1 51 hrs = 126 hrs. 5 75 75 Let the actual speed be x km/hr. Then, 5 x x 126 = 42 7 75 x = 42 x 7 x 75 = 35 km/hr. 5 x 126"
+  },
+  {
+    "qid": "445",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "In covering a distance of 30 km, Abhay takes 2 hours more than Sameer. If Abhay doubles his speed, then he would take 1 hour less than Sameer. Abhay's speed is:",
+    "options": {
+      "A": "5 kmph",
+      "B": "6 kmph",
+      "C": "6.25 kmph",
+      "D": "7.5 kmph"
+    },
+    "answer": "A",
+    "explanation": "Let Abhay's speed be x km/hr. Then, 30 - 30 = 3 x 2 x 6 x = 30 x = 5 km/hr."
+  },
+  {
+    "qid": "441",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "Robert is travelling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 kmph, he will reach there at 12 noon if he travels at 15 kmph. At what speed must he travel to reach A at 1 P.M.?",
+    "options": {
+      "A": "8 kmph",
+      "B": "11 kmph",
+      "C": "12 kmph",
+      "D": "14 kmph"
+    },
+    "answer": "C",
+    "explanation": "Let the distance travelled by x km. Then, x - x = 2 10 15 3 x - 2 x = 60 x = 60 km. Time taken to travel 60 km at 10 km/hr = 60 hrs = 6 hrs. 10 So, Robert started 6 hours before 2 P.M. i.e., at 8 A.M. Required speed = 60 kmph. = 12 kmph. 5"
+  },
+  {
+    "qid": "448",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "It takes eight hours for a 600 km journey, if 120 km is done by train and the rest by car. It takes 20 minutes more, if 200 km is done by train and the rest by car. The ratio of the speed of the train to that of the cars is:",
+    "options": {
+      "A": "2 : 3",
+      "B": "3 : 2",
+      "C": "3 : 4",
+      "D": "4 : 3"
+    },
+    "answer": "C",
+    "explanation": "Let the speed of the train be x km/hr and that of the car be y km/hr. Then, 120 + 480 = 8 1 + 4 = 1 ....(i) x y x y 15 And, 200 + 400 = 25 1 + 2 = 1 ....(ii) x y 3 x y 24 Solving (i) and  (ii), we get: x = 60 and y = 80. Ratio of speeds = 60 : 80 = 3 : 4."
+  },
+  {
+    "qid": "438",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "A farmer travelled a distance of 61 km in 9 hours. He travelled partly on foot @ 4 km/hr and partly on bicycle @ 9 km/hr. The distance travelled on foot is:",
+    "options": {
+      "A": "14 km",
+      "B": "15 km",
+      "C": "16 km",
+      "D": "17 km"
+    },
+    "answer": "C",
+    "explanation": "Let the distance travelled on foot be x km. Then, distance travelled on bicycle = (61 - x ) km. So, x + (61 - x ) = 9 4 9 9 x + 4(61 - x ) = 9 x 36 5 x = 80 x = 16 km."
+  },
+  {
+    "qid": "442",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "A man covered a certain distance at some speed. Had he moved 3 kmph faster, he would have taken 40 minutes less. If he had moved 2 kmph slower, he would have taken 40 minutes more. The distance (in km) is:",
+    "options": {
+      "A": "35",
+      "B": "36 2 3",
+      "C": "37 1 2",
+      "D": "40"
+    },
+    "answer": "D",
+    "explanation": "Let distance = x km and usual rate = y kmph. Then, x - x = 40 2 y ( y + 3) = 9 x ....(i) y y + 3 60 And, x - x = 40 y ( y - 2) = 3 x ....(ii) y -2 y 60 On dividing (i) by (ii), we get: x = 40."
+  },
+  {
+    "qid": "736",
+    "main_tag": "aptitude",
+    "sub_tag": "height-and-distance",
+    "question": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is:",
+    "options": {
+      "A": "173 m",
+      "B": "200 m",
+      "C": "273 m",
+      "D": "300 m"
+    },
+    "answer": "C",
+    "explanation": "Let AB be the lighthouse and C and D be the positions of the ships. Then, AB = 100 m, ACB = 30° and ADB = 45°. AB = tan 30° = 1 AC = AB x 3 = 100 3 m. AC 3 AB = tan 45° = 1 AD = AB = 100 m. AD CD = (AC + AD) = (100 3 + 100) m = 100( 3 + 1) = (100 x 2.73) m = 273 m."
+  },
+  {
+    "qid": "737",
+    "main_tag": "aptitude",
+    "sub_tag": "height-and-distance",
+    "question": "A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30° with the man's eye. The man walks some distance towards the tower to watch its top and the angle of the elevation becomes 60°. What is the distance between the base of the tower and the point P?",
+    "options": {
+      "A": "4 3 units",
+      "B": "8 units",
+      "C": "12 units",
+      "D": "Data inadequate",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "One of AB, AD and CD must have given. So, the data is inadequate."
+  },
+  {
+    "qid": "734",
+    "main_tag": "aptitude",
+    "sub_tag": "height-and-distance",
+    "question": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:",
+    "options": {
+      "A": "2.3 m",
+      "B": "4.6 m",
+      "C": "7.8 m",
+      "D": "9.2 m"
+    },
+    "answer": "D",
+    "explanation": "Let AB be the wall and BC be the ladder. Then, ACB = 60° and AC = 4.6 m. AC = cos 60° = 1 BC 2 BC = 2 x AC = (2 x 4.6) m = 9.2 m."
+  },
+  {
+    "qid": "735",
+    "main_tag": "aptitude",
+    "sub_tag": "height-and-distance",
+    "question": "An observer 1.6 m tall is 20 3 away from a tower. The angle of elevation from his eye to the top of the tower is 30°. The height of the tower is:",
+    "options": {
+      "A": "21.6 m",
+      "B": "23.2 m",
+      "C": "24.72 m",
+      "D": "None of these"
+    },
+    "answer": "A",
+    "explanation": "Let AB be the observer and CD be the tower. Draw BE CD. Then, CE = AB = 1.6 m, BE = AC = 20 3 m. DE = tan 30° = 1 BE 3 DE = 20 3 m = 20 m. 3 CD = CE + DE = (1.6 + 20) m = 21.6 m."
+  },
+  {
+    "qid": "733",
+    "main_tag": "aptitude",
+    "sub_tag": "height-and-distance",
+    "question": "From a point P on a level ground, the angle of elevation of the top tower is 30°. If the tower is 100 m high, the distance of point P from the foot of the tower is:",
+    "options": {
+      "A": "149 m",
+      "B": "156 m",
+      "C": "173 m",
+      "D": "200 m"
+    },
+    "answer": "C",
+    "explanation": "Let AB be the tower. Then, APB = 30° and AB = 100 m. AB = tan 30° = 1 AP 3 AP = (AB x 3 ) m = 100 3 m = (100 x 1.73) m = 173 m."
+  },
+  {
+    "qid": "732",
+    "main_tag": "aptitude",
+    "sub_tag": "height-and-distance",
+    "question": "The angle of elevation of the sun, when the length of the shadow of a tree 3 times the height of the tree, is:",
+    "options": {
+      "A": "30°",
+      "B": "45°",
+      "C": "60°",
+      "D": "90°"
+    },
+    "answer": "A",
+    "explanation": "Let AB be the tree and AC be its shadow. Let ACB = . Then, AC = 3 cot = 3 AB = 30°."
+  },
+  {
+    "qid": "821",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is :",
+    "options": {
+      "A": "1 4",
+      "B": "1 10",
+      "C": "7 15",
+      "D": "8 15"
+    },
+    "answer": "D",
+    "explanation": "A's 1 day's work = 1 ; 15 B's 1 day's work = 1 ; 20 (A + B)'s 1 day's work = 1 + 1 = 7 . 15 20 60 (A + B)'s 4 day's work = 7 x 4 = 7 . 60 15 Therefore, Remaining work = 1 - 7 = 8 . 15 15"
+  },
+  {
+    "qid": "814",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in:",
+    "options": {
+      "A": "9 1 days 5",
+      "B": "9 2 days 5",
+      "C": "9 3 days 5",
+      "D": "10"
+    },
+    "answer": "C",
+    "explanation": "(A + B + C)'s 1 day's work = 1 , 4 A's 1 day's work = 1 , 16 B's 1 day's work = 1 . 12 C's 1 day's work = 1 - 1 + 1 = 1 - 7 = 5 . 4 16 12 4 48 48 So, C alone can do the work in 48 = 9 3 days. 5 5"
+  },
+  {
+    "qid": "406",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+    "options": {
+      "A": "12 days",
+      "B": "15 days",
+      "C": "16 days",
+      "D": "18 days"
+    },
+    "answer": "B",
+    "explanation": "A's 2 day's work = 1 x 2 = 1 . 20 10 (A + B + C)'s 1 day's work = 1 + 1 + 1 = 6 = 1 . 20 30 60 60 10 Work done in 3 days = 1 + 1 = 1 . 10 10 5 Now, 1 work is done in 3 days. 5 Whole work will be done in (3 x 5) = 15 days."
+  },
+  {
+    "qid": "400",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:",
+    "options": {
+      "A": "20 days",
+      "B": "22 1 days 2",
+      "C": "25 days",
+      "D": "30 days"
+    },
+    "answer": "B",
+    "explanation": "Ratio of times taken by A and B = 1 : 3. The time difference is (3 - 1) 2 days while B take 3 days and A takes 1 day. If difference of time is 2 days, B takes 3 days. If difference of time is 60 days, B takes 3 x 60 = 90 days. 2 So, A takes 30 days to do the work. A's 1 day's work = 1 30 B's 1 day's work = 1 90 (A + B)'s 1 day's work = 1 + 1 = 4 = 2 30 90 90 45 A and B together can do the work in 45 = 22 1 days. 2 2"
+  },
+  {
+    "qid": "405",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+    "options": {
+      "A": "Rs. 375",
+      "B": "Rs. 400",
+      "C": "Rs. 600",
+      "D": "Rs. 800"
+    },
+    "answer": "B",
+    "explanation": "C's 1 day's work = 1 - 1 + 1 = 1 - 7 = 1 . 3 6 8 3 24 24 A's wages : B's wages : C's wages = 1 : 1 : 1 = 4 : 3 : 1. 6 8 24 C's share (for 3 days) = Rs. 3 x 1 x 3200 = Rs. 400. 24"
+  },
+  {
+    "qid": "410",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be:",
+    "options": {
+      "A": "4 days",
+      "B": "5 days",
+      "C": "6 days",
+      "D": "7 days"
+    },
+    "answer": "A",
+    "explanation": "Let 1 man's 1 day's work = x and 1 boy's 1 day's work = y . Then, 6 x + 8 y = 1 and 26 x + 48 y = 1 . 10 2 Solving these two equations, we get : x = 1 and y = 1 . 100 200 (15 men + 20 boy)'s 1 day's work = 15 + 20 = 1 . 100 200 4 15 men and 20 boys can do the work in 4 days."
+  },
+  {
+    "qid": "817",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A can do a piece of work in 4 hours; B and C together can do it in 3 hours, while A and C together can do it in 2 hours. How long will B alone take to do it?",
+    "options": {
+      "A": "8 hours",
+      "B": "10 hours",
+      "C": "12 hours",
+      "D": "24 hours"
+    },
+    "answer": "C",
+    "explanation": "A's 1 hour's work = 1 ; 4 (B + C)'s 1 hour's work = 1 ; 3 (A + C)'s 1 hour's work = 1 . 2 (A + B + C)'s 1 hour's work = 1 + 1 = 7 . 4 3 12 B's 1 hour's work = 7 - 1 = 1 . 12 2 12 B alone will take 12 hours to do the work."
+  },
+  {
+    "qid": "399",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A can do a certain work in the same time in which B and C together can do it. If A and B together could do it in 10 days and C alone in 50 days, then B alone could do it in:",
+    "options": {
+      "A": "15 days",
+      "B": "20 days",
+      "C": "25 days",
+      "D": "30 days"
+    },
+    "answer": "C",
+    "explanation": "(A + B)'s 1 day's work = 1 10 C's 1 day's work = 1 50 (A + B + C)'s 1 day's work = 1 + 1 = 6 = 3 . .... (i) 10 50 50 25 A's 1 day's work = (B + C)'s 1 day's work .... (ii) From (i) and (ii), we get: 2 x (A's 1 day's work) = 3 25 A's 1 day's work = 3 . 50 B's 1 day's work 1 - 3 = 2 = 1 . 10 50 50 25 So, B alone could do the work in 25 days."
+  },
+  {
+    "qid": "828",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?",
+    "options": {
+      "A": "23 days",
+      "B": "37 days",
+      "C": "37",
+      "D": "40 days"
+    },
+    "answer": "C",
+    "explanation": "Whole work is done by A in 20 x 5 = 25 days. 4 Now, 1 - 4 i.e., 1 work is done by A and B in 3 days. 5 5 Whole work will be done by A and B in (3 x 5) = 15 days. A's 1 day's work = 1 , (A + B)'s 1 day's work = 1 . 25 15 B's 1 day's work = 1 - 1 = 4 = 2 . 15 25 150 75 So, B alone would do the work in 75 = 37 1 days. 2 2"
+  },
+  {
+    "qid": "824",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete work. Approximately at what time will the work (to print one lakh books) be finished ?",
+    "options": {
+      "A": "11:30 A.M.",
+      "B": "12 noon",
+      "C": "12:30 P.M.",
+      "D": "1:00 P.M."
+    },
+    "answer": "D",
+    "explanation": "(P + Q + R)'s 1 hour's work = 1 + 1 + 1 = 37 . 8 10 12 120 Work done by P, Q and R in 2 hours = 37 x 2 = 37 . 120 60 Remaining work = 1 - 37 = 23 . 60 60 (Q + R)'s 1 hour's work = 1 + 1 = 11 . 10 12 60 Now, 11 work is done by Q and R in 1 hour. 60 So, 23 work will be done by Q and R in 60 x 23 = 23 hours 2 hours. 60 11 60 11 So, the work will be finished approximately 2 hours after 11 A.M., i.e., around 1 P.M."
+  },
+  {
+    "qid": "822",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?",
+    "options": {
+      "A": "5",
+      "B": "5 1 2",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "C",
+    "explanation": "B's 10 day's work = 1 x 10 = 2 . 15 3 Remaining work = 1 - 2 = 1 . 3 3 Now, 1 work is done by A in 1 day. 18 1 work is done by A in 18 x 1 = 6 days. 3 3"
+  },
+  {
+    "qid": "409",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?",
+    "options": {
+      "A": "35",
+      "B": "40",
+      "C": "45",
+      "D": "50"
+    },
+    "answer": "B",
+    "explanation": "Let 1 man's 1 day's work = x and 1 woman's 1 day's work = y . Then, 4 x + 6 y = 1 and 3 x + 7 y = 1 . 8 10 Solving the two equations, we get: x = 11 , y = 1 400 400 1 woman's 1 day's work = 1 . 400 10 women's 1 day's work = 1 x 10 = 1 . 400 40 Hence, 10 women will complete the work in 40 days."
+  },
+  {
+    "qid": "826",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A and B can together finish a work 30 days. They worked together for 20 days and then B left. After another 20 days, A finished the remaining work. In how many days A alone can finish the work?",
+    "options": {
+      "A": "40",
+      "B": "50",
+      "C": "54",
+      "D": "60"
+    },
+    "answer": "D",
+    "explanation": "(A + B)'s 20 day's work = 1 x 20 = 2 . 30 3 Remaining work = 1 - 2 = 1 . 3 3 Now, 1 work is done by A in 20 days. 3 Therefore, the whole work will be done by A in (20 x 3) = 60 days."
+  },
+  {
+    "qid": "398",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "P can complete a work in 12 days working 8 hours a day. Q can complete the same work in 8 days working 10 hours a day. If both P and Q work together, working 8 hours a day, in how many days can they complete the work?",
+    "options": {
+      "A": "5 5 11",
+      "B": "5 6 11",
+      "C": "6 5 11",
+      "D": "6 6 11"
+    },
+    "answer": "A",
+    "explanation": "P can complete the work in (12 x 8) hrs. = 96 hrs. Q can complete the work in (8 x 10) hrs. = 80 hrs. P's1 hour's work = 1 and Q's 1 hour's work = 1 . 96 80 (P + Q)'s 1 hour's work = 1 + 1 = 11 . 96 80 480 So, both P and Q will finish the work in 480 hrs. 11 Number of days of 8 hours each = 480 x 1 = 60 days = 5 5 days. 11 8 11 11"
+  },
+  {
+    "qid": "408",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "10 women can complete a work in 7 days and 10 children take 14 days to complete the work. How many days will 5 women and 10 children take to complete the work?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "C",
+    "explanation": "1 woman's 1 day's work = 1 70 1 child's 1 day's work = 1 140 (5 women + 10 children)'s day's work = 5 + 10 = 1 + 1 = 1 70 140 14 14 7 5 women and 10 children will complete the work in 7 days."
+  },
+  {
+    "qid": "403",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "X and Y can do a piece of work in 20 days and 12 days respectively. X started the work alone and then after 4 days Y joined him till the completion of the work. How long did the work last?",
+    "options": {
+      "A": "6 days",
+      "B": "10 days",
+      "C": "15 days",
+      "D": "20 days"
+    },
+    "answer": "B",
+    "explanation": "Work done by X in 4 days = 1 x 4 = 1 . 20 5 Remaining work = 1 - 1 = 4 . 5 5 (X + Y)'s 1 day's work = 1 + 1 = 8 = 2 . 20 12 60 15 Now, 2 work is done by X and Y in 1 day. 15 So, 4 work will be done by X and Y in 15 x 4 = 6 days. 5 2 5 Hence, total time taken = (6 + 4) days = 10 days."
+  },
+  {
+    "qid": "820",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A is 30% more efficient than B. How much time will they, working together, take to complete a job which A alone could have done in 23 days?",
+    "options": {
+      "A": "11 days",
+      "B": "13 days",
+      "C": "20 3 days 17",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Ratio of times taken by A and B = 100 : 130 = 10 : 13. Suppose B takes x days to do the work. Then, 10 : 13 :: 23 : x x = 23 x 13 x = 299 . 10 10 A's 1 day's work = 1 ; 23 B's 1 day's work = 10 . 299 (A + B)'s 1 day's work = 1 + 10 = 23 = 1 . 23 299 299 13 Therefore, A and B together can complete the work in 13 days."
+  },
+  {
+    "qid": "815",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "Ravi and Kumar are working on an assignment. Ravi takes 6 hours to type 32 pages on a computer, while Kumar takes 5 hours to type 40 pages. How much time will they take, working together on two different computers to type an assignment of 110 pages?",
+    "options": {
+      "A": "7 hours 30 minutes",
+      "B": "8 hours",
+      "C": "8 hours 15 minutes",
+      "D": "8 hours 25 minutes"
+    },
+    "answer": "C",
+    "explanation": "Number of pages typed by Ravi in 1 hour = 32 = 16 . 6 3 Number of pages typed by Kumar in 1 hour = 40 = 8. 5 Number of pages typed by both in 1 hour = 16 + 8 = 40 . 3 3 Time taken by both to type 110 pages = 110 x 3 hours 40 = 8 1 hours (or) 8 hours 15 minutes. 4"
+  },
+  {
+    "qid": "396",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A, B and C can complete a piece of work in 24, 6 and 12 days respectively. Working together, they will complete the same work in:",
+    "options": {
+      "A": "1 day 24",
+      "B": "7 day 24",
+      "C": "3 3 days 7",
+      "D": "4 days"
+    },
+    "answer": "C",
+    "explanation": "Formula: If A can do a piece of work in n days, then A's 1 day's work = 1 . n (A + B + C)'s 1 day's work = 1 + 1 + 1 = 7 . 24 6 12 24 Formula: If A's 1 day's work = 1 , then A can finish the work in n days. n So, all the three together will complete the job in 24 days = 3 3 days. 7 7"
+  },
+  {
+    "qid": "401",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "Sakshi can do a piece of work in 20 days. Tanya is 25% more efficient than Sakshi. The number of days taken by Tanya to do the same piece of work is:",
+    "options": {
+      "A": "15",
+      "B": "16",
+      "C": "18",
+      "D": "25"
+    },
+    "answer": "B",
+    "explanation": "Ratio of times taken by Sakshi and Tanya = 125 : 100 = 5 : 4. Suppose Tanya takes x days to do the work. 5 : 4 :: 20 : x x = 4 x 20 5 x = 16 days. Hence, Tanya takes 16 days to complete the work."
+  },
+  {
+    "qid": "397",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A takes twice as much time as B or thrice as much time as C to finish a piece of work. Working together, they can finish the work in 2 days. B can do the work alone in:",
+    "options": {
+      "A": "4 days",
+      "B": "6 days",
+      "C": "8 days",
+      "D": "12 days"
+    },
+    "answer": "B",
+    "explanation": "Suppose A, B and C take x , x and x days respectively to finish the work. 2 3 Then, 1 + 2 + 3 = 1 x x x 2 6 = 1 x 2 x = 12. So, B takes (12/2) = 6 days to finish the work."
+  },
+  {
+    "qid": "823",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A and B can complete a work in 15 days and 10 days respectively. They started doing the work together but after 2 days B had to leave and A alone completed the remaining work. The whole work was completed in :",
+    "options": {
+      "A": "8 days",
+      "B": "10 days",
+      "C": "12 days",
+      "D": "15 days"
+    },
+    "answer": "C",
+    "explanation": "(A + B)'s 1 day's work = 1 + 1 = 1 . 15 10 6 Work done by A and B in 2 days = 1 x 2 = 1 . 6 3 Remaining work = 1 - 1 = 2 . 3 3 Now, 1 work is done by A in 1 day. 15 2 work will be done by a in 15 x 2 = 10 days. 3 3 Hence, the total time taken = (10 + 2) = 12 days."
+  },
+  {
+    "qid": "825",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A and B can do a piece of work in 30 days, while B and C can do the same work in 24 days and C and A in 20 days. They all work together for 10 days when B and C leave. How many days more will A take to finish the work?",
+    "options": {
+      "A": "18 days",
+      "B": "24 days",
+      "C": "30 days",
+      "D": "36 days"
+    },
+    "answer": "A",
+    "explanation": "2(A + B + C)'s 1 day's work = 1 + 1 + 1 = 15 = 1 . 30 24 20 120 8 Therefore, (A + B + C)'s 1 day's work = 1 = 1 . 2 x 8 16 Work done by A, B, C in 10 days = 10 = 5 . 16 8 Remaining work = 1 - 5 = 3 . 8 8 A's 1 day's work = 1 - 1 = 1 . 16 24 48 Now, 1 work is done by A in 1 day. 48 So, 3 work will be done by A in 48 x 3 = 18 days. 8 8"
+  },
+  {
+    "qid": "818",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A works twice as fast as B. If B can complete a work in 12 days independently, the number of days in which A and B can together finish the work in :",
+    "options": {
+      "A": "4 days",
+      "B": "6 days",
+      "C": "8 days",
+      "D": "18 days"
+    },
+    "answer": "A",
+    "explanation": "Ratio of rates of working of A and B = 2 : 1. So, ratio of times taken = 1 : 2. B's 1 day's work = 1 . 12 A's 1 day's work = 1 ; (2 times of B's work) 6 (A + B)'s 1 day's work = 1 + 1 = 3 = 1 . 6 12 12 4 So, A and B together can finish the work in 4 days."
+  },
+  {
+    "qid": "407",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "Twenty women can do a work in sixteen days. Sixteen men can complete the same work in fifteen days. What is the ratio between the capacity of a man and a woman?",
+    "options": {
+      "A": "3 : 4",
+      "B": "4 : 3",
+      "C": "5 : 3",
+      "D": "Data inadequate"
+    },
+    "answer": "B",
+    "explanation": "(20 x 16) women can complete the work in 1 day. 1 woman's 1 day's work = 1 . 320 (16 x 15) men can complete the work in 1 day. 1 man's 1 day's work = 1 240 So, required ratio = 1 : 1 240 320 = 1 : 1 3 4 = 4 : 3 (cross multiplied)"
+  },
+  {
+    "qid": "816",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A and B can do a work in 8 days, B and C can do the same work in 12 days. A, B and C together can finish it in 6 days. A and C together will do it in :",
+    "options": {
+      "A": "4 days",
+      "B": "6 days",
+      "C": "8 days",
+      "D": "12 days"
+    },
+    "answer": "C",
+    "explanation": "(A + B + C)'s 1 day's work = 1 ; 6 (A + B)'s 1 day's work = 1 ; 8 (B + C)'s 1 day's work = 1 . 12 (A + C)'s 1 day's work = 2 x 1 - 1 + 1 6 8 12 = 1 - 5 3 24 = 3 24 = 1 . 8 So, A and C together will do the work in 8 days."
+  },
+  {
+    "qid": "402",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A can finish a work in 24 days, B in 9 days and C in 12 days. B and C start the work but are forced to leave after 3 days. The remaining work was done by A in:",
+    "options": {
+      "A": "5 days",
+      "B": "6 days",
+      "C": "10 days",
+      "D": "10 1 days 2"
+    },
+    "answer": "C",
+    "explanation": "(B + C)'s 1 day's work = 1 + 1 = 7 . 9 12 36 Work done by B and C in 3 days = 7 x 3 = 7 . 36 12 Remaining work = 1 - 7 = 5 . 12 12 Now, 1 work is done by A in 1 day. 24 So, 5 work is done by A in 24 x 5 = 10 days. 12 12"
+  },
+  {
+    "qid": "827",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "X can do a piece of work in 40 days. He works at it for 8 days and then Y finished it in 16 days. How long will they together take to complete the work?",
+    "options": {
+      "A": "13 1 days 3",
+      "B": "15 days",
+      "C": "20 days",
+      "D": "26 days"
+    },
+    "answer": "A",
+    "explanation": "Work done by X in 8 days = 1 x 8 = 1 . 40 5 Remaining work = 1 - 1 = 4 . 5 5 Now, 4 work is done by Y in 16 days. 5 Whole work will be done by Y in 16 x 5 = 20 days. 4 X's 1 day's work = 1 , Y's 1 day's work = 1 . 40 20 (X + Y)'s 1 day's work = 1 + 1 = 3 . 40 20 40 Hence, X and Y will together complete the work in 40 = 13 1 days. 3 3"
+  },
+  {
+    "qid": "819",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A and B can do a job together in 7 days. A is 1 times as efficient as B. The same job can be done by A alone in :",
+    "options": {
+      "A": "9 1 days 3",
+      "B": "11 days",
+      "C": "12 1 days 4",
+      "D": "16 1 days 3"
+    },
+    "answer": "B",
+    "explanation": "(A's 1 day's work) : (B's 1 day's work) = 7 : 1   =   7 : 4. 4 Let A's and B's 1 day's work be 7 x and 4 x respectively. Then, 7 x + 4 x = 1 11 x = 1 x = 1 . 7 7 77 A's 1 day's work = 1 x 7 = 1 . 77 11"
+  },
+  {
+    "qid": "404",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A and B together can do a piece of work in 30 days. A having worked for 16 days, B finishes the remaining work alone in 44 days. In how many days shall B finish the whole work alone?",
+    "options": {
+      "A": "30 days",
+      "B": "40 days",
+      "C": "60 days",
+      "D": "70 days"
+    },
+    "answer": "C",
+    "explanation": "Let A's 1 day's work = x and B's 1 day's work = y . Then, x + y = 1 and 16 x + 44 y = 1. 30 Solving these two equations, we get: x = 1 and y = 1 60 60 B's 1 day's work = 1 . 60 Hence, B alone shall finish the whole work in 60 days."
+  },
+  {
+    "qid": "519",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+    "options": {
+      "A": "Rs. 650",
+      "B": "Rs. 690",
+      "C": "Rs. 698",
+      "D": "Rs. 700"
+    },
+    "answer": "C",
+    "explanation": "S.I. for 1 year = Rs. (854 - 815) = Rs. 39. S.I. for 3 years = Rs.(39 x 3) = Rs. 117. Principal = Rs. (815 - 117) = Rs. 698."
+  },
+  {
+    "qid": "524",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
+    "options": {
+      "A": "Rs. 6400",
+      "B": "Rs. 6500",
+      "C": "Rs. 7200",
+      "D": "Rs. 7500",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "Let the sum invested in Scheme A be Rs. x and that in Scheme B be Rs. (13900 - x ). Then, x x 14 x 2 + (13900 - x ) x 11 x 2 = 3508 100 100 28 x - 22 x = 350800 - (13900 x 22) 6 x = 45000 x = 7500. So, sum invested in Scheme B = Rs. (13900 - 7500) = Rs. 6400. Video Explanation: https://youtu.be/Xi4kU9y6ppk"
+  },
+  {
+    "qid": "515",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+    "options": {
+      "A": "Rs. 4462.50",
+      "B": "Rs. 8032.50",
+      "C": "Rs. 8900",
+      "D": "Rs. 8925",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "Principal = Rs. 100 x 4016.25 9 x 5 = Rs. 401625 45 = Rs. 8925."
+  },
+  {
+    "qid": "511",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+    "options": {
+      "A": "3.5 years",
+      "B": "4 years",
+      "C": "4.5 years",
+      "D": "5 years"
+    },
+    "answer": "B",
+    "explanation": "Time = 100 x 81 years = 4 years. 450 x 4.5 Video Explanation: https://youtu.be/WdBzN0Sj8jc"
+  },
+  {
+    "qid": "513",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+    "options": {
+      "A": "3.6",
+      "B": "6",
+      "C": "18",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Let rate = R% and time = R years. Then, 1200 x R x R = 432 100 12R 2 = 432 R 2 = 36 R = 6. Video Explanation: https://youtu.be/TjjI4iRkzT0"
+  },
+  {
+    "qid": "512",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
+    "options": {
+      "A": "3%",
+      "B": "4%",
+      "C": "5%",
+      "D": "6%",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "S.I. = Rs. (15500 - 12500) = Rs. 3000. Rate = 100 x 3000 % = 6% 12500 x 4 Video Explanation: https://youtu.be/SIcQu1HOmOk"
+  },
+  {
+    "qid": "518",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes:",
+    "options": {
+      "A": "10%",
+      "B": "10.25%",
+      "C": "10.5%",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Let the sum be Rs. 100. Then, S.I. for first 6 months = Rs. 100 x 10 x 1 = Rs. 5 100 x 2 S.I. for last 6 months = Rs. 105 x 10 x 1 = Rs. 5.25 100 x 2 So, amount at the end of 1 year = Rs. (100 + 5 + 5.25) = Rs. 110.25 Effective rate = (110.25 - 100) = 10.25%"
+  },
+  {
+    "qid": "521",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A lent Rs. 5000 to B for 2 years and Rs. 3000 to C for 4 years on simple interest at the same rate of interest and received Rs. 2200 in all from both of them as interest. The rate of interest per annum is:",
+    "options": {
+      "A": "5%",
+      "B": "7%",
+      "C": "7 1 % 8",
+      "D": "10%"
+    },
+    "answer": "D",
+    "explanation": "Let the rate be R% p.a. Then, 5000 x R x 2 + 3000 x R x 4 = 2200. 100 100 100R + 120R = 2200 R = 2200 = 10. 220 Rate = 10%."
+  },
+  {
+    "qid": "522",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
+    "options": {
+      "A": "3.6%",
+      "B": "4.5%",
+      "C": "5%",
+      "D": "6%",
+      "E": "None of these"
+    },
+    "answer": "E",
+    "explanation": "Let the original rate be R%. Then, new rate = (2R)%. Note: Here, original rate is for 1 year(s); the new rate is for only 4 months i.e. year(s). 725 x R x 1 + 362.50 x 2R x 1 = 33.50 100 100 x 3 (2175 + 725) R = 33.50 x 100 x 3 (2175 + 725) R = 10050 (2900)R = 10050 R = 10050 = 3.46 2900 Original rate = 3.46%"
+  },
+  {
+    "qid": "514",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:",
+    "options": {
+      "A": "Rs. 2000",
+      "B": "Rs. 10,000",
+      "C": "Rs. 15,000",
+      "D": "Rs. 20,000"
+    },
+    "answer": "C",
+    "explanation": "Principal = Rs. 100 x 5400 = Rs. 15000. 12 x 3"
+  },
+  {
+    "qid": "520",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A sum of money amounts to Rs. 9800 after 5 years and Rs. 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is:",
+    "options": {
+      "A": "5%",
+      "B": "8%",
+      "C": "12%",
+      "D": "15%"
+    },
+    "answer": "C",
+    "explanation": "S.I. for 3 years = Rs. (12005 - 9800) = Rs. 2205. S.I. for 5 years = Rs. 2205 x 5 = Rs. 3675 3 Principal = Rs. (9800 - 3675) = Rs. 6125. Hence, rate = 100 x 3675 % = 12% 6125 x 5 Video Explanation: https://youtu.be/UYwiBCRN39s"
+  },
+  {
+    "qid": "517",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "What will be the ratio of simple interest earned by certain amount at the same rate of interest for 6 years and that for 9 years?",
+    "options": {
+      "A": "1 : 3",
+      "B": "1 : 4",
+      "C": "2 : 3",
+      "D": "Data inadequate",
+      "E": "None of these"
+    },
+    "answer": "C",
+    "explanation": "Let the principal be P and rate of interest be R%. Required ratio = P x R x 6 100 = 6PR = 6 = 2 : 3. P x R x 9 100 9PR 9 Video Explanation: https://youtu.be/GaaEDwTWc6w"
+  },
+  {
+    "qid": "516",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A certain amount earns simple interest of Rs. 1750 after 7 years. Had the interest been 2% more, how much more interest would it have earned?",
+    "options": {
+      "A": "Rs. 35",
+      "B": "Rs. 245",
+      "C": "Rs. 350",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "We need to know the S.I., principal and time to find the rate. Since the principal is not given, so data is inadequate."
+  },
+  {
+    "qid": "510",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A person borrows Rs. 5000 for 2 years at 4% p.a. simple interest. He immediately lends it to another person at 6 % p.a for 2 years. Find his gain in the transaction per year.",
+    "options": {
+      "A": "Rs. 112.50",
+      "B": "Rs. 125",
+      "C": "Rs. 225",
+      "D": "Rs. 167.50"
+    },
+    "answer": "A",
+    "explanation": "Gain in 2 years = Rs. 5000 x 25 x 2 - 5000 x 4 x 2 4 100 100 = Rs. (625 - 400) = Rs. 225. Gain in 1 year = Rs. 225 = Rs. 112.50 2 Video Explanation: https://youtu.be/zBjcwqIcmL4"
+  },
+  {
+    "qid": "532",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "A bank offers 5% compound interest calculated on half-yearly basis. A customer deposits Rs. 1600 each on 1 st January and 1 st July of a year. At the end of the year, the amount he would have gained by way of interest is:",
+    "options": {
+      "A": "Rs. 120",
+      "B": "Rs. 121",
+      "C": "Rs. 122",
+      "D": "Rs. 123"
+    },
+    "answer": "B",
+    "explanation": "Amount = Rs. 1600 x 1 + 5 2 + 1600 x 1 + 5 2 x 100 2 x 100 = Rs. 1600 x 41 x 41 + 1600 x 41 40 40 40 = Rs. 1600 x 41 41 + 1 40 40 = Rs. 1600 x 41 x 81 40 x 40 = Rs. 3321. C.I. = Rs. (3321 - 3200) = Rs. 121"
+  },
+  {
+    "qid": "542",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is:",
+    "options": {
+      "A": "625",
+      "B": "630",
+      "C": "640",
+      "D": "650"
+    },
+    "answer": "A",
+    "explanation": "Let the sum be Rs. x . Then, C.I. = x 1 + 4 2 - x = 676 x - x = 51 x . 100 625 625 S.I. = x x 4 x 2 = 2 x . 100 25 51 x - 2 x = 1 625 25 x = 625."
+  },
+  {
+    "qid": "540",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?",
+    "options": {
+      "A": "Rs. 2160",
+      "B": "Rs. 3120",
+      "C": "Rs. 3972",
+      "D": "Rs. 6240",
+      "E": "None of these"
+    },
+    "answer": "C",
+    "explanation": "Let P = Rs. 100. Then, S.I. Rs. 60 and T = 6 years. R = 100 x 60 = 10% p.a. 100 x 6 Now, P = Rs. 12000. T = 3 years and R = 10% p.a. C.I. = Rs. 12000 x 1 + 10 3 - 1 100 = Rs. 12000 x 331 1000 = 3972."
+  },
+  {
+    "qid": "533",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "What is the difference between the compound interests on Rs. 5000 for 1 years at 4% per annum compounded yearly and half-yearly?",
+    "options": {
+      "A": "Rs. 2.04",
+      "B": "Rs. 3.06",
+      "C": "Rs. 4.80",
+      "D": "Rs. 8.30"
+    },
+    "answer": "A",
+    "explanation": "C.I. when interest compounded yearly = Rs. 5000 x 1 + 4 x 1 + x 4 100 100 = Rs. 5000 x 26 x 51 25 50 = Rs. 5304. C.I. when interest is compounded half-yearly = Rs. 5000 x 1 + 2 3 100 = Rs. 5000 x 51 x 51 x 51 50 50 50 = Rs. 5306.04 Difference = Rs. (5306.04 - 5304) = Rs. 2.04"
+  },
+  {
+    "qid": "536",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
+    "options": {
+      "A": "2",
+      "B": "2 1 2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "A",
+    "explanation": "Amount = Rs. (30000 + 4347) = Rs. 34347. Let the time be n years. Then, 30000 1 + 7 n = 34347 100 107 n = 34347 = 11449 = 107 2 100 30000 10000 100 n = 2 years."
+  },
+  {
+    "qid": "531",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "What will be the compound interest on a sum of Rs. 25,000 after 3 years at the rate of 12 p.c.p.a.?",
+    "options": {
+      "A": "Rs. 9000.30",
+      "B": "Rs. 9720",
+      "C": "Rs. 10123.20",
+      "D": "Rs. 10483.20",
+      "E": "None of these"
+    },
+    "answer": "C",
+    "explanation": "Amount = Rs. 25000 x 1 + 12 3 100 = Rs. 25000 x 28 x 28 x 28 25 25 25 = Rs. 35123.20 C.I. = Rs. (35123.20 - 25000) = Rs. 10123.20"
+  },
+  {
+    "qid": "537",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "At what rate of compound interest per annum will a sum of Rs. 1200 become Rs. 1348.32 in 2 years?",
+    "options": {
+      "A": "6%",
+      "B": "6.5%",
+      "C": "7%",
+      "D": "7.5%"
+    },
+    "answer": "A",
+    "explanation": "Let the rate be R% p.a. Then, 1200 x 1 + R 2 = 1348.32 100 1 + R 2 = 134832 = 11236 100 120000 10000 1 + R 2 = 106 2 100 100 1 + R = 106 100 100 R = 6%"
+  },
+  {
+    "qid": "544",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "The least number of complete years in which a sum of money put out at 20% compound interest will be more than doubled is:",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "B",
+    "explanation": "P 1 + 20 n > 2P 6 n > 2. 100 5 Now, 6 x 6 x 6 x 6 > 2. 5 5 5 5 So, n = 4 years."
+  },
+  {
+    "qid": "530",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "Albert invested an amount of Rs. 8000 in a fixed deposit scheme for 2 years at compound interest rate 5 p.c.p.a. How much amount will Albert get on maturity of the fixed deposit?",
+    "options": {
+      "A": "Rs. 8600",
+      "B": "Rs. 8620",
+      "C": "Rs. 8820",
+      "D": "None of these"
+    },
+    "answer": "C",
+    "explanation": "Amount = Rs. 8000 x 1 + 5 2 100 = Rs. 8000 x 21 x 21 20 20 = Rs. 8820."
+  },
+  {
+    "qid": "543",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "The effective annual rate of interest corresponding to a nominal rate of 6% per annum payable half-yearly is:",
+    "options": {
+      "A": "6.06%",
+      "B": "6.07%",
+      "C": "6.08%",
+      "D": "6.09%"
+    },
+    "answer": "D",
+    "explanation": "Amount of Rs. 100 for 1 year when compounded half-yearly = Rs. 100 x 1 + 3 2 = Rs. 106.09 100 Effective rate = (106.09 - 100)% = 6.09%"
+  },
+  {
+    "qid": "539",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "Simple interest on a certain sum of money for 3 years at 8% per annum is half the compound interest on Rs. 4000 for 2 years at 10% per annum. The sum placed on simple interest is:",
+    "options": {
+      "A": "Rs. 1550",
+      "B": "Rs. 1650",
+      "C": "Rs. 1750",
+      "D": "Rs. 2000"
+    },
+    "answer": "C",
+    "explanation": "C.I. = Rs. 4000 x 1 + 10 2 - 4000 100 = Rs. 4000 x 11 x 11 - 4000 10 10 = Rs. 840. Sum = Rs. 420 x 100 = Rs. 1750. 3 x 8"
+  },
+  {
+    "qid": "534",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "If the simple interest on a sum of money for 2 years at 5% per annum is Rs. 50, what is the compound interest on the same at the same rate and for the same time?",
+    "options": {
+      "A": "Rs. 51.25",
+      "B": "Rs. 52",
+      "C": "Rs. 54.25",
+      "D": "Rs. 60"
+    },
+    "answer": "A",
+    "explanation": "Sum = Rs. 50 x 100 = Rs. 500. 2 x 5 Amount = Rs. 500 x 1 + 5 2 100 = Rs. 500 x 21 x 21 20 20 = Rs. 551.25 C.I. = Rs. (551.25 - 500) = Rs. 51.25"
+  },
+  {
+    "qid": "535",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "The difference between simple interest and compound on Rs. 1200 for one year at 10% per annum reckoned half-yearly is:",
+    "options": {
+      "A": "Rs. 2.50",
+      "B": "Rs. 3",
+      "C": "Rs. 3.75",
+      "D": "Rs. 4",
+      "E": "None of these"
+    },
+    "answer": "B",
+    "explanation": "S.I. = Rs 1200 x 10 x 1 = Rs. 120. 100 C.I. = Rs. 1200 x 1 + 5 2 - 1200 = Rs. 123. 100 Difference = Rs. (123 - 120) = Rs. 3."
+  },
+  {
+    "qid": "541",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "The difference between compound interest and simple interest on an amount of Rs. 15,000 for 2 years is Rs. 96. What is the rate of interest per annum?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "15000 x 1 + R 2 - 15000 - 15000 x R x 2 = 96 100 100 15000 1 + R 2 - 1 - 2R = 96 100 100 15000 (100 + R) 2 - 10000 - (200 x R) = 96 10000 R 2 = 96 x 2 = 64 3 R = 8. Rate = 8%."
+  },
+  {
+    "qid": "538",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "The compound interest on a certain sum for 2 years at 10% per annum is Rs. 525. The simple interest on the same sum for double the time at half the rate percent per annum is:",
+    "options": {
+      "A": "Rs. 400",
+      "B": "Rs. 500",
+      "C": "Rs. 600",
+      "D": "Rs. 800"
+    },
+    "answer": "B",
+    "explanation": "Let the sum be Rs. P. Then, P 1 + 10 2 - P = 525 100 P 11 2 - 1 = 525 10 P = 525 x 100 = 2500. 21 Sum = Rs . 2500. So, S.I. = Rs. 2500 x 5 x 4 = Rs. 500 100"
+  },
+  {
+    "qid": "324",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is:",
+    "options": {
+      "A": "4 4 % 7",
+      "B": "5 5 % 11",
+      "C": "10%",
+      "D": "12%"
+    },
+    "answer": "B",
+    "explanation": "Cost Price (C.P.) = Rs. (4700 + 800) = Rs. 5500. Selling Price (S.P.) = Rs. 5800. Gain = (S.P.) - (C.P.) = Rs.(5800 - 5500) = Rs. 300. Gain % = 300 x 100 % = 5 5 % 5500 11"
+  },
+  {
+    "qid": "334",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+    "options": {
+      "A": "15",
+      "B": "16",
+      "C": "18",
+      "D": "25"
+    },
+    "answer": "B",
+    "explanation": "Let C.P. of each article be Re. 1 C.P. of x articles = Rs. x . S.P. of x articles = Rs. 20. Profit = Rs. (20 - x ). 20 - x x 100 = 25 x 2000 - 100 x = 25 x 125 x = 2000 x = 16. Video Explanation: https://youtu.be/sidqvjUoZxY"
+  },
+  {
+    "qid": "331",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+    "options": {
+      "A": "66 2 3",
+      "B": "100",
+      "C": "105 1 3",
+      "D": "120"
+    },
+    "answer": "B",
+    "explanation": "Let C.P. be Rs. x and S.P. be Rs. y . Then, 3( y - x ) = (2 y - x ) y = 2 x . Profit = Rs. ( y - x ) = Rs. (2 x - x ) = Rs. x . Profit % = x x 100 % = 100% x Video Explanation: https://youtu.be/dPzF10mGsWE"
+  },
+  {
+    "qid": "332",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+    "options": {
+      "A": "30%",
+      "B": "70%",
+      "C": "100%",
+      "D": "250%"
+    },
+    "answer": "B",
+    "explanation": "Let C.P.= Rs. 100. Then, Profit = Rs. 320, S.P. = Rs. 420. New C.P. = 125% of Rs. 100 = Rs. 125 New S.P. = Rs. 420. Profit = Rs. (420 - 125) = Rs. 295. Required percentage = 295 x 100 % = 1475 % = 70% (approximately). 420 21 Video Explanation: https://youtu.be/bQA8SB8ycbw"
+  },
+  {
+    "qid": "337",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "C",
+    "explanation": "C.P. of 6 toffees = Re. 1 S.P. of 6 toffees = 120% of Re. 1 = Rs. 6 5 For Rs. 6 , toffees sold = 6. 5 For Re. 1, toffees sold = 6 x 5 = 5. 6 Video Explanation: https://youtu.be/7wKrnZ0LKA8"
+  },
+  {
+    "qid": "333",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+    "options": {
+      "A": "Rs. 2000",
+      "B": "Rs. 2200",
+      "C": "Rs. 2400",
+      "D": "Data inadequate"
+    },
+    "answer": "A",
+    "explanation": "Let C.P. be Rs. x . Then, 1920 - x x 100 = x - 1280 x 100 x x 1920 - x = x - 1280 2 x = 3200 x = 1600 Required S.P. = 125% of Rs. 1600 = Rs. 125 x 1600 = Rs 2000. 100 Video Explanation: https://youtu.be/0tTd5TwCspY"
+  },
+  {
+    "qid": "328",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
+    "options": {
+      "A": "Rs. 18.20",
+      "B": "Rs. 70",
+      "C": "Rs. 72",
+      "D": "Rs. 88.25"
+    },
+    "answer": "C",
+    "explanation": "C.P. = Rs. 100 x 392 = Rs. 1000 x 392 = Rs. 320 122.5 1225 Profit = Rs. (392 - 320) = Rs. 72. Video Explanation: https://youtu.be/a36nJFgh5yk"
+  },
+  {
+    "qid": "327",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+    "options": {
+      "A": "Rs. 1090",
+      "B": "Rs. 1160",
+      "C": "Rs. 1190",
+      "D": "Rs. 1202"
+    },
+    "answer": "C",
+    "explanation": "S.P. = 85% of Rs. 1400 = Rs. 85 x 1400 = Rs. 1190 100 Video Explanation: https://youtu.be/jn0XIafQvAc"
+  },
+  {
+    "qid": "325",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
+    "options": {
+      "A": "3.5",
+      "B": "4.5",
+      "C": "5.6",
+      "D": "6.5"
+    },
+    "answer": "C",
+    "explanation": "Cost Price of 1 toy = Rs. 375 = Rs. 31.25 12 Selling Price of 1 toy = Rs. 33 So, Gain = Rs. (33 - 31.25) = Rs. 1.75 Profit % = 1.75 x 100 % = 28 % = 5.6% 31.25 5 Video Explanation: https://youtu.be/MhswuvDVWzo"
+  },
+  {
+    "qid": "336",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
+    "options": {
+      "A": "30%",
+      "B": "33 1 % 3",
+      "C": "35%",
+      "D": "44%"
+    },
+    "answer": "D",
+    "explanation": "Suppose, number of articles bought = L.C.M. of 6 and 5 = 30. C.P. of 30 articles = Rs. 5 x 30 = Rs. 25. 6 S.P. of 30 articles = Rs. 6 x 30 = Rs. 36. 5 Gain % = 11 x 100 % = 44%. 25"
+  },
+  {
+    "qid": "335",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is:",
+    "options": {
+      "A": "Rs. 45",
+      "B": "Rs. 50",
+      "C": "Rs. 55",
+      "D": "Rs. 60"
+    },
+    "answer": "D",
+    "explanation": "(C.P. of 17 balls) - (S.P. of 17 balls) = (C.P. of 5 balls) C.P. of 12 balls = S.P. of 17 balls = Rs.720. C.P. of 1 ball = Rs. 720 = Rs. 60. 12"
+  },
+  {
+    "qid": "329",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?",
+    "options": {
+      "A": "Rs. 21,000",
+      "B": "Rs. 22,500",
+      "C": "Rs. 25,300",
+      "D": "Rs. 25,800"
+    },
+    "answer": "C",
+    "explanation": "85 : 18700 = 115 : x x = 18700 x 115 = 25300. 85 Hence, S.P. = Rs. 25,300."
+  },
+  {
+    "qid": "326",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen. The percentage of profit or loss is:",
+    "options": {
+      "A": "14 2 % gain 7",
+      "B": "15% gain",
+      "C": "14 2 % loss 7",
+      "D": "15 % loss"
+    },
+    "answer": "A",
+    "explanation": "C.P. of 1 orange = Rs. 350 = Rs. 3.50 100 S.P. of 1 orange = Rs. 48 = Rs. 4 12 Gain% = 0.50 x 100 % = 100 % = 14 2 % 3.50 7 7"
+  },
+  {
+    "qid": "330",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "A shopkeeper sells one transistor for Rs. 840 at a gain of 20% and another for Rs. 960 at a loss of 4%. His total gain or loss percent is:",
+    "options": {
+      "A": "5 15 % loss 17",
+      "B": "5 15 % gain 17",
+      "C": "6 2 % gain 3",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "C.P. of 1 st transistor = Rs. 100 x 840 = Rs. 700. 120 C.P. of 2 nd transistor = Rs. 100 x 960 = Rs. 1000 96 So, total C.P. = Rs. (700 + 1000) = Rs. 1700. Total S.P. = Rs. (840 + 960) = Rs. 1800. Gain % = 100 x 100 % = 5 15 % 1700 17"
+  },
+  {
+    "qid": "338",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
+    "options": {
+      "A": "No profit, no loss",
+      "B": "5%",
+      "C": "8%",
+      "D": "10%",
+      "E": "None of these"
+    },
+    "answer": "B",
+    "explanation": "C.P. of 56 kg rice = Rs. (26 x 20 + 30 x 36) = Rs. (520 + 1080) = Rs. 1600. S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680. Gain = 80 x 100 % = 5%. 1600"
+  },
+  {
+    "qid": "375",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "A and B invest in a business in the ratio 3 : 2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:",
+    "options": {
+      "A": "Rs. 1425",
+      "B": "Rs. 1500",
+      "C": "Rs. 1537.50",
+      "D": "Rs. 1576"
+    },
+    "answer": "B",
+    "explanation": "Let the total profit be Rs. 100. After paying to charity, A's share = Rs. 95 x 3 = Rs. 57. 5 If A's share is Rs. 57, total profit = Rs. 100. If A's share Rs. 855, total profit = 100 x 855 = 1500. 57"
+  },
+  {
+    "qid": "370",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B, Rs. 8400 for 5 months and C, Rs. 10,000 for 3 months. A wants to be the working member for which, he was to receive 5% of the profits. The profit earned was Rs. 7400. Calculate the share of B in the profit.",
+    "options": {
+      "A": "Rs. 1900",
+      "B": "Rs. 2660",
+      "C": "Rs. 2800",
+      "D": "Rs. 2840"
+    },
+    "answer": "B",
+    "explanation": "For managing, A received = 5% of Rs. 7400 = Rs. 370. Balance = Rs. (7400 - 370) = Rs. 7030. Ratio of their investments = (6500 x 6) : (8400 x 5) : (10000 x 3) = 39000 : 42000 : 30000 = 13 : 14 : 10 B's share = Rs. 7030 x 14 = Rs. 2660. 37"
+  },
+  {
+    "qid": "368",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "A, B and C enter into a partnership in the ratio : : . After 4 months, A increases his share 50%. If the total profit at the end of one year be Rs. 21,600, then B's share in the profit is:",
+    "options": {
+      "A": "Rs. 2100",
+      "B": "Rs. 2400",
+      "C": "Rs. 3600",
+      "D": "Rs. 4000"
+    },
+    "answer": "D",
+    "explanation": "Ratio of initial investments = 7 : 4 : 6 = 105 : 40 : 36. 2 3 5 Let the initial investments be 105 x , 40 x and 36 x . A : B : C = 105 x x 4 + 150 x 105 x x 8 : (40 x x 12) : (36 x x 12) 100 = 1680 x : 480 x : 432 x = 35 : 10 : 9. Hence, B's share = Rs. 21600 x 10 = Rs. 4000. 54"
+  },
+  {
+    "qid": "365",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+    "options": {
+      "A": "Rs. 8400",
+      "B": "Rs. 11,900",
+      "C": "Rs. 13,600",
+      "D": "Rs. 14,700"
+    },
+    "answer": "D",
+    "explanation": "Let C = x . Then, B = x + 5000 and A = x + 5000 + 4000 = x + 9000. So, x + x + 5000 + x + 9000 = 50000 3 x = 36000 x = 12000 A : B : C = 21000 : 17000 : 12000 = 21 : 17 : 12. A's share = Rs. 35000 x 21 = Rs. 14,700. 50"
+  },
+  {
+    "qid": "374",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
+    "options": {
+      "A": "5 : 7 : 8",
+      "B": "20 : 49 : 64",
+      "C": "38 : 28 : 21",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Let their investments be Rs. x for 14 months, Rs. y for 8 months and Rs. z for 7 months respectively. Then, 14 x : 8 y : 7 z = 5 : 7 : 8. Now, 14 x = 5 98 x = 40 y y = 49 x 8 y 7 20 And, 14 x = 5 112 x = 35 z z = 112 x = 16 x . 7 z 8 35 5 x : y : z = x : 49 x : 16 x = 20 : 49 : 64. 20 5"
+  },
+  {
+    "qid": "372",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "A starts business with Rs. 3500 and after 5 months, B joins with A as his partner. After a year, the profit is divided in the ratio 2 : 3. What is B's contribution in the capital?",
+    "options": {
+      "A": "Rs. 7500",
+      "B": "Rs. 8000",
+      "C": "Rs. 8500",
+      "D": "Rs. 9000"
+    },
+    "answer": "D",
+    "explanation": "Let B's capital be Rs. x . Then, 3500 x 12 = 2 7 x 3 14 x = 126000 x = 9000."
+  },
+  {
+    "qid": "369",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "A and B entered into partnership with capitals in the ratio 4 : 5. After 3 months, A withdrew of his capital and B withdrew of his capital. The gain at the end of 10 months was Rs. 760. A's share in this profit is:",
+    "options": {
+      "A": "Rs. 330",
+      "B": "Rs. 360",
+      "C": "Rs. 380",
+      "D": "Rs. 430"
+    },
+    "answer": "A",
+    "explanation": "A : B = 4 x x 3 + 4 x - 1 x 4 x x 7 : 5 x x 3 + 5 x - 1 x 5 x x 7 4 5 = (12 x + 21 x ) : (15 x + 28 x ) = 33 x :43 x = 33 : 43. A's share = Rs. 760 x 33 = Rs. 330. 76"
+  },
+  {
+    "qid": "367",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "A and B started a partnership business investing some amount in the ratio of 3 : 5. C joined then after six months with an amount equal to that of B. In what proportion should the profit at the end of one year be distributed among A, B and C?",
+    "options": {
+      "A": "3 : 5 : 2",
+      "B": "3 : 5 : 5",
+      "C": "6 : 10 : 5",
+      "D": "Data inadequate"
+    },
+    "answer": "C",
+    "explanation": "Let the initial investments of A and B be 3 x and 5 x . A : B : C = (3 x x 12) : (5 x x 12) : (5 x x 6) = 36 : 60 : 30 = 6 : 10 : 5."
+  },
+  {
+    "qid": "366",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "A, B, C rent a pasture. A puts 10 oxen for 7 months, B puts 12 oxen for 5 months and C puts 15 oxen for 3 months for grazing. If the rent of the pasture is Rs. 175, how much must C pay as his share of rent?",
+    "options": {
+      "A": "Rs. 45",
+      "B": "Rs. 50",
+      "C": "Rs. 55",
+      "D": "Rs. 60"
+    },
+    "answer": "A",
+    "explanation": "A : B : C = (10 x 7) : (12 x 5) : (15 x 3) = 70 : 60 : 45 = 14 : 12 : 9. C's rent = Rs. 175 x 9 = Rs. 45. 35"
+  },
+  {
+    "qid": "362",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "A and B started a business in partnership investing Rs. 20,000 and Rs. 15,000 respectively. After six months, C joined them with Rs. 20,000. What will be B's share in total profit of Rs. 25,000 earned at the end of 2 years from the starting of the business?",
+    "options": {
+      "A": "Rs. 7500",
+      "B": "Rs. 9000",
+      "C": "Rs. 9500",
+      "D": "Rs. 10,000"
+    },
+    "answer": "A",
+    "explanation": "A : B : C = (20,000 x 24) : (15,000 x 24) : (20,000 x 18) = 4 : 3 : 3. B's share = Rs. 25000 x 3 = Rs. 7,500. 10"
+  },
+  {
+    "qid": "371",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "A began a business with Rs. 85,000. He was joined afterwards by B with Rs. 42,500. For how much period does B join, if the profits at the end of the year are divided in the ratio of 3 : 1?",
+    "options": {
+      "A": "4 months",
+      "B": "5 months",
+      "C": "6 months",
+      "D": "8 months"
+    },
+    "answer": "D",
+    "explanation": "Suppose B joined for x months. Then, Then, 85000 x 12 = 3 42500 x x 1 x = 85000 x 12 = 8. 42500 x 3 So, B joined for 8 months."
+  },
+  {
+    "qid": "363",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "Aman started a business investing Rs. 70,000. Rakhi joined him after six months with an amount of Rs.. 1,05,000 and Sagar joined them with Rs. 1.4 lakhs after another six months. The amount of profit earned should be distributed in what ratio among Aman, Rakhi and Sagar respectively, 3 years after Aman started the business?",
+    "options": {
+      "A": "7 : 6 : 10",
+      "B": "12 : 15 : 16",
+      "C": "42 : 45 : 56",
+      "D": "Cannot be determined"
+    },
+    "answer": "B",
+    "explanation": "Aman : Rakhi : Sagar = (70,000 x 36) : (1,05,000 x 30) : (1,40,000 x 24) = 12 : 15 : 16."
+  },
+  {
+    "qid": "364",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "Arun, Kamal and Vinay invested Rs. 8000, Rs. 4000 and Rs. 8000 respectively in a business. Arun left after six months. If after eight months, there was a gain of Rs. 4005, then what will be the share of Kamal?",
+    "options": {
+      "A": "Rs. 890",
+      "B": "Rs. 1335",
+      "C": "Rs. 1602",
+      "D": "Rs. 1780"
+    },
+    "answer": "A",
+    "explanation": "Arun : Kamal : Vinay = (8,000 x 6) : (4,000 x 8) : (8,000 x 8) = 48 : 32 : 64 = 3 : 2 : 4. Kamal's share = Rs. 4005 x 2 = Rs. 890. 9"
+  },
+  {
+    "qid": "361",
+    "main_tag": "aptitude",
+    "sub_tag": "partnership",
+    "question": "Simran started a software business by investing Rs. 50,000. After six months, Nanda joined her with a capital of Rs. 80,000. After 3 years, they earned a profit of Rs. 24,500. What was Simran's share in the profit?",
+    "options": {
+      "A": "Rs. 9,423",
+      "B": "Rs. 10,250",
+      "C": "Rs. 12,500",
+      "D": "Rs. 10,500"
+    },
+    "answer": "D",
+    "explanation": "Simran : Nanda = (50000 x 36) : (80000 x 30) = 3 : 4. Simran's share = Rs. 24500 x 3 = Rs. 10,500. 7"
+  },
+  {
+    "qid": "316",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he make by running between the wickets?",
+    "options": {
+      "A": "45%",
+      "B": "45 5 % 11",
+      "C": "54 6 % 11",
+      "D": "55%"
+    },
+    "answer": "B",
+    "explanation": "Number of runs made by running = 110 - (3 x 4 + 8 x 6) = 110 - (60) = 50. Required percentage = 50 x 100 % = 45 5 % 110 11 Video Explanation: https://youtu.be/X2zTnABqEHU"
+  },
+  {
+    "qid": "321",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+    "options": {
+      "A": "39, 30",
+      "B": "41, 32",
+      "C": "42, 33",
+      "D": "43, 34"
+    },
+    "answer": "C",
+    "explanation": "Let their marks be ( x + 9) and x . Then, x + 9 = 56 ( x + 9 + x ) 100 25( x + 9) = 14(2 x + 9) 3 x = 99 x = 33 So, their marks are 42 and 33."
+  },
+  {
+    "qid": "317",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+    "options": {
+      "A": "588 apples",
+      "B": "600 apples",
+      "C": "672 apples",
+      "D": "700 apples"
+    },
+    "answer": "D",
+    "explanation": "Suppose originally he had x apples. Then, (100 - 40)% of x = 420. 60 x x = 420 100 x = 420 x 100 = 700. 60 Video Explanation: https://youtu.be/-Pv25Do3WwY"
+  },
+  {
+    "qid": "310",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+    "options": {
+      "A": "1",
+      "B": "14",
+      "C": "20",
+      "D": "21"
+    },
+    "answer": "C",
+    "explanation": "Clearly, the numbers which have 1 or 9 in the unit's digit, have squares that end in the digit 1. Such numbers from 1 to 70 are 1, 9, 11, 19, 21, 29, 31, 39, 41, 49, 51, 59, 61, 69. Number of such number =14 Required percentage = 14 x 100 % = 20%. 70 Video Explanation: https://youtu.be/cBamI6iRNIA"
+  },
+  {
+    "qid": "323",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "If A = x % of y and B = y % of x , then which of the following is true?",
+    "options": {
+      "A": "A is smaller than B.",
+      "B": "A is greater than B",
+      "C": "Relationship between A and B cannot be determined.",
+      "D": "If x is smaller than y , then A is greater than B.",
+      "E": "None of these"
+    },
+    "answer": "E",
+    "explanation": "x % of y = x x y = y x x = y % of x 100 100 A = B."
+  },
+  {
+    "qid": "322",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "If 20% of a = b , then b % of 20 is the same as:",
+    "options": {
+      "A": "4% of a",
+      "B": "5% of a",
+      "C": "20% of a",
+      "D": "None of these"
+    },
+    "answer": "A",
+    "explanation": "20% of a = b 20 a = b . 100 b % of 20 = b x 20 = 20 a x 1 x 20 = 4 a = 4% of a . 100 100 100 100"
+  },
+  {
+    "qid": "320",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is of the number of students of 8 years of age which is 48. What is the total number of students in the school?",
+    "options": {
+      "A": "72",
+      "B": "80",
+      "C": "120",
+      "D": "150",
+      "E": "100"
+    },
+    "answer": "E",
+    "explanation": "Let the number of students be x . Then, Number of students above 8 years of age = (100 - 20)% of x = 80% of x . 80% of x = 48 + 2 of 48 3 80 x = 80 100 x = 100. Video Explanation: https://youtu.be/yPfocU6DA2M"
+  },
+  {
+    "qid": "311",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "Two numbers A and B are such that the sum of 5% of A and 4% of B is two-third of the sum of 6% of A and 8% of B. Find the ratio of A : B.",
+    "options": {
+      "A": "2 : 3",
+      "B": "1 : 1",
+      "C": "3 : 4",
+      "D": "4 : 3"
+    },
+    "answer": "D",
+    "explanation": "5% of A + 4% of B = 2 (6% of A + 8% of B) 3 5 A + 4 B = 2 6 A + 8 B 100 100 3 100 100 1 A + 1 B = 1 A + 4 B 20 25 25 75 1 - 1 A = 4 - 1 B 20 25 75 25 1 A = 1 B 100 75 A = 100 = 4 . B 75 3 Required ratio = 4 : 3 Video Explanation: YouTube Video"
+  },
+  {
+    "qid": "314",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "A student multiplied a number by 3 instead of 5 . 5 3 What is the percentage error in the calculation?",
+    "options": {
+      "A": "34%",
+      "B": "44%",
+      "C": "54%",
+      "D": "64%"
+    },
+    "answer": "D",
+    "explanation": "Let the number be x . Then, error = 5 x - 3 x = 16 x . 3 5 15 Error% = 16 x x 3 x 100 % = 64%. 15 5 x"
+  },
+  {
+    "qid": "318",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "In an election between two candidates,  one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was:",
+    "options": {
+      "A": "2700",
+      "B": "2900",
+      "C": "3000",
+      "D": "3100"
+    },
+    "answer": "A",
+    "explanation": "Number of valid votes = 80% of 7500 = 6000. Valid votes polled by other candidate = 45% of 6000 = 45 x 6000 = 2700. 100"
+  },
+  {
+    "qid": "312",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "Three candidates contested an election and received 1136, 7636 and 11628 votes respectively. What percentage of the total votes did the winning candidate get?",
+    "options": {
+      "A": "57%",
+      "B": "60%",
+      "C": "65%",
+      "D": "90%"
+    },
+    "answer": "A",
+    "explanation": "Total number of votes polled = (1136 + 7636 + 11628) = 20400. Required percentage = 11628 x 100 % = 57%. 20400"
+  },
+  {
+    "qid": "319",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "Two tailors X and Y are paid a total of Rs. 550 per week by their employer. If X is paid 120 percent of the sum paid to Y, how much is Y paid per week?",
+    "options": {
+      "A": "Rs. 200",
+      "B": "Rs. 250",
+      "C": "Rs. 300",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Let the sum paid to Y per week be Rs. z . Then, z + 120% of z = 550. z + 120 z = 550 100 11 z = 550 5 z = 550 x 5 = 250. 11"
+  },
+  {
+    "qid": "315",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "Gauri went to the stationers and bought things worth Rs. 25, out of which 30 paise went on sales tax on taxable purchases. If the tax rate was 6%, then what was the cost of the tax free items?",
+    "options": {
+      "A": "Rs. 15",
+      "B": "Rs. 15.70",
+      "C": "Rs. 19.70",
+      "D": "Rs. 20"
+    },
+    "answer": "C",
+    "explanation": "Let the amount taxable purchases be Rs. x . Then, 6% of x = 30 100 x = 30 x 100 = 5. 100 6 Cost of tax free items = Rs. [25 - (5 + 0.30)] = Rs. 19.70"
+  },
+  {
+    "qid": "309",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "Rajeev buys good worth Rs. 6650. He gets a rebate of 6% on it. After getting the rebate, he pays sales tax @ 10%. Find the amount he will have to pay for the goods.",
+    "options": {
+      "A": "Rs. 6876.10",
+      "B": "Rs. 6999.20",
+      "C": "Rs. 6654",
+      "D": "Rs. 7000"
+    },
+    "answer": "A",
+    "explanation": "Rebate = 6% of Rs. 6650 = Rs. 6 x 6650 = Rs. 399. 100 Sales tax = 10% of Rs. (6650 - 399) = Rs. 10 x 6251 = Rs. 625.10 100 Final amount = Rs. (6251 + 625.10) = Rs. 6876.10 Video Explanation: https://youtu.be/XuiggCTh3SU"
+  },
+  {
+    "qid": "313",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "The population of a town increased from 1,75,000 to 2,62,500 in a decade. The average percent increase of population per year is:",
+    "options": {
+      "A": "4.37%",
+      "B": "5%",
+      "C": "6%",
+      "D": "8.75%"
+    },
+    "answer": "B",
+    "explanation": "Increase in 10 years = (262500 - 175000) = 87500. Increase% = 87500 x 100 % = 50%. 175000 Required average = 50 % = 5%. 10"
+  },
+  {
+    "qid": "283",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years,  how many times would he be of Ronit's age?",
+    "options": {
+      "A": "2 times",
+      "B": "2 1 times 2",
+      "C": "2 3 times 4",
+      "D": "3 times"
+    },
+    "answer": "A",
+    "explanation": "Let Ronit's present age be x years. Then, father's present age =( x + 3 x ) years = 4 x years. (4 x + 8) = 5 ( x + 8) 2 8 x + 16 = 5 x + 40 3 x = 24 x = 8. Hence, required ratio = (4 x + 16) = 48 = 2. ( x + 16) 24"
+  },
+  {
+    "qid": "282",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+    "options": {
+      "A": "4 years",
+      "B": "8 years",
+      "C": "10 years",
+      "D": "None of these"
+    },
+    "answer": "A",
+    "explanation": "Let the ages of children be x , ( x + 3), ( x + 6), ( x + 9) and ( x + 12) years. Then, x + ( x + 3) + ( x + 6) + ( x + 9) + ( x + 12) = 50 5 x = 20 x = 4. Age of the youngest child = x = 4 years."
+  },
+  {
+    "qid": "284",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was:",
+    "options": {
+      "A": "14 years",
+      "B": "19 years",
+      "C": "33 years",
+      "D": "38 years"
+    },
+    "answer": "A",
+    "explanation": "Let the son's present age be x years. Then, (38 - x ) = x 2 x = 38. x = 19. Son's age 5 years back (19 - 5) = 14 years."
+  },
+  {
+    "qid": "276",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "A is two years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10",
+      "E": "11"
+    },
+    "answer": "D",
+    "explanation": "Let C's age be x years. Then, B's age = 2 x years. A's age = (2 x + 2) years. (2 x + 2) + 2 x + x = 27 5 x = 25 x = 5. Hence, B's age = 2 x = 10 years."
+  },
+  {
+    "qid": "273",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?",
+    "options": {
+      "A": "24",
+      "B": "27",
+      "C": "40",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "Let the present ages of Sameer and Anand be 5 x years and 4 x years respectively. Then, 5 x + 3 = 11 4 x + 3 9 9(5 x + 3) = 11(4 x + 3) 45 x + 27 = 44 x + 33 45 x - 44 x = 33 - 27 x = 6. Anand's present age = 4 x = 24 years."
+  },
+  {
+    "qid": "277",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "A man is 24 years older than his son. In two years, his age will be twice the age of his son. The present age of his son is:",
+    "options": {
+      "A": "14 years",
+      "B": "18 years",
+      "C": "20 years",
+      "D": "22 years"
+    },
+    "answer": "D",
+    "explanation": "Let the son's present age be x years. Then, man's present age = ( x + 24) years. ( x + 24) + 2 = 2( x + 2) x + 26 = 2 x + 4 x = 22."
+  },
+  {
+    "qid": "274",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "Six years ago, the ratio of the ages of Kunal and Sagar was 6 : 5. Four years hence, the ratio of their ages will be 11 : 10. What is Sagar's age at present?",
+    "options": {
+      "A": "16 years",
+      "B": "18 years",
+      "C": "20 years",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "Let the ages of Kunal and Sagar 6 years ago be 6 x and 5 x years respectively. Then, (6 x + 6) + 4 = 11 (5 x + 6) + 4 10 10(6 x + 10) = 11(5 x + 10) 5 x = 10 x = 2. Sagar's present age = (5 x + 6) = 16 years."
+  },
+  {
+    "qid": "280",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, father's age was five times the age of the son. After 6 years, son's age will be:",
+    "options": {
+      "A": "12 years",
+      "B": "14 years",
+      "C": "18 years",
+      "D": "20 years"
+    },
+    "answer": "D",
+    "explanation": "Let the present ages of son and father be x and (60 - x ) years respectively. Then, (60 - x ) - 6 = 5( x - 6) 54 - x = 5 x - 30 6 x = 84 x = 14. Son's age after 6 years = ( x + 6) = 20 years.."
+  },
+  {
+    "qid": "272",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "At present, the ratio between the ages of Arun and Deepak is 4 : 3. After 6 years, Arun's age will be 26 years. What is the age of Deepak at present ?",
+    "options": {
+      "A": "12 years",
+      "B": "15 years",
+      "C": "19 and half",
+      "D": "21 years"
+    },
+    "answer": "B",
+    "explanation": "Let the present ages of Arun and Deepak be 4 x years and 3 x years respectively. Then, 4 x + 6 = 26 4 x = 20 x = 5. Deepak's age = 3 x = 15 years."
+  },
+  {
+    "qid": "271",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "Sachin is younger than Rahul by 7 years. If their ages are in the respective ratio of  7 : 9, how old is Sachin?",
+    "options": {
+      "A": "16 years",
+      "B": "18 years",
+      "C": "28 years",
+      "D": "24.5 years",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "Let Rahul's age be x years. Then, Sachin's age = ( x - 7) years. x - 7 = 7 x 9 9 x - 63 = 7 x 2 x = 63 x = 31.5 Hence, Sachin's age =( x - 7) = 24.5 years."
+  },
+  {
+    "qid": "275",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "The present ages of three persons in proportions 4 : 7 : 9. Eight years ago, the sum of their ages was 56. Find their present ages (in years).",
+    "options": {
+      "A": "8, 20, 28",
+      "B": "16, 28, 36",
+      "C": "20, 35, 45",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Let their present ages be 4 x , 7 x and 9 x years respectively. Then, (4 x - 8) + (7 x - 8) + (9 x - 8) = 56 20 x = 80 x = 4. Their present ages are 4 x = 16 years, 7 x = 28 years and 9 x = 36 years respectively."
+  },
+  {
+    "qid": "285",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "Ayesha's father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born. What is the difference between the ages of her parents?",
+    "options": {
+      "A": "2 years",
+      "B": "4 years",
+      "C": "6 years",
+      "D": "8 years"
+    },
+    "answer": "C",
+    "explanation": "Mother's age when Ayesha's brother was born = 36 years. Father's age when Ayesha's brother was born = (38 + 4) years = 42 years. Required difference = (42 - 36) years = 6 years."
+  },
+  {
+    "qid": "278",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present?",
+    "options": {
+      "A": "32 years",
+      "B": "36 years",
+      "C": "40 years",
+      "D": "48 years"
+    },
+    "answer": "C",
+    "explanation": "Let the mother's present age be x years. Then, the person's present age = 2 x years. 5 2 x + 8 = 1 ( x + 8) 5 2 2(2 x + 40) = 5( x + 8) x = 40."
+  },
+  {
+    "qid": "281",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
+    "options": {
+      "A": "1 year",
+      "B": "2 years",
+      "C": "25 years",
+      "D": "Data inadequate",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "Given that: 1. The difference of age b/w R and Q = The difference of age b/w Q and T. 2. Sum of age of R and T is 50 i.e. (R + T) = 50. Question: R - Q = ?. Explanation: R - Q = Q - T (R + T) = 2Q Now given that, (R + T) = 50 So, 50 = 2Q and therefore Q = 25. Question is (R - Q) = ? Here we know the value(age) of Q (25), but we don't know the age of R. Therefore, (R-Q) cannot be determined."
+  },
+  {
+    "qid": "279",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is:",
+    "options": {
+      "A": "5 : 2",
+      "B": "7 : 3",
+      "C": "9 : 2",
+      "D": "13 : 4"
+    },
+    "answer": "B",
+    "explanation": "Let the ages of father and son 10 years ago be 3 x and x years respectively. Then, (3 x + 10) + 10 = 2[( x + 10) + 10] 3 x + 20 = 2 x + 40 x = 20. Required ratio = (3 x + 10) : ( x + 10) = 70 : 30 = 7 : 3."
+  }
+]

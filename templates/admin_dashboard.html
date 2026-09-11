@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+
+{% block title %}Admin Dashboard{% endblock %}
+
+{% block header_extra %}
+<a href="/admin/logout" class="btn btn-danger">Logout</a>
+{% endblock %}
+
+{% block content %}
+<h2>Create New Quiz</h2>
+
+<form method="post" action="/admin/quiz/create" class="card">
+    <div class="form-group">
+        <label for="title">Quiz Title</label>
+        <input type="text" id="title" name="title" required>
+    </div>
+
+    <div class="form-group">
+        <label for="time_limit">Time Limit (minutes)</label>
+        <input type="number" id="time_limit" name="time_limit" min="1" value="30" required>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+        <div class="form-group">
+            <label for="marks_correct">Marks per Correct Answer</label>
+            <input type="number" id="marks_correct" name="marks_correct" step="0.5" value="1" required>
+        </div>
+
+        <div class="form-group">
+            <label for="marks_wrong">Marks per Wrong Answer (negative marking)</label>
+            <input type="number" id="marks_wrong" name="marks_wrong" step="0.25" value="0">
+            <small style="color: #666;">Use negative values like -0.25 for penalty, or 0 for no penalty</small>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>
+            <input type="checkbox" name="show_explanations" value="true">
+            Show correct answers and explanations after submission
+        </label>
+    </div>
+
+    <h3>Select Questions by Topic</h3>
+    <div style="margin-bottom: 1.5rem;">
+        {% for topic in topics %}
+        <div class="form-group" style="border-left: 3px solid #3498db; padding-left: 1rem;">
+            <label for="topic_{{ topic.sub_tag }}">
+                <strong>{{ topic.main_tag }}</strong> → {{ topic.sub_tag }}
+                <span style="color: #666;">({{ topic.question_count }} available)</span>
+            </label>
+            <div style="display: flex; align-items: center; gap: 1rem;">
+                <input type="range"
+                       id="topic_{{ topic.sub_tag }}"
+                       name="topic_{{ topic.sub_tag }}"
+                       min="0"
+                       max="{{ topic.question_count }}"
+                       value="0"
+                       oninput="document.getElementById('count_{{ topic.sub_tag }}').textContent = this.value"
+                       style="flex: 1;">
+                <span id="count_{{ topic.sub_tag }}" style="font-weight: bold; min-width: 30px;">0</span>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <button type="submit" class="btn btn-success">Create Quiz</button>
+</form>
+
+<h2 style="margin-top: 3rem;">Existing Quizzes</h2>
+
+{% if quizzes %}
+<div class="card">
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Questions</th>
+                <th>Time Limit</th>
+                <th>Created</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for quiz in quizzes %}
+            <tr>
+                <td>{{ quiz.title }}</td>
+                <td>{{ quiz.question_ids|length }}</td>
+                <td>{{ quiz.time_limit_minutes }} min</td>
+                <td>{{ quiz.created_at.strftime('%Y-%m-%d %H:%M') }}</td>
+                <td>
+                    <a href="/admin/quiz/{{ quiz.id }}/results" class="btn" style="padding: 5px 10px; font-size: 14px;">View Results</a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% else %}
+<p class="alert alert-info">No quizzes created yet.</p>
+{% endif %}
+{% endblock %}

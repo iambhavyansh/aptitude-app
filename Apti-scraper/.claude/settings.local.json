@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m pip list)",
+      "Bash(python3 *)",
+      "Bash(echo \"Scraper started with PID: $!\")",
+      "Bash(kill 15442)",
+      "Bash(tee scraper_full.log)",
+      "Bash(chmod +x monitor_progress.py)",
+      "Bash(tee -a scraper_continue.log)"
+    ]
+  }
+}

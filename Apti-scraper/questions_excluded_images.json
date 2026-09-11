@@ -1,0 +1,3157 @@
+[
+  {
+    "qid": "462",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains are moving in opposite directions @ 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:",
+    "options": {
+      "A": "36",
+      "B": "45",
+      "C": "48",
+      "D": "49"
+    },
+    "answer": "C",
+    "explanation": "Relative speed = (60+ 90) km/hr = 150 x 5 m/sec 18 = 125 m/sec. 3 Distance covered = (1.10 + 0.9) km = 2 km = 2000 m. Required time = 2000 x 3 sec = 48 sec. 125"
+  },
+  {
+    "qid": "461",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite directions on parallel tracks. The time (in seconds) which they take to cross each other, is:",
+    "options": {
+      "A": "9",
+      "B": "9.6",
+      "C": "10",
+      "D": "10.8"
+    },
+    "answer": "D",
+    "explanation": "Relative speed = (60 + 40) km/hr = 100 x 5 m/sec = 250 m/sec. 18 9 Distance covered in crossing each other = (140 + 160) m = 300 m. Required time = 300 x 9 sec = 54 sec = 10.8 sec. 250 5"
+  },
+  {
+    "qid": "803",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "How many seconds will a 500 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+    "options": {
+      "A": "25",
+      "B": "30",
+      "C": "40",
+      "D": "45"
+    },
+    "answer": "B",
+    "explanation": "Speed of the train relative to man = (63 - 3) km/hr = 60 km/hr = 60 x 5 m/sec 18 = 50 m/sec. 3 Time taken to pass the man = 500 x 3 sec 50 = 30 sec."
+  },
+  {
+    "qid": "805",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains are running in opposite directions with the same speed. If the length of each train is 120 metres and they cross each other in 12 seconds, then the speed of each train (in km/hr) is:",
+    "options": {
+      "A": "10",
+      "B": "18",
+      "C": "36",
+      "D": "72"
+    },
+    "answer": "C",
+    "explanation": "Let the speed of each train be x m/sec. Then, relative speed of the two trains = 2 x m/sec. So, 2 x = (120 + 120) 12 2 x = 20 x = 10. Speed of  each train = 10 m/sec = 10 x 18 km/hr = 36 km/hr. 5"
+  },
+  {
+    "qid": "806",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-trains",
+    "question": "Two trains of equal lengths take 10 seconds and 15 seconds respectively to cross a telegraph post. If the length of each train be 120 metres, in what time (in seconds) will they cross each other travelling in opposite direction?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "20"
+    },
+    "answer": "B",
+    "explanation": "Speed of the first train = 120 m/sec = 12 m/sec. 10 Speed of the second train = 120 m/sec = 8 m/sec. 15 Relative speed = (12 + 8) = 20 m/sec. Required time = (120 + 120) sec = 12 sec. 20"
+  },
+  {
+    "qid": "444",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "12",
+      "D": "20"
+    },
+    "answer": "B",
+    "explanation": "Due to stoppages, it covers 9 km less. Time taken to cover 9 km = 9 x 60 min = 10 min. 54"
+  },
+  {
+    "qid": "442",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-distance",
+    "question": "A man covered a certain distance at some speed. Had he moved 3 kmph faster, he would have taken 40 minutes less. If he had moved 2 kmph slower, he would have taken 40 minutes more. The distance (in km) is:",
+    "options": {
+      "A": "35",
+      "B": "36 2 3",
+      "C": "37 1 2",
+      "D": "40"
+    },
+    "answer": "D",
+    "explanation": "Let distance = x km and usual rate = y kmph. Then, x - x = 40 2 y ( y + 3) = 9 x ....(i) y y + 3 60 And, x - x = 40 y ( y - 2) = 3 x ....(ii) y -2 y 60 On dividing (i) by (ii), we get: x = 40."
+  },
+  {
+    "qid": "822",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?",
+    "options": {
+      "A": "5",
+      "B": "5 1 2",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "C",
+    "explanation": "B's 10 day's work = 1 x 10 = 2 . 15 3 Remaining work = 1 - 2 = 1 . 3 3 Now, 1 work is done by A in 1 day. 18 1 work is done by A in 18 x 1 = 6 days. 3 3"
+  },
+  {
+    "qid": "409",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?",
+    "options": {
+      "A": "35",
+      "B": "40",
+      "C": "45",
+      "D": "50"
+    },
+    "answer": "B",
+    "explanation": "Let 1 man's 1 day's work = x and 1 woman's 1 day's work = y . Then, 4 x + 6 y = 1 and 3 x + 7 y = 1 . 8 10 Solving the two equations, we get: x = 11 , y = 1 400 400 1 woman's 1 day's work = 1 . 400 10 women's 1 day's work = 1 x 10 = 1 . 400 40 Hence, 10 women will complete the work in 40 days."
+  },
+  {
+    "qid": "826",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "A and B can together finish a work 30 days. They worked together for 20 days and then B left. After another 20 days, A finished the remaining work. In how many days A alone can finish the work?",
+    "options": {
+      "A": "40",
+      "B": "50",
+      "C": "54",
+      "D": "60"
+    },
+    "answer": "D",
+    "explanation": "(A + B)'s 20 day's work = 1 x 20 = 2 . 30 3 Remaining work = 1 - 2 = 1 . 3 3 Now, 1 work is done by A in 20 days. 3 Therefore, the whole work will be done by A in (20 x 3) = 60 days."
+  },
+  {
+    "qid": "408",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "10 women can complete a work in 7 days and 10 children take 14 days to complete the work. How many days will 5 women and 10 children take to complete the work?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "C",
+    "explanation": "1 woman's 1 day's work = 1 70 1 child's 1 day's work = 1 140 (5 women + 10 children)'s day's work = 5 + 10 = 1 + 1 = 1 70 140 14 14 7 5 women and 10 children will complete the work in 7 days."
+  },
+  {
+    "qid": "401",
+    "main_tag": "aptitude",
+    "sub_tag": "time-and-work",
+    "question": "Sakshi can do a piece of work in 20 days. Tanya is 25% more efficient than Sakshi. The number of days taken by Tanya to do the same piece of work is:",
+    "options": {
+      "A": "15",
+      "B": "16",
+      "C": "18",
+      "D": "25"
+    },
+    "answer": "B",
+    "explanation": "Ratio of times taken by Sakshi and Tanya = 125 : 100 = 5 : 4. Suppose Tanya takes x days to do the work. 5 : 4 :: 20 : x x = 4 x 20 5 x = 16 days. Hence, Tanya takes 16 days to complete the work."
+  },
+  {
+    "qid": "513",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+    "options": {
+      "A": "3.6",
+      "B": "6",
+      "C": "18",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Let rate = R% and time = R years. Then, 1200 x R x R = 432 100 12R 2 = 432 R 2 = 36 R = 6. Video Explanation: https://youtu.be/TjjI4iRkzT0"
+  },
+  {
+    "qid": "512",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
+    "options": {
+      "A": "3%",
+      "B": "4%",
+      "C": "5%",
+      "D": "6%",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "S.I. = Rs. (15500 - 12500) = Rs. 3000. Rate = 100 x 3000 % = 6% 12500 x 4 Video Explanation: https://youtu.be/SIcQu1HOmOk"
+  },
+  {
+    "qid": "521",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A lent Rs. 5000 to B for 2 years and Rs. 3000 to C for 4 years on simple interest at the same rate of interest and received Rs. 2200 in all from both of them as interest. The rate of interest per annum is:",
+    "options": {
+      "A": "5%",
+      "B": "7%",
+      "C": "7 1 % 8",
+      "D": "10%"
+    },
+    "answer": "D",
+    "explanation": "Let the rate be R% p.a. Then, 5000 x R x 2 + 3000 x R x 4 = 2200. 100 100 100R + 120R = 2200 R = 2200 = 10. 220 Rate = 10%."
+  },
+  {
+    "qid": "522",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
+    "options": {
+      "A": "3.6%",
+      "B": "4.5%",
+      "C": "5%",
+      "D": "6%",
+      "E": "None of these"
+    },
+    "answer": "E",
+    "explanation": "Let the original rate be R%. Then, new rate = (2R)%. Note: Here, original rate is for 1 year(s); the new rate is for only 4 months i.e. year(s). 725 x R x 1 + 362.50 x 2R x 1 = 33.50 100 100 x 3 (2175 + 725) R = 33.50 x 100 x 3 (2175 + 725) R = 10050 (2900)R = 10050 R = 10050 = 3.46 2900 Original rate = 3.46%"
+  },
+  {
+    "qid": "520",
+    "main_tag": "aptitude",
+    "sub_tag": "simple-interest",
+    "question": "A sum of money amounts to Rs. 9800 after 5 years and Rs. 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is:",
+    "options": {
+      "A": "5%",
+      "B": "8%",
+      "C": "12%",
+      "D": "15%"
+    },
+    "answer": "C",
+    "explanation": "S.I. for 3 years = Rs. (12005 - 9800) = Rs. 2205. S.I. for 5 years = Rs. 2205 x 5 = Rs. 3675 3 Principal = Rs. (9800 - 3675) = Rs. 6125. Hence, rate = 100 x 3675 % = 12% 6125 x 5 Video Explanation: https://youtu.be/UYwiBCRN39s"
+  },
+  {
+    "qid": "536",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
+    "options": {
+      "A": "2",
+      "B": "2 1 2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "A",
+    "explanation": "Amount = Rs. (30000 + 4347) = Rs. 34347. Let the time be n years. Then, 30000 1 + 7 n = 34347 100 107 n = 34347 = 11449 = 107 2 100 30000 10000 100 n = 2 years."
+  },
+  {
+    "qid": "537",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "At what rate of compound interest per annum will a sum of Rs. 1200 become Rs. 1348.32 in 2 years?",
+    "options": {
+      "A": "6%",
+      "B": "6.5%",
+      "C": "7%",
+      "D": "7.5%"
+    },
+    "answer": "A",
+    "explanation": "Let the rate be R% p.a. Then, 1200 x 1 + R 2 = 1348.32 100 1 + R 2 = 134832 = 11236 100 120000 10000 1 + R 2 = 106 2 100 100 1 + R = 106 100 100 R = 6%"
+  },
+  {
+    "qid": "544",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "The least number of complete years in which a sum of money put out at 20% compound interest will be more than doubled is:",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "B",
+    "explanation": "P 1 + 20 n > 2P 6 n > 2. 100 5 Now, 6 x 6 x 6 x 6 > 2. 5 5 5 5 So, n = 4 years."
+  },
+  {
+    "qid": "541",
+    "main_tag": "aptitude",
+    "sub_tag": "compound-interest",
+    "question": "The difference between compound interest and simple interest on an amount of Rs. 15,000 for 2 years is Rs. 96. What is the rate of interest per annum?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "15000 x 1 + R 2 - 15000 - 15000 x R x 2 = 96 100 100 15000 1 + R 2 - 1 - 2R = 96 100 100 15000 (100 + R) 2 - 10000 - (200 x R) = 96 10000 R 2 = 96 x 2 = 64 3 R = 8. Rate = 8%."
+  },
+  {
+    "qid": "334",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+    "options": {
+      "A": "15",
+      "B": "16",
+      "C": "18",
+      "D": "25"
+    },
+    "answer": "B",
+    "explanation": "Let C.P. of each article be Re. 1 C.P. of x articles = Rs. x . S.P. of x articles = Rs. 20. Profit = Rs. (20 - x ). 20 - x x 100 = 25 x 2000 - 100 x = 25 x 125 x = 2000 x = 16. Video Explanation: https://youtu.be/sidqvjUoZxY"
+  },
+  {
+    "qid": "337",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "C",
+    "explanation": "C.P. of 6 toffees = Re. 1 S.P. of 6 toffees = 120% of Re. 1 = Rs. 6 5 For Rs. 6 , toffees sold = 6. 5 For Re. 1, toffees sold = 6 x 5 = 5. 6 Video Explanation: https://youtu.be/7wKrnZ0LKA8"
+  },
+  {
+    "qid": "338",
+    "main_tag": "aptitude",
+    "sub_tag": "profit-and-loss",
+    "question": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
+    "options": {
+      "A": "No profit, no loss",
+      "B": "5%",
+      "C": "8%",
+      "D": "10%",
+      "E": "None of these"
+    },
+    "answer": "B",
+    "explanation": "C.P. of 56 kg rice = Rs. (26 x 20 + 30 x 36) = Rs. (520 + 1080) = Rs. 1600. S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680. Gain = 80 x 100 % = 5%. 1600"
+  },
+  {
+    "qid": "310",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+    "options": {
+      "A": "1",
+      "B": "14",
+      "C": "20",
+      "D": "21"
+    },
+    "answer": "C",
+    "explanation": "Clearly, the numbers which have 1 or 9 in the unit's digit, have squares that end in the digit 1. Such numbers from 1 to 70 are 1, 9, 11, 19, 21, 29, 31, 39, 41, 49, 51, 59, 61, 69. Number of such number =14 Required percentage = 14 x 100 % = 20%. 70 Video Explanation: https://youtu.be/cBamI6iRNIA"
+  },
+  {
+    "qid": "320",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is of the number of students of 8 years of age which is 48. What is the total number of students in the school?",
+    "options": {
+      "A": "72",
+      "B": "80",
+      "C": "120",
+      "D": "150",
+      "E": "100"
+    },
+    "answer": "E",
+    "explanation": "Let the number of students be x . Then, Number of students above 8 years of age = (100 - 20)% of x = 80% of x . 80% of x = 48 + 2 of 48 3 80 x = 80 100 x = 100. Video Explanation: https://youtu.be/yPfocU6DA2M"
+  },
+  {
+    "qid": "313",
+    "main_tag": "aptitude",
+    "sub_tag": "percentage",
+    "question": "The population of a town increased from 1,75,000 to 2,62,500 in a decade. The average percent increase of population per year is:",
+    "options": {
+      "A": "4.37%",
+      "B": "5%",
+      "C": "6%",
+      "D": "8.75%"
+    },
+    "answer": "B",
+    "explanation": "Increase in 10 years = (262500 - 175000) = 87500. Increase% = 87500 x 100 % = 50%. 175000 Required average = 50 % = 5%. 10"
+  },
+  {
+    "qid": "276",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "A is two years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10",
+      "E": "11"
+    },
+    "answer": "D",
+    "explanation": "Let C's age be x years. Then, B's age = 2 x years. A's age = (2 x + 2) years. (2 x + 2) + 2 x + x = 27 5 x = 25 x = 5. Hence, B's age = 2 x = 10 years."
+  },
+  {
+    "qid": "273",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-ages",
+    "question": "Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?",
+    "options": {
+      "A": "24",
+      "B": "27",
+      "C": "40",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "Let the present ages of Sameer and Anand be 5 x years and 4 x years respectively. Then, 5 x + 3 = 11 4 x + 3 9 9(5 x + 3) = 11(4 x + 3) 45 x + 27 = 44 x + 33 45 x - 44 x = 33 - 27 x = 6. Anand's present age = 4 x = 24 years."
+  },
+  {
+    "qid": "644",
+    "main_tag": "aptitude",
+    "sub_tag": "clock",
+    "question": "The angle between the minute hand and the hour hand of a clock when the time is 4.20, is:",
+    "options": {
+      "A": "0°",
+      "B": "10°",
+      "C": "5°",
+      "D": "20°"
+    },
+    "answer": "B",
+    "explanation": "Angle traced by hour hand in 13 hrs = 360 x 13 ° = 130°. 3 12 3 Angle traced by min. hand in 20 min. = 360 x 20 ° = 120°. 60 Required angle = (130 - 120)° = 10°."
+  },
+  {
+    "qid": "649",
+    "main_tag": "aptitude",
+    "sub_tag": "clock",
+    "question": "How many times are the hands of a clock at right angle in a day?",
+    "options": {
+      "A": "22",
+      "B": "24",
+      "C": "44",
+      "D": "48"
+    },
+    "answer": "C",
+    "explanation": "In 12 hours, they are at right angles 22 times. In 24 hours, they are at right angles 44 times."
+  },
+  {
+    "qid": "650",
+    "main_tag": "aptitude",
+    "sub_tag": "clock",
+    "question": "How many times in a day, are the hands of a clock in straight line but opposite in direction?",
+    "options": {
+      "A": "20",
+      "B": "22",
+      "C": "24",
+      "D": "48"
+    },
+    "answer": "B",
+    "explanation": "The hands of a clock point in opposite directions (in the same straight line) 11 times in every 12 hours. (Because between 5 and 7 they point in opposite directions at 6 o'clock only). So, in a day, the hands point in the opposite directions 22 times."
+  },
+  {
+    "qid": "647",
+    "main_tag": "aptitude",
+    "sub_tag": "clock",
+    "question": "How many times do the hands of a clock coincide in a day?",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "24"
+    },
+    "answer": "C",
+    "explanation": "The hands of a clock coincide 11 times in every 12 hours (Since between 11 and 1, they coincide only once, i.e., at 12 o'clock). AM 12:00 1:05 2:11 3:16 4:22 5:27 6:33 7:38 8:44 9:49 10:55 PM 12:00 1:05 2:11 3:16 4:22 5:27 6:33 7:38 8:44 9:49 10:55 The hands overlap about every 65 minutes, not every 60 minutes. The hands coincide 22 times in a day."
+  },
+  {
+    "qid": "648",
+    "main_tag": "aptitude",
+    "sub_tag": "clock",
+    "question": "How many times in a day, the hands of a clock are straight?",
+    "options": {
+      "A": "22",
+      "B": "24",
+      "C": "44",
+      "D": "48"
+    },
+    "answer": "C",
+    "explanation": "In 12 hours, the hands coincide or are in opposite direction 22 times. In 24 hours, the hands coincide or are in opposite direction 44 times a day."
+  },
+  {
+    "qid": "232",
+    "main_tag": "aptitude",
+    "sub_tag": "average",
+    "question": "The average of 20 numbers is zero. Of them, at the most, how many may be greater than zero?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "10",
+      "D": "19"
+    },
+    "answer": "D",
+    "explanation": "Average of 20 numbers = 0. Sum of 20 numbers (0 x 20) = 0. It is quite possible that 19 of these numbers may be positive and if their sum is a then 20th number is (- a )."
+  },
+  {
+    "qid": "240",
+    "main_tag": "aptitude",
+    "sub_tag": "average",
+    "question": "A pupil's marks were wrongly entered as 83 instead of 63. Due to that the average marks for the class got increased by half (1/2). The number of pupils in the class is:",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "40",
+      "D": "73"
+    },
+    "answer": "C",
+    "explanation": "Let there be x pupils in the class. Total increase in marks = x x 1 = x 2 2 x = (83 - 63) x = 20 x = 40. 2 2"
+  },
+  {
+    "qid": "580",
+    "main_tag": "aptitude",
+    "sub_tag": "area",
+    "question": "An error 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is:",
+    "options": {
+      "A": "2%",
+      "B": "2.02%",
+      "C": "4%",
+      "D": "4.04%"
+    },
+    "answer": "D",
+    "explanation": "100 cm is read as 102 cm. A 1 = (100 x 100) cm 2 and A 2 (102 x 102) cm 2 . (A 2 - A 1 ) = [(102) 2 - (100) 2 ] = (102 + 100) x (102 - 100) = 404 cm 2 . Percentage error = 404 x 100 % = 4.04% 100 x 100"
+  },
+  {
+    "qid": "572",
+    "main_tag": "aptitude",
+    "sub_tag": "area",
+    "question": "The diagonal of the floor of a rectangular closet is 7 feet. The shorter side of the closet is 4 feet. What is the area of the closet in square feet?",
+    "options": {
+      "A": "5 1 4",
+      "B": "13 1 2",
+      "C": "27",
+      "D": "37"
+    },
+    "answer": "C",
+    "explanation": "Other side = 15 2 - 9 2 2 2 ft = 225 - 81 4 4 ft = 144 4 ft = 6 ft. Area of closet = (6 x 4.5) sq. ft = 27 sq. ft."
+  },
+  {
+    "qid": "579",
+    "main_tag": "aptitude",
+    "sub_tag": "area",
+    "question": "A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?",
+    "options": {
+      "A": "20",
+      "B": "24",
+      "C": "30",
+      "D": "33"
+    },
+    "answer": "C",
+    "explanation": "Let the side of the square(ABCD) be x metres. Then, AB + BC = 2 x metres. AC = 2 x = (1.41 x ) m. Saving on 2 x metres = (0.59 x ) m. Saving % = 0.59 x x 100 % = 30% (approx.) 2 x"
+  },
+  {
+    "qid": "568",
+    "main_tag": "aptitude",
+    "sub_tag": "area",
+    "question": "The length of a rectangular plot is 20 metres more than its breadth. If the cost of fencing the plot @ 26.50 per metre is Rs. 5300, what is the length of the plot in metres?",
+    "options": {
+      "A": "40",
+      "B": "50",
+      "C": "120",
+      "D": "Data inadequate",
+      "E": "None of these"
+    },
+    "answer": "E",
+    "explanation": "Let breadth = x metres. Then, length = ( x + 20) metres. Perimeter = 5300 m = 200 m. 26.50 2[( x + 20) + x ] = 200 2 x + 20 = 100 2 x = 80 x = 40. Hence, length = x + 20 = 60 m."
+  },
+  {
+    "qid": "570",
+    "main_tag": "aptitude",
+    "sub_tag": "area",
+    "question": "A rectangular field is to be fenced on three sides leaving a side of 20 feet uncovered. If the area of the field is 680 sq. feet, how many feet of fencing will be required?",
+    "options": {
+      "A": "34",
+      "B": "40",
+      "C": "68",
+      "D": "88"
+    },
+    "answer": "D",
+    "explanation": "We have: l = 20 ft and lb = 680 sq. ft. So, b = 34 ft. Length of fencing = ( l + 2 b ) = (20 + 68) ft = 88 ft."
+  },
+  {
+    "qid": "601",
+    "main_tag": "aptitude",
+    "sub_tag": "volume-and-surface-area",
+    "question": "66 cubic centimetres of silver is drawn into a wire 1 mm in diameter. The length of the wire in metres will be:",
+    "options": {
+      "A": "84",
+      "B": "90",
+      "C": "168",
+      "D": "336"
+    },
+    "answer": "A",
+    "explanation": "Let the length of the wire be h . Radius = 1 mm = 1 cm. Then, 2 20 22 x 1 x 1 x h = 66. 7 20 20 h = 66 x 20 x 20 x 7 = 8400 cm = 84 m. 22"
+  },
+  {
+    "qid": "686",
+    "main_tag": "aptitude",
+    "sub_tag": "permutation-and-combination",
+    "question": "How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20"
+    },
+    "answer": "D",
+    "explanation": "Since each desired number is divisible by 5, so we must have 5 at the unit place. So, there is 1 way of doing it. The tens place can now be filled by any of the remaining 5 digits (2, 3, 6, 7, 9). So, there are 5 ways of filling the tens place. The hundreds place can now be filled by any of the remaining 4 digits. So, there are 4 ways of filling it. Required number of numbers = (1 x 5 x 4) = 20."
+  },
+  {
+    "qid": "685",
+    "main_tag": "aptitude",
+    "sub_tag": "permutation-and-combination",
+    "question": "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+    "options": {
+      "A": "32",
+      "B": "48",
+      "C": "64",
+      "D": "96",
+      "E": "None of these"
+    },
+    "answer": "C",
+    "explanation": "We may have(1 black and 2 non-black) or (2 black and 1 non-black) or (3 black). Required number of ways = ( 3 C 1 x 6 C 2 ) + ( 3 C 2 x 6 C 1 ) + ( 3 C 3 ) = 3 x 6 x 5 + 3 x 2 x 6 + 1 2 x 1 2 x 1 = (45 + 18 + 1) = 64."
+  },
+  {
+    "qid": "680",
+    "main_tag": "aptitude",
+    "sub_tag": "permutation-and-combination",
+    "question": "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+    "options": {
+      "A": "32",
+      "B": "48",
+      "C": "36",
+      "D": "60",
+      "E": "120"
+    },
+    "answer": "C",
+    "explanation": "There are 6 letters in the given word, out of which there are 3 vowels and 3 consonants. Let us mark these positions as under: (1) (2) (3) (4) (5) (6) Now, 3 vowels can be placed at any of the three places, marked 1, 3, 5. Number of ways of arranging the vowels = 3 P 3 = 3! = 6. Also, the 3 consonants can be arranged at the remaining 3 positions. Number of ways of these arrangements = 3 P 3 = 3! = 6. Total number of ways = (6 x 6) = 36."
+  },
+  {
+    "qid": "681",
+    "main_tag": "aptitude",
+    "sub_tag": "permutation-and-combination",
+    "question": "In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?",
+    "options": {
+      "A": "63",
+      "B": "90",
+      "C": "126",
+      "D": "45",
+      "E": "135"
+    },
+    "answer": "A",
+    "explanation": "Required number of ways = ( 7 C 5 x 3 C 2 ) = ( 7 C 2 x 3 C 1 ) = 7 x 6 x 3 = 63. 2 x 1"
+  },
+  {
+    "qid": "74",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "Which one of the following is not a prime number?",
+    "options": {
+      "A": "31",
+      "B": "61",
+      "C": "71",
+      "D": "91"
+    },
+    "answer": "D",
+    "explanation": "91 is divisible by 7. So, it is not a prime number."
+  },
+  {
+    "qid": "87",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "What least number must be added to 1056, so that the sum is completely divisible by 23 ?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "18",
+      "D": "21",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "23) 1056 (45\n      92\n      ---\n      136\n      115\n      ---\n       21\n      ---\n     \n Required number = (23 - 21)    \n                 = 2."
+  },
+  {
+    "qid": "119",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "How many of the following numbers are divisible by 132 ? 264, 396, 462, 792, 968, 2178, 5184, 6336",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "A",
+    "explanation": "132 = 4 x 3 x 11 So, if the number divisible by all the three number 4, 3 and 11, then the number is divisible by 132 also. 264 11,3,4  (/) 396 11,3,4 (/) 462 11,3 (X) 792 11,3,4  (/) 968 11,4  (X) 2178 11,3 (X) 5184 3,4 (X) 6336 11,3,4  (/) Therefore the following numbers are divisible by 132 : 264, 396, 792 and 6336. Required number of number = 4."
+  },
+  {
+    "qid": "73",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "Which of the following is a prime number ?",
+    "options": {
+      "A": "33",
+      "B": "81",
+      "C": "93",
+      "D": "97"
+    },
+    "answer": "D",
+    "explanation": "Clearly, 97 is a prime number."
+  },
+  {
+    "qid": "9",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "What is the unit digit in {(6374) 1793 x (625) 317 x (341 491 )}?",
+    "options": {
+      "A": "0",
+      "B": "2",
+      "C": "3",
+      "D": "5"
+    },
+    "answer": "A",
+    "explanation": "Unit digit in (6374) 1793 = Unit digit in (4) 1793 = Unit digit in [(4 2 ) 896 x 4] = Unit digit in (6 x 4) = 4 Unit digit in (625) 317 = Unit digit in (5) 317 = 5 Unit digit in (341) 491 = Unit digit in (1) 491 = 1 Required digit = Unit digit in (4 x 5 x 1) = 0."
+  },
+  {
+    "qid": "71",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "The sum of first five prime numbers is:",
+    "options": {
+      "A": "11",
+      "B": "18",
+      "C": "26",
+      "D": "28"
+    },
+    "answer": "D",
+    "explanation": "Required sum = (2 + 3 + 5 + 7 + 11) = 28. Note: 1 is not a prime number. Definition: A prime number (or a prime) is a natural number that has exactly two distinct natural number divisors: 1 and itself."
+  },
+  {
+    "qid": "52",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "If the number 517*324 is completely divisible by 3, then the smallest whole number in the place of * will be:",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "None of these"
+    },
+    "answer": "C",
+    "explanation": "Sum of digits = (5 + 1 + 7 + x + 3 + 2 + 4) = (22 + x ),  which must be divisible by 3. x = 2."
+  },
+  {
+    "qid": "53",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "If the number 481 * 673 is completely divisible by 9, then the smallest whole number in place of * will be:",
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "Sum of digits = (4 + 8 + 1 + x + 6 + 7 + 3) = (29 + x), which must be divisible by 9. x = 7."
+  },
+  {
+    "qid": "92",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "On dividing a number by 56, we get 29 as remainder. On dividing the same number by 8, what will be the remainder ?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "B",
+    "explanation": "Formula: (Divisor*Quotient) + Remainder = Dividend. Soln: (56*Q)+29 = D -------(1) D%8 = R -------------(2) From equation(2), ((56*Q)+29)%8 = R. => Assume Q = 1. => (56+29)%8 = R. => 85%8 = R => 5 = R."
+  },
+  {
+    "qid": "106",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "What will be remainder when (67 67 + 67) is divided by 68 ?",
+    "options": {
+      "A": "1",
+      "B": "63",
+      "C": "66",
+      "D": "67"
+    },
+    "answer": "C",
+    "explanation": "( x n + 1) will be divisible by ( x + 1) only when n is odd. (67 67 + 1) will be divisible by (67 + 1) (67 67 + 1) + 66, when divided by 68 will give 66 as remainder."
+  },
+  {
+    "qid": "94",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "On dividing a number by 5, we get 3 as remainder. What will the remainder when the square of the this number is divided by 5 ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    },
+    "answer": "D",
+    "explanation": "Let the number be x and on dividing x by 5, we get k as quotient and 3 as remainder. x = 5k + 3 x 2 = (5k + 3) 2 = (25 k 2 + 30 k + 9) = 5(5 k 2 + 6 k + 1) + 4 On dividing x 2 by 5, we get 4 as remainder."
+  },
+  {
+    "qid": "133",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "How many natural numbers are there between 23 and 100 which are exactly divisible by 6 ?",
+    "options": {
+      "A": "8",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "Required numbers are 24, 30, 36, 42, ..., 96 This is an A.P. in which a = 24, d = 6 and l = 96 Let the number of terms in it be n . Then t n = 96 a + ( n - 1) d = 96 24 + ( n - 1) x 6 = 96 ( n - 1) x 6 = 72 ( n - 1) = 12 n = 13 Required number of numbers = 13."
+  },
+  {
+    "qid": "117",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "How many of the following numbers are divisible by 3 but not by 9 ? 2133, 2343, 3474, 4131, 5286, 5340, 6336, 7347, 8115, 9276",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Marking (/) those which are are divisible by 3 by not by 9 and the others by (X), by taking the sum of digits, we get:s 2133 9  (X) 2343 12 (/) 3474 18 (X) 4131 9  (X) 5286 21 (/) 5340 12 (/) 6336 18 (X) 7347 21 (/) 8115 15 (/) 9276 24 (/) Required number of numbers = 6."
+  },
+  {
+    "qid": "48",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "(963 + 476) 2 + (963 - 476) 2 = ? (963 x 963 + 476 x 476)",
+    "options": {
+      "A": "1449",
+      "B": "497",
+      "C": "2",
+      "D": "4",
+      "E": "None of these"
+    },
+    "answer": "C",
+    "explanation": "Given Exp. = ( a + b ) 2 + ( a - b ) 2 = 2( a 2 + b 2 ) = 2 ( a 2 + b 2 ) ( a 2 + b 2 )"
+  },
+  {
+    "qid": "114",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "A 3-digit number 4 a 3 is added to another 3-digit number 984 to give a 4-digit number 13 b 7, which is divisible by 11. Then, ( a + b ) = ?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "15"
+    },
+    "answer": "A",
+    "explanation": "4 a 3  |\r\n 9 8 4  }  ==> a + 8 = b ==> b - a = 8  \r\n13 b 7  | Also, 13 b 7 is divisible by 11 (7 + 3) - ( b + 1) = (9 - b ) (9 - b ) = 0 b = 9 ( b = 9 and a = 1) ( a + b ) = 10."
+  },
+  {
+    "qid": "70",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "The smallest prime number is:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B",
+    "explanation": "The smallest prime number is 2."
+  },
+  {
+    "qid": "93",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "On dividing a number by 357, we get 39 as remainder. On dividing the same number 17, what will be the remainder ?",
+    "options": {
+      "A": "0",
+      "B": "3",
+      "C": "5",
+      "D": "11"
+    },
+    "answer": "C",
+    "explanation": "Let x be the number and y be the quotient. Then, x = 357 x y + 39 = (17 x 21 x y ) + (17 x 2) + 5 = 17 x (21 y + 2) + 5) Required remainder = 5."
+  },
+  {
+    "qid": "60",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "If the product 4864 x 9 P 2 is divisible by 12, then the value of P is:",
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "6",
+      "D": "8",
+      "E": "None of these"
+    },
+    "answer": "E",
+    "explanation": "Clearly, 4864 is divisible by 4. So, 9P2 must be divisible by 3. So, (9 + P + 2) must be divisible by 3. P = 1."
+  },
+  {
+    "qid": "125",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "A number when divided by 296 leaves 75 as remainder. When the same number is divided by 37, the remainder will be:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "8",
+      "D": "11"
+    },
+    "answer": "A",
+    "explanation": "Let x = 296 q + 75 = (37 x 8 q + 37 x 2) + 1 = 37 (8 q + 2) + 1 Thus, when the number is divided by 37, the remainder is 1."
+  },
+  {
+    "qid": "81",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "What smallest number should be added to 4456 so that the sum is completely divisible by 6 ?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1",
+      "E": "None of these"
+    },
+    "answer": "C",
+    "explanation": "6) 4456 (742\n    42\n    ---\n     25\n     24        Therefore, Required number = (6 - 4) = 2.\n     ---\n      16\n      12\n      ---\n       4"
+  },
+  {
+    "qid": "86",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "What least number must be subtracted from 13601, so that the remainder is divisible by 87 ?",
+    "options": {
+      "A": "23",
+      "B": "31",
+      "C": "29",
+      "D": "37",
+      "E": "49"
+    },
+    "answer": "C",
+    "explanation": "87) 13601 (156\n     87\n     ----\n      490\n      435\n      ----\n       551\n       522\n       ---\n        29\n       ---\n       \n Therefore, the required number = 29."
+  },
+  {
+    "qid": "54",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "If the number 97215 * 6 is completely divisible by 11, then the smallest whole number in place of * will be:",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "1",
+      "D": "5",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "Given number = 97215 x 6 (6 + 5 + 2 + 9) - ( x + 1 + 7) = (14 - x), which must be divisible by 11. x = 3"
+  },
+  {
+    "qid": "61",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "If the number 5 * 2 is divisible by 6, then * = ?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "A",
+    "explanation": "6 = 3 x 2. Clearly, 5 * 2 is divisible by 2. Replace * by x . Then, (5 + x + 2) must be divisible by 3. So, x = 2."
+  },
+  {
+    "qid": "107",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "Which of the following numbers will completely divide (49 15 - 1) ?",
+    "options": {
+      "A": "8",
+      "B": "14",
+      "C": "46",
+      "D": "50"
+    },
+    "answer": "A",
+    "explanation": "( x n - 1) will be divisibly by ( x + 1) only when n is even. (49 15 - 1) = {(7 2 ) 15 - 1} = (7 30 - 1), which is divisible by (7 +1), i.e. , 8."
+  },
+  {
+    "qid": "100",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "On dividing 2272 as well as 875 by 3-digit number N, we get the same remainder. The sum of the digits of N is:",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "answer": "A",
+    "explanation": "Clearly, (2272 - 875) = 1397, is exactly divisible by N. Now, 1397 = 11 x 127 The required 3-digit number is 127, the sum of whose digits is 10."
+  },
+  {
+    "qid": "72",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "How many prime numbers are less than 50 ?",
+    "options": {
+      "A": "16",
+      "B": "15",
+      "C": "14",
+      "D": "18"
+    },
+    "answer": "B",
+    "explanation": "Prime numbers less than 50 are: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 Their number is 15"
+  },
+  {
+    "qid": "58",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "If the number 42573 * is exactly divisible by 72, then the minimum value of * is:",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "8"
+    },
+    "answer": "C",
+    "explanation": "72 = 9 x8, where 9 and 8 are co-prime. The minimum value of x for which 73 x for which 73 x is divisible by 8 is, x = 6. Sum of digits in 425736 = (4 + 2 + 5 + 7 + 3 + 6) = 27, which is divisible by 9. Required value of * is 6."
+  },
+  {
+    "qid": "105",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "n is a whole number which when divided by 4 gives 3 as remainder. What will be the remainder when 2 n is divided by 4 ?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "1",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "Let n = 4 q + 3. Then 2 n = 8 q + 6   = 4(2 q + 1 ) + 2. Thus, when 2 n is divided by 4, the remainder is 2."
+  },
+  {
+    "qid": "47",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "(489 + 375) 2 - (489 - 375) 2 = ? (489 x 375)",
+    "options": {
+      "A": "144",
+      "B": "864",
+      "C": "2",
+      "D": "4",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "Given Exp. = ( a + b ) 2 - ( a - b ) 2 = 4 ab = 4 ab ab"
+  },
+  {
+    "qid": "113",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "Which of the following numbers will completely divide (3 25 + 3 26 + 3 27 + 3 28 ) ?",
+    "options": {
+      "A": "11",
+      "B": "16",
+      "C": "25",
+      "D": "30"
+    },
+    "answer": "D",
+    "explanation": "(3 25 + 3 26 + 3 27 + 3 28 ) = 3 25 x (1 + 3 + 3 2 + 3 3 ) = 3 25 x 40 = 3 24 x 3 x 4 x 10 = (3 24 x 4 x 30), which is divisible by30."
+  },
+  {
+    "qid": "120",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "A number when divide by 6 leaves a remainder 3. When the square of the number is divided by 6, the remainder is:",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "D",
+    "explanation": "Let x = 6 q + 3. Then, x 2 = (6 q + 3) 2 = 36 q 2 + 36 q + 9 = 6(6 q 2 + 6 q + 1) + 3 Thus, when x 2 is divided by 6, then remainder = 3."
+  },
+  {
+    "qid": "109",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "What will be remainder when 17 200 is divided by 18 ?",
+    "options": {
+      "A": "17",
+      "B": "16",
+      "C": "1",
+      "D": "2"
+    },
+    "answer": "C",
+    "explanation": "When n is even. ( x n - a n ) is completely divisibly by ( x + a ) (17 200 - 1 200 ) is completely divisible by (17 + 1), i.e., 18. (17 200 - 1) is completely divisible by 18. On dividing 17 200 by 18, we get 1 as remainder."
+  },
+  {
+    "qid": "102",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "The difference of the squares of two consecutive even integers is divisible by which of the following integers ?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "B",
+    "explanation": "Let the two consecutive even integers  be 2 n and (2 n + 2). Then, (2 n + 2) 2 = (2 n + 2 + 2 n )(2 n + 2 - 2 n ) = 2(4 n + 2) = 4(2 n + 1), which is divisible by 4."
+  },
+  {
+    "qid": "135",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "The sum of how many terms of the series 6 + 12 + 18 + 24 + ... is 1800 ?",
+    "options": {
+      "A": "16",
+      "B": "24",
+      "C": "20",
+      "D": "18",
+      "E": "22"
+    },
+    "answer": "B",
+    "explanation": "This is an A.P. in which a = 6, d = 6 and S n = 1800 Then, n [2 a + ( n - 1) d ] = 1800 2 n [2 x 6 + ( n - 1) x 6] = 1800 2 3 n ( n + 1) = 1800 n ( n + 1) = 600 n 2 + n - 600 = 0 n 2 + 25 n - 24 n - 600 = 0 n ( n + 25) - 24( n + 25) = 0 ( n + 25)( n - 24) = 0 n = 24 Number of terms = 24."
+  },
+  {
+    "qid": "7",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "What is the unit digit in(7 95 - 3 58 )?",
+    "options": {
+      "A": "0",
+      "B": "4",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "B",
+    "explanation": "Unit digit in 7 95 = Unit digit in [(7 4 ) 23 x 7 3 ] = Unit digit in [(Unit digit in(2401)) 23 x (343)] = Unit digit in (1 23 x 343) = Unit digit in (343) = 3 Unit digit in 3 58 = Unit digit in [(3 4 ) 14 x 3 2 ] = Unit digit in [Unit digit in (81) 14 x 3 2 ] = Unit digit in [(1) 14 x 3 2 ] = Unit digit in (1 x 9) = Unit digit in (9) = 9 Unit digit in (7 95 - 3 58 ) = Unit digit in (343 - 9) = Unit digit in (334) = 4. So, Option B is the answer."
+  },
+  {
+    "qid": "136",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "How many terms are there in the G.P. 3, 6, 12, 24, ... , 384 ?",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11",
+      "E": "7"
+    },
+    "answer": "A",
+    "explanation": "Here a = 3 and r = 6 = 2. Let the number of terms be n . 3 Then, t n = 384 ar n -1 = 384 3 x 2 n - 1 = 384 2 n -1 = 128 = 2 7 n - 1 = 7 n = 8 Number of terms = 8."
+  },
+  {
+    "qid": "96",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "In a division sum, the remainder is 0. As student mistook the divisor by 12 instead of 21 and obtained 35 as quotient. What is the correct quotient ?",
+    "options": {
+      "A": "0",
+      "B": "12",
+      "C": "13",
+      "D": "20"
+    },
+    "answer": "D",
+    "explanation": "Number = (12 x 35) Correct Quotient = 420 ÷ 21 = 20"
+  },
+  {
+    "qid": "68",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "The sum of even numbers between 1 and 31 is:",
+    "options": {
+      "A": "6",
+      "B": "28",
+      "C": "240",
+      "D": "512"
+    },
+    "answer": "C",
+    "explanation": "Let S n = (2 + 4 + 6 + ... + 30). This is an A.P. in which a = 2, d = 2 and l = 30 Let the number of terms be n. Then, a + ( n - 1) d = 30 2 + ( n - 1) x 2 = 30 n = 15. S n = n ( a + l ) = 15 x (2 + 30) = (15 x 16) = 240. 2 2"
+  },
+  {
+    "qid": "55",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "If the number 91876 * 2 is completely divisible by 8, then the smallest whole number in place of * will be:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "None of these"
+    },
+    "answer": "C",
+    "explanation": "Then number 6 x 2 must be divisible by 8. x = 3, as 632 is divisible 8."
+  },
+  {
+    "qid": "98",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "If 60% of 3 of a number is 36, then the number is: 5",
+    "options": {
+      "A": "80",
+      "B": "100",
+      "C": "75",
+      "D": "90"
+    },
+    "answer": "B",
+    "explanation": "Let the number be x . Then 60% of 3 of x = 36 5 60 x 3 x x = 36 100 5 x = 36 x 25 = 100 9 Required number = 100"
+  },
+  {
+    "qid": "59",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "If x and y are the two digits of the number 653 x y such that this number is divisible by 80, then x + y = ?",
+    "options": {
+      "A": "2 or 6",
+      "B": "4",
+      "C": "4 or 8",
+      "D": "8",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "80 = 2 x 5 x 8 Since 653 xy is divisible by 2 and 5 both, so y = 0. Now, 653 x is divisible by 8, so 13 x should be divisible by 8. This happens when x = 6. x + y = (6 + 0) = 6."
+  },
+  {
+    "qid": "103",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "The difference of the squares of two consecutive odd integers is divisible by which of the following integers ?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "D",
+    "explanation": "Let the two consecutive odd integers be (2 n + 1) and (2 n + 3). Then, (2 n + 3) 2 - (2 n + 1) 2 = (2 n + 3 + 2 n + 1) (2 n + 3 - 2 n - 1) = (4 n + 4) x 2 = 8( n + 1), which is divisible by 8."
+  },
+  {
+    "qid": "8",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "What is the unit digit in (4137) 754 ?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "7",
+      "D": "9"
+    },
+    "answer": "D",
+    "explanation": "Unit digit in (4137) 754 = Unit digit in {[(4137) 4 ] 188 x (4137) 2 } =Unit digit in { 292915317923361 x 17114769 } = (1 x 9) = 9"
+  },
+  {
+    "qid": "25",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "666 ÷ 6 ÷ 3 = ?",
+    "options": {
+      "A": "37",
+      "B": "333",
+      "C": "111",
+      "D": "84",
+      "E": "None of these"
+    },
+    "answer": "A",
+    "explanation": "Given Exp. = 666 x 1 x 1 = 37. 6 3"
+  },
+  {
+    "qid": "91",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "On dividing a number by 68, we get 269 as quotient and 0 as remainder. On dividing the same number by 67, what will the remainder ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "B",
+    "explanation": "Number = 269 x 68 + 0 = 18292\n\n 67) 18292 (273\n     134\n     ----\n      489\n      469\n      ----\n       202\n       201\n       ---\n         1\n       ---\n       \nTherefore, Required remainder = 1"
+  },
+  {
+    "qid": "6",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "What is the unit digit in the product (3 65 x 6 59 x 7 71 )?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "6"
+    },
+    "answer": "C",
+    "explanation": "Unit digit in 3 4 = 1 Unit digit in (3 4 ) 16 = 1 Unit digit in 3 65 = Unit digit in [ (3 4 ) 16 x 3 ] = (1 x 3) = 3 Unit digit in 6 59 = 6 Unit digit in 7 4 Unit digit in (7 4 ) 17 is 1. Unit digit in 7 71 = Unit digit in [(7 4 ) 17 x 7 3 ] = (1 x 3) = 3 Required digit = Unit digit in (3 x 6 x 3) = 4."
+  },
+  {
+    "qid": "4",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "The unit digit in the product (784 x 618 x 917 x 463) is:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "A",
+    "explanation": "Unit digit in the given product = Unit digit in (4 x 8 x 7 x 3) = (672) = 2"
+  },
+  {
+    "qid": "116",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "If the number 653 xy is divisible by 90, then ( x + y ) = ?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "answer": "C",
+    "explanation": "90 = 10 x 9 Clearly, 653 xy is divisible by 10, so y = 0 Now, 653 x 0 is divisible by 9. So, (6 + 5 + 3 + x + 0) = (14 + x ) is divisible by 9. So, x = 4. Hence, ( x + y ) = (4 + 0) = 4."
+  },
+  {
+    "qid": "5",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "What is the unit digit in 7 105 ?",
+    "options": {
+      "A": "1",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "answer": "C",
+    "explanation": "Unit digit in 7 105 = Unit digit in [ (7 4 ) 26 x 7 ] But, unit digit in (7 4 ) 26 = 1 Unit digit in 7 105 = (1 x 7) = 7"
+  },
+  {
+    "qid": "112",
+    "main_tag": "aptitude",
+    "sub_tag": "numbers",
+    "question": "Which of the following numbers will completely divide (4 61 + 4 62 + 4 63 + 4 64 ) ?",
+    "options": {
+      "A": "3",
+      "B": "10",
+      "C": "11",
+      "D": "13"
+    },
+    "answer": "B",
+    "explanation": "(4 61 + 4 62 + 4 63 + 4 64 ) = 4 61 x (1 + 4 + 4 2 + 4 3 ) = 4 61 x 85 = 4 60 x (4 x 85) = (4 60 x 340), which is divisible by 10."
+  },
+  {
+    "qid": "251",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "If one-third of one-fourth of a number is 15, then three-tenth of that number is:",
+    "options": {
+      "A": "35",
+      "B": "36",
+      "C": "45",
+      "D": "54"
+    },
+    "answer": "D",
+    "explanation": "Let the number be x . Then, 1 of 1 of x = 15 x = 15 x 3 x 4 = 180. 3 4 So, required number = 3 x 180 = 54. 10 Video Explanation: https://youtu.be/z49OUnzTnwY"
+  },
+  {
+    "qid": "256",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is:",
+    "options": {
+      "A": "9",
+      "B": "11",
+      "C": "13",
+      "D": "15"
+    },
+    "answer": "D",
+    "explanation": "Let the three integers be x , x + 2 and x + 4. Then, 3 x = 2( x + 4) + 3 x = 11. Third integer = x + 4 = 15. Video Explanation: https://youtu.be/_77C9YE321Y"
+  },
+  {
+    "qid": "261",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "The difference between a two-digit number and the number obtained by interchanging the positions of its digits is 36. What is the difference between the two digits of that number?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "9",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Let the ten's digit be x and unit's digit be y . Then, (10 x + y ) - (10 y + x ) = 36 9( x - y ) = 36 x - y = 4. Video Explanation: https://youtu.be/7QOJjAmGVx0"
+  },
+  {
+    "qid": "262",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "The difference between a two-digit number and the number obtained by interchanging the digits is 36. What is the difference between the sum and the difference of the digits of the number if the ratio between the digits of the number is 1 : 2 ?",
+    "options": {
+      "A": "4",
+      "B": "8",
+      "C": "16",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Since the number is greater than the number obtained on reversing the digits, so the ten's digit is greater than the unit's digit. Let ten's and unit's digits be 2 x and x respectively. Then, (10 x 2 x + x ) - (10 x + 2 x ) = 36 9 x = 36 x = 4. Required difference = (2 x + x ) - (2 x - x ) = 2 x = 8."
+  },
+  {
+    "qid": "264",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "A two-digit number is such that the product of the digits is 8. When 18 is added to the number, then the digits are reversed. The number is:",
+    "options": {
+      "A": "18",
+      "B": "24",
+      "C": "42",
+      "D": "81"
+    },
+    "answer": "B",
+    "explanation": "Let the ten's and unit digit be x and 8 respectively. x Then, 10 x + 8 + 18 = 10 x 8 + x x x 10 x 2 + 8 + 18 x = 80 + x 2 9 x 2 + 18 x - 72 = 0 x 2 + 2 x - 8 = 0 ( x + 4)( x - 2) = 0 x = 2."
+  },
+  {
+    "qid": "258",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "The sum of the digits of a two-digit number is 15 and the difference between the digits is 3. What is the two-digit number?",
+    "options": {
+      "A": "69",
+      "B": "78",
+      "C": "96",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "Let the ten's digit be x and unit's digit be y . Then, x + y = 15 and x - y = 3   or y - x = 3. Solving x + y = 15   and x - y = 3, we get: x = 9, y = 6. Solving x + y = 15   and y - x = 3, we get: x = 6, y = 9. So, the number is either 96 or 69. Hence, the number cannot be determined."
+  },
+  {
+    "qid": "265",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "The sum of the squares of three numbers is 138, while the sum of their products taken two at a time is 131. Their sum is:",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "40",
+      "D": "None of these"
+    },
+    "answer": "A",
+    "explanation": "Let the numbers be a , b and c . Then, a 2 + b 2 + c 2 = 138 and ( ab + bc + ca ) = 131. (a + b + c) 2 = a 2 + b 2 + c 2 + 2( ab + bc + ca ) = 138 + 2 x 131 = 400. ( a + b + c ) = 400 = 20. Video Explanation: https://youtu.be/qmJ-0X8j_xQ"
+  },
+  {
+    "qid": "260",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "A number consists of two digits. If the digits interchange places and the new number is added to the original number, then the resulting number will be divisible by:",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "9",
+      "D": "11"
+    },
+    "answer": "D",
+    "explanation": "Let the ten's digit be x and unit's digit be y . Then, number = 10 x + y . Number obtained by interchanging the digits = 10 y + x . (10 x + y ) + (10 y + x ) = 11( x + y ), which is divisible by 11. Video Explanation: https://youtu.be/lytJE8GqRvM"
+  },
+  {
+    "qid": "259",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "In a two-digit, if it is known that its unit's digit exceeds its ten's digit by 2 and that the product of the given number and the sum of its digits is equal to 144, then the number is:",
+    "options": {
+      "A": "24",
+      "B": "26",
+      "C": "42",
+      "D": "46"
+    },
+    "answer": "A",
+    "explanation": "Let the ten's digit be x . Then, unit's digit = x + 2. Number = 10 x + ( x + 2) = 11 x + 2. Sum of digits = x + ( x + 2) = 2 x + 2. (11 x + 2)(2 x + 2) = 144 22 x 2 + 26 x - 140 = 0 11 x 2 + 13 x - 70 = 0 ( x - 2)(11 x + 35) = 0 x = 2. Hence, required number = 11 x + 2 = 24."
+  },
+  {
+    "qid": "252",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "Find a positive number which when increased by 17 is equal to 60 times the reciprocal of the number.",
+    "options": {
+      "A": "3",
+      "B": "10",
+      "C": "17",
+      "D": "20"
+    },
+    "answer": "A",
+    "explanation": "Let the number be x . Then, x + 17 = 60 x x 2 + 17 x - 60 = 0 ( x + 20)( x - 3) = 0 x = 3."
+  },
+  {
+    "qid": "255",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "The product of two numbers is 120 and the sum of their squares is 289. The sum of the number is:",
+    "options": {
+      "A": "20",
+      "B": "23",
+      "C": "169",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Let the numbers be x and y . Then, x y = 120 and x 2 + y 2 = 289. ( x + y ) 2 = x 2 + y 2 + 2 x y = 289 + (2 x 120) = 529 x + y = 529 = 23."
+  },
+  {
+    "qid": "257",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-numbers",
+    "question": "What is the sum of two consecutive even numbers, the difference of whose squares is 84?",
+    "options": {
+      "A": "34",
+      "B": "38",
+      "C": "42",
+      "D": "46"
+    },
+    "answer": "C",
+    "explanation": "Let the numbers be x and x + 2. Then, ( x + 2) 2 - x 2 = 84 4 x + 4 = 84 4 x = 80 x = 20. The required sum = x + ( x + 2) = 2 x + 2 = 42."
+  },
+  {
+    "qid": "158",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+    "options": {
+      "A": "4",
+      "B": "7",
+      "C": "9",
+      "D": "13"
+    },
+    "answer": "A",
+    "explanation": "Required number = H.C.F. of (91 - 43), (183 - 91) and (183 - 43) = H.C.F. of 48, 92 and 140 = 4."
+  },
+  {
+    "qid": "169",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together ?",
+    "options": {
+      "A": "4",
+      "B": "10",
+      "C": "15",
+      "D": "16"
+    },
+    "answer": "D",
+    "explanation": "L.C.M. of 2, 4, 6, 8, 10, 12 is 120. So, the bells will toll together after every 120 seconds(2 minutes). In 30 minutes, they will toll together 30 + 1 = 16 times. 2"
+  },
+  {
+    "qid": "159",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "A",
+    "explanation": "N = H.C.F. of (4665 - 1305), (6905 - 4665) and (6905 - 1305) = H.C.F. of 3360, 2240 and 5600 = 1120. Sum of digits in N = ( 1 + 1 + 2 + 0 ) = 4"
+  },
+  {
+    "qid": "153",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "Three number are in the ratio of 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is:",
+    "options": {
+      "A": "40",
+      "B": "80",
+      "C": "120",
+      "D": "200"
+    },
+    "answer": "A",
+    "explanation": "Let the numbers be 3 x , 4 x and 5 x . Then, their L.C.M. = 60 x . So, 60 x = 2400 or x = 40. The numbers are (3 x 40), (4 x 40) and (5 x 40). Hence, required H.C.F. = 40."
+  },
+  {
+    "qid": "150",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B",
+    "explanation": "Let the numbers 13 a and 13 b . Then, 13 a x 13 b = 2028 ab = 12. Now, the co-primes with product 12 are (1, 12) and (3, 4). [Note: Two integers a and b are said to be coprime or relatively prime if they have no common positive factor other than 1 or, equivalently, if their greatest common divisor is 1 ] So, the required numbers are (13 x 1, 13 x 12) and (13 x 3, 13 x 4). Clearly, there are 2 such pairs."
+  },
+  {
+    "qid": "167",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "The least multiple of 7, which leaves a remainder of 4, when divided by 6, 9, 15 and 18 is:",
+    "options": {
+      "A": "74",
+      "B": "94",
+      "C": "184",
+      "D": "364"
+    },
+    "answer": "D",
+    "explanation": "L.C.M. of 6, 9, 15 and 18 is 90. Let required number be 90 k + 4, which is multiple of 7. Least value of k for which (90 k + 4) is divisible by 7 is k = 4. Required number = (90 x 4) + 4   = 364."
+  },
+  {
+    "qid": "164",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "The least number which should be added to 2497 so that the sum is exactly divisible by 5, 6, 4 and 3 is:",
+    "options": {
+      "A": "3",
+      "B": "13",
+      "C": "23",
+      "D": "33"
+    },
+    "answer": "C",
+    "explanation": "L.C.M. of 5, 6, 4 and 3 = 60. On dividing 2497 by 60, the remainder is 37. Number to be added = (60 - 37) = 23."
+  },
+  {
+    "qid": "148",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "The ratio of two numbers is 3 : 4 and their H.C.F. is 4. Their L.C.M. is:",
+    "options": {
+      "A": "12",
+      "B": "16",
+      "C": "24",
+      "D": "48"
+    },
+    "answer": "D",
+    "explanation": "Let the numbers be 3 x and 4 x . Then, their H.C.F. = x . So, x = 4. So, the numbers 12 and 16. L.C.M. of 12 and 16 = 48."
+  },
+  {
+    "qid": "151",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two is 1073. The sum of the three numbers is:",
+    "options": {
+      "A": "75",
+      "B": "81",
+      "C": "85",
+      "D": "89"
+    },
+    "answer": "C",
+    "explanation": "Since the numbers are co-prime, they contain only 1 as the common factor. Also, the given two products have the middle number in common. So, middle number = H.C.F. of 551 and 1073 = 29; First number = 551 = 19;    Third number = 1073 = 37. 29 29 Required sum = (19 + 29 + 37) = 85."
+  },
+  {
+    "qid": "144",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "Find the highest common factor of 36 and 84.",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "12",
+      "D": "18"
+    },
+    "answer": "C",
+    "explanation": "36 = 2 2 x 3 2 84 = 2 2 x 3 x 7 H.C.F.  = 2 2 x 3 =  12."
+  },
+  {
+    "qid": "152",
+    "main_tag": "aptitude",
+    "sub_tag": "problems-on-hcf-and-lcm",
+    "question": "The L.C.M. of two numbers is 48. The numbers are in the ratio 2 : 3. Then sum of the number is:",
+    "options": {
+      "A": "28",
+      "B": "32",
+      "C": "40",
+      "D": "64"
+    },
+    "answer": "C",
+    "explanation": "Let the numbers be 2 x and 3 x . Then, their L.C.M. = 6 x . So, 6 x = 48 or x = 8. The numbers are 16 and 24. Hence, required sum = (16 + 24) = 40."
+  },
+  {
+    "qid": "196",
+    "main_tag": "aptitude",
+    "sub_tag": "decimal-fraction",
+    "question": "Evaluate : (2.39) 2 - (1.61) 2 2.39 - 1.61",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "B",
+    "explanation": "Given Expression = a 2 - b 2 = ( a + b )( a - b ) = ( a + b ) = (2.39 + 1.61) = 4. a - b ( a - b )"
+  },
+  {
+    "qid": "183",
+    "main_tag": "aptitude",
+    "sub_tag": "decimal-fraction",
+    "question": ".009 = .01 ?",
+    "options": {
+      "A": ".0009",
+      "B": ".09",
+      "C": ".9",
+      "D": "9"
+    },
+    "answer": "C",
+    "explanation": "Let .009 = .01;     Then x = .009 = .9 = .9 x .01 1"
+  },
+  {
+    "qid": "197",
+    "main_tag": "aptitude",
+    "sub_tag": "decimal-fraction",
+    "question": "4.2 x 4.2 - 1.9 x 1.9 is equal to: 2.3 x 6.1",
+    "options": {
+      "A": "0.5",
+      "B": "1.0",
+      "C": "20",
+      "D": "22"
+    },
+    "answer": "B",
+    "explanation": "Given Expression = ( a 2 - b 2 ) = ( a 2 - b 2 ) = 1. ( a + b )( a - b ) ( a 2 - b 2 )"
+  },
+  {
+    "qid": "181",
+    "main_tag": "aptitude",
+    "sub_tag": "decimal-fraction",
+    "question": "How many digits will be there to the right of the decimal point in the product of 95.75 and .02554 ?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Sum of decimal places = 7. Since the last digit to the extreme right will be zero (since 5 x 4 = 20), so there will be 6 significant digits to the right of the decimal point."
+  },
+  {
+    "qid": "210",
+    "main_tag": "aptitude",
+    "sub_tag": "simplification",
+    "question": "A man  has  Rs.480 in the denominations of one-rupee notes, five-rupee notes and ten-rupee notes. The number of notes of each denomination is equal. What is the total number of notes that he has ?",
+    "options": {
+      "A": "45",
+      "B": "60",
+      "C": "75",
+      "D": "90"
+    },
+    "answer": "D",
+    "explanation": "Let number of notes of each denomination be x . Then x + 5 x + 10 x = 480 16 x = 480 x = 30. Hence, total number of notes = 3 x = 90."
+  },
+  {
+    "qid": "214",
+    "main_tag": "aptitude",
+    "sub_tag": "simplification",
+    "question": "There are two examinations rooms A and B. If 10 students are sent from A to B, then the number of students in each room is the same. If 20 candidates are sent from B to A, then the number of students in A is double the number of students in B. The number of students in room A is:",
+    "options": {
+      "A": "20",
+      "B": "80",
+      "C": "100",
+      "D": "200"
+    },
+    "answer": "C",
+    "explanation": "Let the number of students in rooms A and B be x and y respectively. Then, x - 10 = y + 10 x - y = 20 .... (i) and x + 20 = 2( y - 20) x - 2 y = -60 .... (ii) Solving (i) and (ii) we get: x = 100 , y = 80. The required answer A = 100."
+  },
+  {
+    "qid": "206",
+    "main_tag": "aptitude",
+    "sub_tag": "simplification",
+    "question": "If a - b = 3 and a 2 + b 2 = 29, find the value of ab.",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "18"
+    },
+    "answer": "A",
+    "explanation": "2 ab = ( a 2 + b 2 ) - ( a - b ) 2 = 29 - 9 = 20 ab = 10."
+  },
+  {
+    "qid": "203",
+    "main_tag": "aptitude",
+    "sub_tag": "simplification",
+    "question": "To fill a tank, 25 buckets of water is required. How many buckets of water will be required to fill the same tank if the capacity of the bucket is reduced to two-fifth of its present ?",
+    "options": {
+      "A": "10",
+      "B": "35",
+      "C": "62.5",
+      "D": "Cannot be determined",
+      "E": "None of these"
+    },
+    "answer": "C",
+    "explanation": "Let the capacity of 1 bucket = x . Then, the capacity of tank = 25 x . New capacity of bucket = 2 x 5 Required number of buckets = 25 x (2 x /5) = 25 x x 5 2 x = 125 2 = 62.5"
+  },
+  {
+    "qid": "215",
+    "main_tag": "aptitude",
+    "sub_tag": "simplification",
+    "question": "A man has some hens and cows. If the number of heads be 48 and the number of feet equals 140, then the number of hens will be:",
+    "options": {
+      "A": "22",
+      "B": "23",
+      "C": "24",
+      "D": "26"
+    },
+    "answer": "D",
+    "explanation": "Let the number of hens be x and the number of cows be y . Then, x + y = 48 .... (i) and 2 x + 4 y = 140 x + 2 y = 70  .... (ii) Solving (i) and (ii) we get: x = 26, y = 22. The required answer = 26."
+  },
+  {
+    "qid": "205",
+    "main_tag": "aptitude",
+    "sub_tag": "simplification",
+    "question": "(469 + 174) 2 - (469 - 174) 2 = ? (469 x 174)",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "295",
+      "D": "643"
+    },
+    "answer": "B",
+    "explanation": "Given exp. = ( a + b ) 2 - ( a - b ) 2 ab = 4 ab ab = 4 (where a = 469, b = 174.)"
+  },
+  {
+    "qid": "207",
+    "main_tag": "aptitude",
+    "sub_tag": "simplification",
+    "question": "David gets on the elevator at the 11 th floor of a building and rides up at the rate of 57 floors per minute. At the same time, Albert gets on an elevator at the 51st floor of the same building and rides down at the rate of 63 floors per minute. If they continue travelling at these rates, then at which floor will their paths cross ?",
+    "options": {
+      "A": "19",
+      "B": "28",
+      "C": "30",
+      "D": "37"
+    },
+    "answer": "C",
+    "explanation": "Suppose their paths cross after x minutes. Then, 11 + 57 x = 51 - 63 x 120 x = 40 x = 1 3 Number of floors covered by David in (1/3) min. = 1 x 57 = 19. 3 So, their paths cross at (11 +19) i.e., 30 th floor."
+  },
+  {
+    "qid": "230",
+    "main_tag": "aptitude",
+    "sub_tag": "square-root-and-cube-root",
+    "question": "The cube root of .000216 is:",
+    "options": {
+      "A": ".6",
+      "B": ".06",
+      "C": "77",
+      "D": "87"
+    },
+    "answer": "B",
+    "explanation": "(.000216) 1/3 = 216 1/3 10 6 = 6 x 6 x 6 1/3 10 2 x 10 2 x 10 2 = 6 10 2 = 6 100 = 0.06"
+  },
+  {
+    "qid": "220",
+    "main_tag": "aptitude",
+    "sub_tag": "square-root-and-cube-root",
+    "question": "What should come in place of both x in the equation x = 162 . 128 x",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "144",
+      "D": "196"
+    },
+    "answer": "A",
+    "explanation": "Let x = 162 128 x Then x 2 = 128 x 162 = 64 x 2 x 18 x 9 = 8 2 x 6 2 x 3 2 = 8 x 6 x 3 = 144. x = 144 = 12."
+  },
+  {
+    "qid": "228",
+    "main_tag": "aptitude",
+    "sub_tag": "square-root-and-cube-root",
+    "question": "If x = 3 + 1 and y = 3 - 1 , then the value of ( x 2 + y 2 ) is: 3 - 1 3 + 1",
+    "options": {
+      "A": "10",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    },
+    "answer": "C",
+    "explanation": "x = ( 3 + 1) x ( 3 + 1) = ( 3 + 1) 2 = 3 + 1 + 2 3 = 2 + 3 . ( 3 - 1) ( 3 + 1) (3 - 1) 2 y = ( 3 - 1) x ( 3 - 1) = ( 3 - 1) 2 = 3 + 1 - 2 3 = 2 - 3 . ( 3 + 1) ( 3 - 1) (3 - 1) 2 x 2 + y 2 = (2 + 3 ) 2 + (2 - 3 ) 2 = 2(4 + 3) = 14"
+  },
+  {
+    "qid": "229",
+    "main_tag": "aptitude",
+    "sub_tag": "square-root-and-cube-root",
+    "question": "A group of students decided to collect as many paise from each member of group as is the number of members. If the total collection amounts to Rs. 59.29, the number of the member is the group is:",
+    "options": {
+      "A": "57",
+      "B": "67",
+      "C": "77",
+      "D": "87"
+    },
+    "answer": "C",
+    "explanation": "Money collected = (59.29 x 100) paise = 5929 paise. Number of members = 5929 = 77."
+  },
+  {
+    "qid": "223",
+    "main_tag": "aptitude",
+    "sub_tag": "square-root-and-cube-root",
+    "question": "The square root of (7 + 3 5 ) (7 - 3 5 ) is",
+    "options": {
+      "A": "5",
+      "B": "2",
+      "C": "4",
+      "D": "3 5"
+    },
+    "answer": "B",
+    "explanation": "(7 + 3 5 )(7 - 3 5 ) = (7) 2 - (3 5 ) 2 = 49 - 45 = 4 = 2."
+  },
+  {
+    "qid": "217",
+    "main_tag": "aptitude",
+    "sub_tag": "square-root-and-cube-root",
+    "question": "625 x 14 x 11 is equal to: 11 25 196",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "8",
+      "D": "11"
+    },
+    "answer": "A",
+    "explanation": "Given Expression = 25 x 14 x 11 = 5. 11 5 14"
+  },
+  {
+    "qid": "218",
+    "main_tag": "aptitude",
+    "sub_tag": "square-root-and-cube-root",
+    "question": "How many two-digit numbers satisfy this property.: The last digit (unit's digit) of the square of the two-digit number is 8 ?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "None of these"
+    },
+    "answer": "D",
+    "explanation": "A number ending in 8 can never be a perfect square."
+  },
+  {
+    "qid": "299",
+    "main_tag": "aptitude",
+    "sub_tag": "surds-and-indices",
+    "question": "If a x - 1 = b x - 3 , then the value of x is: b a",
+    "options": {
+      "A": "1 2",
+      "B": "1",
+      "C": "2",
+      "D": "7 2"
+    },
+    "answer": "C",
+    "explanation": "Given a x - 1 = b x - 3 b a a x - 1 = a -( x - 3) = a (3 - x ) b b b x - 1 = 3 - x 2 x = 4 x = 2."
+  },
+  {
+    "qid": "308",
+    "main_tag": "aptitude",
+    "sub_tag": "surds-and-indices",
+    "question": "If 3 ( x - y ) = 27 and 3 ( x + y ) = 243, then x is equal to:",
+    "options": {
+      "A": "0",
+      "B": "2",
+      "C": "4",
+      "D": "6"
+    },
+    "answer": "C",
+    "explanation": "3 x - y = 27 = 3 3 x - y = 3 ....(i) 3 x + y = 243 = 3 5 x + y = 5 ....(ii) On solving (i) and (ii), we get x = 4."
+  },
+  {
+    "qid": "295",
+    "main_tag": "aptitude",
+    "sub_tag": "surds-and-indices",
+    "question": "(256) 0.16 x (256) 0.09 = ?",
+    "options": {
+      "A": "4",
+      "B": "16",
+      "C": "64",
+      "D": "256.25"
+    },
+    "answer": "A",
+    "explanation": "(256) 0.16 x (256) 0.09 = (256) (0.16 + 0.09) = (256) 0.25 = (256) (25/100) = (256) (1/4) = (4 4 ) (1/4) = 4 4(1/4) = 4 1 = 4"
+  },
+  {
+    "qid": "306",
+    "main_tag": "aptitude",
+    "sub_tag": "surds-and-indices",
+    "question": "1 + 1 + 1 = ? 1 + x ( b - a ) + x ( c - a ) 1 + x ( a - b ) + x ( c - b ) 1 + x ( b - c ) + x ( a - c )",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "x a - b - c",
+      "D": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Given Exp. = 1 + 1 + 1 1 + x b + x c x a x a 1 + x a + x c x b x b 1 + x b + x a x c x c = x a + x b + x c ( x a + x b + x c ) ( x a + x b + x c ) ( x a + x b + x c ) = ( x a + x b + x c ) ( x a + x b + x c ) = 1."
+  },
+  {
+    "qid": "298",
+    "main_tag": "aptitude",
+    "sub_tag": "surds-and-indices",
+    "question": "(25) 7.5 x (5) 2.5 ÷ (125) 1.5 = 5 ?",
+    "options": {
+      "A": "8.5",
+      "B": "13",
+      "C": "16",
+      "D": "17.5",
+      "E": "None of these"
+    },
+    "answer": "B",
+    "explanation": "Let (25) 7.5 x (5) 2.5 ÷ (125) 1.5 = 5 x . Then, (5 2 ) 7.5 x (5) 2.5 = 5 x (5 3 ) 1.5 5 (2 x 7.5) x 5 2.5 = 5 x 5 (3 x 1.5) 5 15 x 5 2.5 = 5 x 5 4.5 5 x = 5 (15 + 2.5 - 4.5) 5 x = 5 13 x = 13."
+  },
+  {
+    "qid": "304",
+    "main_tag": "aptitude",
+    "sub_tag": "surds-and-indices",
+    "question": "(243) n /5 x 3 2 n + 1 = ? 9 n x 3 n - 1",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "9",
+      "D": "3 n"
+    },
+    "answer": "C",
+    "explanation": "Given Expression = (243) ( n /5) x 3 2 n + 1 9 n x 3 n - 1 = (3 5 ) ( n /5) x 3 2 n + 1 (3 2 ) n x 3 n - 1 = (3 5 x ( n /5) x 3 2 n + 1 ) (3 2 n x 3 n - 1 ) = 3 n x 3 2 n + 1 3 2 n x 3 n - 1 = 3 ( n + 2 n + 1) 3 (2 n + n - 1 ) = 3 3 n + 1 3 3 n - 1 = 3 (3 n + 1 - 3 n + 1) = 3 2 = 9."
+  },
+  {
+    "qid": "305",
+    "main_tag": "aptitude",
+    "sub_tag": "surds-and-indices",
+    "question": "1 + 1 = ? 1 + a ( n - m ) 1 + a ( m - n )",
+    "options": {
+      "A": "0",
+      "B": "1 2",
+      "C": "1",
+      "D": "a m + n"
+    },
+    "answer": "C",
+    "explanation": "1 + 1 = 1 + 1 1 + a n a m 1 + a m a n 1 + a ( n - m ) 1 + a ( m - n ) = a m + a n ( a m + a n ) ( a m + a n ) = ( a m + a n ) ( a m + a n ) = 1."
+  },
+  {
+    "qid": "303",
+    "main_tag": "aptitude",
+    "sub_tag": "surds-and-indices",
+    "question": "If m and n are whole numbers such that m n = 121, the value of ( m - 1) n + 1 is:",
+    "options": {
+      "A": "1",
+      "B": "10",
+      "C": "121",
+      "D": "1000"
+    },
+    "answer": "D",
+    "explanation": "We know that 11 2 = 121. Putting m = 11 and n = 2, we get: ( m - 1) n + 1 = (11 - 1) (2 + 1) = 10 3 = 1000."
+  },
+  {
+    "qid": "301",
+    "main_tag": "aptitude",
+    "sub_tag": "surds-and-indices",
+    "question": "If x = 3 + 2 2 , then the value of x - 1 is: x",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "2 2",
+      "D": "3 3"
+    },
+    "answer": "B",
+    "explanation": "x - 1 2 = x + 1 - 2 x x = (3 + 2 2 ) + 1 - 2 (3 + 2 2 ) = (3 + 2 2 ) + 1 x (3 - 2 2 ) - 2 (3 + 2 2 ) (3 - 2 2 ) = (3 + 2 2 ) + (3 - 2 2 ) - 2 = 4. x - 1 = 2. x"
+  },
+  {
+    "qid": "352",
+    "main_tag": "aptitude",
+    "sub_tag": "ratio-and-proportion",
+    "question": "The sum of three numbers is 98. If the ratio of the first to second is 2 :3 and that of the second to the third is 5 : 8, then the second number is:",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "48",
+      "D": "58"
+    },
+    "answer": "B",
+    "explanation": "Let the three parts be A, B, C. Then, A : B = 2 : 3 and B : C = 5 : 8 = 5 x 3 : 8 x 3 = 3 : 24 5 5 5 A : B : C = 2 : 3 : 24 = 10 : 15 : 24 5 B = 98 x 15 = 30. 49"
+  },
+  {
+    "qid": "360",
+    "main_tag": "aptitude",
+    "sub_tag": "ratio-and-proportion",
+    "question": "The fourth proportional to 5, 8, 15 is:",
+    "options": {
+      "A": "18",
+      "B": "24",
+      "C": "19",
+      "D": "20"
+    },
+    "answer": "B",
+    "explanation": "Let the fourth proportional to 5, 8, 15 be x . Then, 5 : 8 : 15 : x 5 x = (8 x 15) x = (8 x 15) = 24. 5"
+  },
+  {
+    "qid": "349",
+    "main_tag": "aptitude",
+    "sub_tag": "ratio-and-proportion",
+    "question": "Two number are in the ratio 3 : 5. If 9 is subtracted from each, the new numbers are in the ratio 12 : 23. The smaller number is:",
+    "options": {
+      "A": "27",
+      "B": "33",
+      "C": "49",
+      "D": "55"
+    },
+    "answer": "B",
+    "explanation": "Let the numbers be 3 x and 5 x . Then, 3 x - 9 = 12 5 x - 9 23 23(3 x - 9) = 12(5 x - 9) 9 x = 99 x = 11. The smaller number = (3 x 11) = 33."
+  },
+  {
+    "qid": "394",
+    "main_tag": "aptitude",
+    "sub_tag": "chain-rule",
+    "question": "3 pumps, working 8 hours a day, can empty a tank in 2 days. How many hours a day must 4 pumps work to empty the tank in 1 day?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "answer": "D",
+    "explanation": "Let the required number of working hours per day be x . More pumps, Less working hours per day (Indirect Proportion) Less days, More working hours per day (Indirect Proportion) Pumps 4 : 3 :: 8 : x Days 1 : 2 4 x 1 x x = 3 x 2 x 8 x = (3 x 2 x 8) (4) x = 12."
+  },
+  {
+    "qid": "387",
+    "main_tag": "aptitude",
+    "sub_tag": "chain-rule",
+    "question": "A fort had provision of food for 150 men for 45 days. After 10 days, 25 men left the fort. The number of days for which the remaining food will last, is:",
+    "options": {
+      "A": "29 1 5",
+      "B": "37 1 4",
+      "C": "42",
+      "D": "54"
+    },
+    "answer": "C",
+    "explanation": "After 10 days : 150 men had food for 35 days. Suppose 125 men had food for x days. Now, Less men, More days (Indirect Proportion) 125 : 150 :: 35 : x 125 x x = 150 x 35 x = 150 x 35 125 x = 42."
+  },
+  {
+    "qid": "393",
+    "main_tag": "aptitude",
+    "sub_tag": "chain-rule",
+    "question": "39 persons can repair a road in 12 days, working 5 hours a day. In how many days will 30 persons, working 6 hours a day, complete the work?",
+    "options": {
+      "A": "10",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    },
+    "answer": "B",
+    "explanation": "Let the required number of days be x . Less persons, More days (Indirect Proportion) More working hours per day, Less days (Indirect Proportion) Persons 30 : 39 :: 12 : x Working hours/day 6 : 5 30 x 6 x x = 39 x 5 x 12 x = (39 x 5 x 12) (30 x 6) x = 13."
+  },
+  {
+    "qid": "385",
+    "main_tag": "aptitude",
+    "sub_tag": "chain-rule",
+    "question": "A man completes of a job in 10 days. At this rate, how many more days will it takes him to finish the job?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "7 1 2"
+    },
+    "answer": "B",
+    "explanation": "Work done = 5 8 Balance work = 1 - 5 = 3 8 8 Let the required number of days be x . Then, 5 : 3 = :: 10 : x 5 x x = 3 x 10 8 8 8 8 x = 3 x 10 x 8 8 5 x = 6."
+  },
+  {
+    "qid": "392",
+    "main_tag": "aptitude",
+    "sub_tag": "chain-rule",
+    "question": "In a dairy farm, 40 cows eat 40 bags of husk in 40 days. In how many days one cow will eat one bag of husk?",
+    "options": {
+      "A": "1",
+      "B": "1 40",
+      "C": "40",
+      "D": "80"
+    },
+    "answer": "C",
+    "explanation": "Let the required number of days be x . Less cows, More days (Indirect Proportion) Less bags, Less days (Direct Proportion) Cows 1 : 40 :: 40 : x Bags 40 : 1 1 x 40 x x = 40 x 1 x 40 x = 40."
+  },
+  {
+    "qid": "388",
+    "main_tag": "aptitude",
+    "sub_tag": "chain-rule",
+    "question": "A wheel that has 6 cogs is meshed with a larger wheel of 14 cogs. When the smaller wheel has made 21 revolutions, then the number of revolutions mad by the larger wheel is:",
+    "options": {
+      "A": "4",
+      "B": "9",
+      "C": "12",
+      "D": "49"
+    },
+    "answer": "B",
+    "explanation": "Let the required number of revolutions made by larger wheel be x . Then, More cogs, Less revolutions (Indirect Proportion) 14 : 6 :: 21 : x 14 x x = 6 x 21 x = 6 x 21 14 x = 9."
+  },
+  {
+    "qid": "395",
+    "main_tag": "aptitude",
+    "sub_tag": "chain-rule",
+    "question": "If 7 spiders make 7 webs in 7 days, then 1 spider will make 1 web in how many days?",
+    "options": {
+      "A": "1",
+      "B": "7 2",
+      "C": "7",
+      "D": "49"
+    },
+    "answer": "C",
+    "explanation": "Let the required number days be x . Less spiders, More days (Indirect Proportion) Less webs, Less days (Direct Proportion) Spiders 1 : 7 :: 7 : x Webs 7 : 1 1 x 7 x x = 7 x 1 x 7 x = 7."
+  },
+  {
+    "qid": "389",
+    "main_tag": "aptitude",
+    "sub_tag": "chain-rule",
+    "question": "In a camp, there is a meal for 120 men or 200 children. If 150 children have taken the meal, how many men will be catered to with remaining meal?",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "40",
+      "D": "50"
+    },
+    "answer": "B",
+    "explanation": "There is a meal for 200 children. 150 children have taken the meal. Remaining meal is to be catered to 50 children. Now, 200 children 120 men. 50 children 120 x 50 = 30 men. 200"
+  },
+  {
+    "qid": "386",
+    "main_tag": "aptitude",
+    "sub_tag": "chain-rule",
+    "question": "36 men can complete a piece of work in 18 days. In how many days will 27 men complete the same work?",
+    "options": {
+      "A": "12",
+      "B": "18",
+      "C": "22",
+      "D": "24",
+      "E": "None of these"
+    },
+    "answer": "D",
+    "explanation": "Let the required number of days be x . Less men, More days (Indirect Proportion) 27 : 36 :: 18 : x 27 x x = 36 x 18 x = 36 x 18 27 x = 24."
+  },
+  {
+    "qid": "390",
+    "main_tag": "aptitude",
+    "sub_tag": "chain-rule",
+    "question": "4 mat-weavers can weave 4 mats in 4 days. At the same rate, how many mats would be woven by 8 mat-weavers in 8 days?",
+    "options": {
+      "A": "4",
+      "B": "8",
+      "C": "12",
+      "D": "16"
+    },
+    "answer": "D",
+    "explanation": "Let the required number of bottles be x . More weavers, More mats (Direct Proportion) More days, More mats (Direct Proportion) Wavers 4 : 8 :: 4 : x Days 4 : 8 4 x 4 x x = 8 x 8 x 4 x = (8 x 8 x 4) (4 x 4) x = 16."
+  },
+  {
+    "qid": "430",
+    "main_tag": "aptitude",
+    "sub_tag": "pipes-and-cistern",
+    "question": "Three pipes A, B and C can fill a tank in 6 hours. After working at it together for 2 hours, C is closed and A and B can fill the remaining part in 7 hours. The number of hours taken by C alone to fill the tank is:",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "answer": "C",
+    "explanation": "Part filled in 2 hours = 2 = 1 6 3 Remaining part = 1 - 1 = 2 . 3 3 (A + B)'s 7 hour's work = 2 3 (A + B)'s 1 hour's work = 2 21 C's 1 hour's work = { (A + B + C)'s 1 hour's work } - { (A + B)'s 1 hour's work } = 1 - 2 = 1 6 21 14 C alone can fill the tank in 14 hours."
+  },
+  {
+    "qid": "488",
+    "main_tag": "aptitude",
+    "sub_tag": "boats-and-streams",
+    "question": "A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "10"
+    },
+    "answer": "B",
+    "explanation": "Let the speed of the stream be x km/hr. Then, Speed downstream = (15 + x ) km/hr, Speed upstream = (15 - x ) km/hr. 30 + 30 = 4 1 (15 + x ) (15 - x ) 2 900 = 9 225 - x 2 2 9 x 2 = 225 x 2 = 25 x = 5 km/hr. Video Explanation: https://youtu.be/lMFnNB3YQOo"
+  },
+  {
+    "qid": "479",
+    "main_tag": "aptitude",
+    "sub_tag": "boats-and-streams",
+    "question": "A man can row three-quarters of a kilometre against the stream in 11 minutes and down the stream in 7 minutes. The speed (in km/hr) of the man in still water is:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "D",
+    "explanation": "We can write three-quarters of a kilometre as 750 metres, and 11 minutes as 675 seconds. Rate upstream = 750 m/sec = 10 m/sec. 675 9 Rate downstream = 750 m/sec = 5 m/sec. 450 3 Rate in still water = 1 10 + 5 m/sec 2 9 3 = 25 m/sec 18 = 25 x 18 km/hr 18 5 = 5 km/hr."
+  },
+  {
+    "qid": "508",
+    "main_tag": "aptitude",
+    "sub_tag": "alligation-or-mixture",
+    "question": "A can contains a mixture of two liquids A and B is the ratio 7 : 5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained by the can initially?",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "21",
+      "D": "25"
+    },
+    "answer": "C",
+    "explanation": "Suppose the can initially contains 7 x and 5 x of mixtures A and B respectively. Quantity of A in mixture left = 7 x - 7 x 9 litres = 7 x - 21 litres. 12 4 Quantity of B in mixture left = 5 x - 5 x 9 litres = 5 x - 15 litres. 12 4 7 x - 21 4 = 7 5 x - 15 + 9 4 9 28 x - 21 = 7 20 x + 21 9 252 x - 189 = 140 x + 147 112 x = 336 x = 3. So, the can contained 21 litres of A."
+  },
+  {
+    "qid": "558",
+    "main_tag": "aptitude",
+    "sub_tag": "logarithm",
+    "question": "If log 10 5 + log 10 (5 x + 1) = log 10 ( x + 5) + 1, then x is equal to:",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "10"
+    },
+    "answer": "B",
+    "explanation": "log 10 5 + log 10 (5 x + 1) = log 10 ( x + 5) + 1 log 10 5 + log 10 (5 x + 1) = log 10 ( x + 5) + log 10 10 log 10 [5 (5 x + 1)] = log 10 [10( x + 5)] 5(5 x + 1) = 10( x + 5) 5 x + 1 = 2 x + 10 3 x = 9 x = 3."
+  },
+  {
+    "qid": "559",
+    "main_tag": "aptitude",
+    "sub_tag": "logarithm",
+    "question": "The value of 1 + 1 + 1 is: log 3 60 log 4 60 log 5 60",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "5",
+      "D": "60"
+    },
+    "answer": "B",
+    "explanation": "Given expression = log 60 3 + log 60 4 + log 60 5 = log 60 (3 x 4 x 5) = log 60 60 = 1."
+  },
+  {
+    "qid": "566",
+    "main_tag": "aptitude",
+    "sub_tag": "logarithm",
+    "question": "If log 2 = 0.30103, the number of digits in 2 64 is:",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21"
+    },
+    "answer": "C",
+    "explanation": "log (2 64 ) = 64 x log 2 = (64 x 0.30103) = 19.26592 Its characteristic is 19. Hence, then number of digits in 2 64 is 20."
+  },
+  {
+    "qid": "552",
+    "main_tag": "aptitude",
+    "sub_tag": "logarithm",
+    "question": "The value of log 2 16 is:",
+    "options": {
+      "A": "1 8",
+      "B": "4",
+      "C": "8",
+      "D": "16"
+    },
+    "answer": "B",
+    "explanation": "Let log 2 16 = n. Then, 2 n = 16 = 2 4 n = 4. log 2 16 = 4."
+  },
+  {
+    "qid": "717",
+    "main_tag": "aptitude",
+    "sub_tag": "true-discount",
+    "question": "A man purchased a cow for Rs. 3000 and sold it the same day for Rs. 3600, allowing the buyer a credit of 2 years. If the rate of interest be 10% per annum, then the man has a gain of:",
+    "options": {
+      "A": "0%",
+      "B": "5%",
+      "C": "7.5%",
+      "D": "10%"
+    },
+    "answer": "A",
+    "explanation": "C.P. = Rs. 3000. S.P. = Rs. 3600 x 100 = Rs. 3000. 100 + (10 x 2) Gain = 0%."
+  },
+  {
+    "qid": "740",
+    "main_tag": "aptitude",
+    "sub_tag": "odd-man-out-and-series",
+    "question": "3, 5, 11, 14, 17, 21",
+    "options": {
+      "A": "21",
+      "B": "17",
+      "C": "14",
+      "D": "3"
+    },
+    "answer": "C",
+    "explanation": "Each of the numbers except 14 is an odd number. The number '14' is the only EVEN number."
+  },
+  {
+    "qid": "745",
+    "main_tag": "aptitude",
+    "sub_tag": "odd-man-out-and-series",
+    "question": "10, 25, 45, 54, 60, 75, 80",
+    "options": {
+      "A": "10",
+      "B": "45",
+      "C": "54",
+      "D": "75"
+    },
+    "answer": "C",
+    "explanation": "Each of the numbers except 54 is multiple of 5."
+  },
+  {
+    "qid": "742",
+    "main_tag": "aptitude",
+    "sub_tag": "odd-man-out-and-series",
+    "question": "6, 9, 15, 21, 24, 28, 30",
+    "options": {
+      "A": "28",
+      "B": "21",
+      "C": "24",
+      "D": "30"
+    },
+    "answer": "A",
+    "explanation": "Each of the numbers except 28, is a multiple of 3."
+  },
+  {
+    "qid": "741",
+    "main_tag": "aptitude",
+    "sub_tag": "odd-man-out-and-series",
+    "question": "1, 4, 9, 16, 23, 25, 36",
+    "options": {
+      "A": "9",
+      "B": "23",
+      "C": "25",
+      "D": "36"
+    },
+    "answer": "B",
+    "explanation": "Each of the numbers except 23, is perfect square."
+  },
+  {
+    "qid": "746",
+    "main_tag": "aptitude",
+    "sub_tag": "odd-man-out-and-series",
+    "question": "1, 4, 9, 16, 20, 36, 49",
+    "options": {
+      "A": "1",
+      "B": "9",
+      "C": "20",
+      "D": "49"
+    },
+    "answer": "C",
+    "explanation": "The pattern is 1 2 , 2 2 , 3 2 , 4 2 , 5 2 , 6 2 , 7 2 . But, instead of 5 2 , it is 20 which to be turned out."
+  },
+  {
+    "qid": "752",
+    "main_tag": "aptitude",
+    "sub_tag": "odd-man-out-and-series",
+    "question": "2, 5, 10, 17, 26, 37, 50, 64",
+    "options": {
+      "A": "50",
+      "B": "26",
+      "C": "37",
+      "D": "64"
+    },
+    "answer": "D",
+    "explanation": "(1*1)+1 , (2*2)+1 , (3*3)+1 , (4*4)+1 , (5*5)+1 , (6*6)+1 , (7*7)+1 , (8*8)+1 But, 64 is out of pattern."
+  },
+  {
+    "qid": "739",
+    "main_tag": "aptitude",
+    "sub_tag": "odd-man-out-and-series",
+    "question": "10, 14, 16, 18, 21, 24, 26",
+    "options": {
+      "A": "26",
+      "B": "24",
+      "C": "21",
+      "D": "18"
+    },
+    "answer": "C",
+    "explanation": "Each of the numbers except 21 is an even number."
+  },
+  {
+    "qid": "744",
+    "main_tag": "aptitude",
+    "sub_tag": "odd-man-out-and-series",
+    "question": "16, 25, 36, 72, 144, 196, 225",
+    "options": {
+      "A": "36",
+      "B": "72",
+      "C": "196",
+      "D": "225"
+    },
+    "answer": "B",
+    "explanation": "Each of the numbers except 72 is a perfect square."
+  },
+  {
+    "qid": "743",
+    "main_tag": "aptitude",
+    "sub_tag": "odd-man-out-and-series",
+    "question": "41, 43, 47, 53, 61, 71, 73, 81",
+    "options": {
+      "A": "61",
+      "B": "71",
+      "C": "73",
+      "D": "81"
+    },
+    "answer": "D",
+    "explanation": "Each of the numbers except 81 is a prime number."
+  },
+  {
+    "qid": "738",
+    "main_tag": "aptitude",
+    "sub_tag": "odd-man-out-and-series",
+    "question": "3, 5, 7, 12, 17, 19",
+    "options": {
+      "A": "19",
+      "B": "17",
+      "C": "5",
+      "D": "12"
+    },
+    "answer": "D",
+    "explanation": "Each of the numbers is a prime number except 12."
+  },
+  {
+    "qid": "1460",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "120, 99, 80, 63, 48, ?",
+    "options": {
+      "A": "35",
+      "B": "38",
+      "C": "39",
+      "D": "40"
+    },
+    "answer": "A",
+    "explanation": "The pattern is - 21, - 19, - 17, - 15,..... So, missing term = 48 - 13 = 35."
+  },
+  {
+    "qid": "1466",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "125,80,45,20,?",
+    "options": {
+      "A": "5",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "answer": "A",
+    "explanation": "The pattern is - 45, - 35, - 25, ..... So, missing term = 20 - 15 = 5."
+  },
+  {
+    "qid": "1477",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "1, 1, 4, 8, 9, 27, 16, ?",
+    "options": {
+      "A": "32",
+      "B": "64",
+      "C": "81",
+      "D": "256"
+    },
+    "answer": "B",
+    "explanation": "The series consists of squares and cubes of consecutive natural numbers i.e. 1 2 , 1 3 , 2 2 , 2 3 , 3 2 , 3 3 , 4 2 , ..... So, missing term = 4 3 = 64."
+  },
+  {
+    "qid": "1484",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "1, 2, 3, 6, 9, 18, ?, 54",
+    "options": {
+      "A": "18",
+      "B": "27",
+      "C": "36",
+      "D": "81"
+    },
+    "answer": "B",
+    "explanation": "The pattern is x 2, x 3/2, x 2, x 3/2, x 2,..... So, missing term = 18 x 3/2 = 27."
+  },
+  {
+    "qid": "1473",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "5, 6, 9, 15, ?, 40",
+    "options": {
+      "A": "21",
+      "B": "25",
+      "C": "27",
+      "D": "33"
+    },
+    "answer": "B",
+    "explanation": "The pattern is + 1, + 3, + 6,....., i.e. + 1, + (1 + 2), + (1 + 2 + 3),..... So, missing term = 15 + (1 + 2 + 3 + 4) = 25."
+  },
+  {
+    "qid": "1510",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "1, 3, 4, 8, 15, 27, ?",
+    "options": {
+      "A": "37",
+      "B": "44",
+      "C": "50",
+      "D": "55"
+    },
+    "answer": "C",
+    "explanation": "The sum of any three consecutive terms of the series gives the next term. So, missing number = 8 + 15 + 27 = 50."
+  },
+  {
+    "qid": "1520",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "3, 4, 7, 7, 13, 13, 21, 22, 31, 34, ?",
+    "options": {
+      "A": "42",
+      "B": "43",
+      "C": "51",
+      "D": "52"
+    },
+    "answer": "B",
+    "explanation": "The given sequence is a combination of two series : I. 3, 7, 13, 21, 31, ? and II. 4, 7, 13, 22, 34 The pattern in I is + 4, + 6, + 8, + 10,..... The pattern in II is + 3, + 6, + 9, + 12,..... So, missing term = 31 + 12 = 43."
+  },
+  {
+    "qid": "1474",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "2, 3, 5,7,11,?, 17",
+    "options": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    },
+    "answer": "B",
+    "explanation": "Clearly, the given series consists of prime numbers starting from 2. So, the missing term is the prime number after 11, which is 13."
+  },
+  {
+    "qid": "1456",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "6, 12, 21, ?, 48",
+    "options": {
+      "A": "33",
+      "B": "38",
+      "C": "40",
+      "D": "45"
+    },
+    "answer": "A",
+    "explanation": "The pattern is + 6, + 9, + 12, + 15, ..... So, missing term = 21 + 12 = 33."
+  },
+  {
+    "qid": "1457",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "2, 5, 9, ?, 20, 27",
+    "options": {
+      "A": "14",
+      "B": "16",
+      "C": "18",
+      "D": "24"
+    },
+    "answer": "A",
+    "explanation": "The pattern is + 3, + 4, + 5, + 6,..... So, missing term = 9 + 5 = 14."
+  },
+  {
+    "qid": "1487",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "2, 3, 3, 5, 10, 13, ?, 43, 172, 177",
+    "options": {
+      "A": "23",
+      "B": "38",
+      "C": "39",
+      "D": "40"
+    },
+    "answer": "C",
+    "explanation": "The pattern is + 1, x 1, + 2, x 2, + 3, x 3, + 4, x 4, + 5. So, missing term = 13 x 3 = 39."
+  },
+  {
+    "qid": "1524",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "2, 1, 2, 4, 4, 5, 6, 7, 8, 8, 10, 11, ?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "answer": "B",
+    "explanation": "The given sequence is a combination of three series : I. 1st, 4th, 7th, 10th, 13th terms i.e. 2, 4, 6, 8, ? II. 2nd, 5th, 8th, 11th terms i.e. 1, 4, 7, 10 III. 3rd, 6th, 9th, 12th terms i.e. 2, 5, 8, 11 Clearly, I consists of consecutive even numbers. So, the missing term is 10."
+  },
+  {
+    "qid": "1522",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "13, 32, 24, 43, 35, ?, 46, 65, 57, 76",
+    "options": {
+      "A": "45",
+      "B": "52",
+      "C": "54",
+      "D": "55"
+    },
+    "answer": "C",
+    "explanation": "The given sequence is a combination of two series: I. 13, 24, 35, 46, 57 and II. 32, 43, ?, 65, 76 The pattern in both I and II is + 11. So, missing term = 43 + 11 = 54."
+  },
+  {
+    "qid": "1461",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "22, 24, 28, ?, 52, 84",
+    "options": {
+      "A": "36",
+      "B": "38",
+      "C": "42",
+      "D": "46"
+    },
+    "answer": "A",
+    "explanation": "The pattern is + 2, + 4, + 8, + 16,..... So, missing term = 28 + 8 = 36."
+  },
+  {
+    "qid": "1488",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "3, 15, ?, 63, 99, 143",
+    "options": {
+      "A": "27",
+      "B": "35",
+      "C": "45",
+      "D": "56"
+    },
+    "answer": "B",
+    "explanation": "The terms of the given series are (2 2 - 1), (4 2 - 1),....., (8 2 - 1), (10 2 - 1), (12 2 - 1). So, missing term = (6 2 - 1) - (36 - 1) = 35."
+  },
+  {
+    "qid": "1483",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "48, 24, 96, 48, 192, ?",
+    "options": {
+      "A": "76",
+      "B": "90",
+      "C": "96",
+      "D": "98"
+    },
+    "answer": "C",
+    "explanation": "The pattern is Ã· 2, x 4, Ã· 2, x 4, ..... So, missing term = 192 Ã· 2 = 96."
+  },
+  {
+    "qid": "1458",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "6, 11, 21, 36, 56, ?",
+    "options": {
+      "A": "42",
+      "B": "51",
+      "C": "81",
+      "D": "91"
+    },
+    "answer": "C",
+    "explanation": "The pattern is + 5, + 10, + 15, + 20, ... So, missing term = 56 + 25 = 81."
+  },
+  {
+    "qid": "1471",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "1, 4, 10, 22, 46, ?",
+    "options": {
+      "A": "64",
+      "B": "86",
+      "C": "94",
+      "D": "122"
+    },
+    "answer": "C",
+    "explanation": "The pattern is + 3, + 6, + 12, + 24,..... So, missing term = 46 + 48 = 94."
+  },
+  {
+    "qid": "1511",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "66, 36, 18, ?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "8",
+      "D": "9"
+    },
+    "answer": "C",
+    "explanation": "Each term in the series is the product of the digits of the preceding term. So, missing term = 1 x 8 = 8."
+  },
+  {
+    "qid": "1465",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "28, 33, 31, 36, ?, 39",
+    "options": {
+      "A": "32",
+      "B": "34",
+      "C": "38",
+      "D": "40"
+    },
+    "answer": "B",
+    "explanation": "The pattern is + 5, - 2, + 5, - 2,..... So, missing term = 36 - 2 = 34."
+  },
+  {
+    "qid": "1453",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "1, 9, 25, 49, ?, 121",
+    "options": {
+      "A": "64",
+      "B": "81",
+      "C": "91",
+      "D": "100"
+    },
+    "answer": "B",
+    "explanation": "The given series consists of squares of consecutive odd numbers i.e. 1 2 , 3 2 , 5 2 , 7 2 ,..... So, missing term = 9 2 = 81."
+  },
+  {
+    "qid": "1499",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "2,2,5, 13,28,?",
+    "options": {
+      "A": "49",
+      "B": "50",
+      "C": "51",
+      "D": "52"
+    },
+    "answer": "D",
+    "explanation": "The pattern is + 0, + 3, + 8, + 15, ..... i.e. + (l 2 - 1), + (2 2 - 1), + (3 2 - 1), + (4 2 - 1), ..... So, missing term = 28 + (5 2 - 1) = 28 + 24 = 52."
+  },
+  {
+    "qid": "1464",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "0, 2, 8, 14, ?, 34",
+    "options": {
+      "A": "20",
+      "B": "23",
+      "C": "24.",
+      "D": "25"
+    },
+    "answer": "C",
+    "explanation": "The pattern is + 2, + 6, + 6, + 10, + 10,..... So, missing term = 14 + 10 = 24."
+  },
+  {
+    "qid": "1469",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "6, 17, 39, 72, ?",
+    "options": {
+      "A": "83",
+      "B": "94",
+      "C": "116",
+      "D": "127"
+    },
+    "answer": "C",
+    "explanation": "The pattern is + 11, + 22, + 33, ..... So, missing term = 72 + 44 = 116."
+  },
+  {
+    "qid": "1519",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "series-completion",
+    "question": "625, 5, 125, 25, 25, ?, 5",
+    "options": {
+      "A": "5",
+      "B": "25",
+      "C": "125",
+      "D": "625"
+    },
+    "answer": "C",
+    "explanation": "The given sequence is a combination of two series : I. 625, 125, 25, 5 and II. 5, 25, ? The pattern in I is ÷ 5, while that in II is x 5. So, missing term = 25 x 5 = 125."
+  },
+  {
+    "qid": "266",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between Travelers, Train and Bus ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "C",
+    "explanation": "Bus and Train are different from each other but some travelers travel by bus and some travel by train."
+  },
+  {
+    "qid": "247",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between Women, Mothers and Engineers ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "A",
+    "explanation": "All mothers are women and some mothers and some women may be engineers."
+  },
+  {
+    "qid": "270",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between India, Haryana and World ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "D",
+    "explanation": "Haryana is in India and India is in the World."
+  },
+  {
+    "qid": "268",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between Earth, Sea and Sun ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "A",
+    "explanation": "Sea is a part of Earth while Sun is different from these two."
+  },
+  {
+    "qid": "269",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between Examination, Questions and Practice ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "C",
+    "explanation": "Some questions are asked in examination and some in practice but examination and practice are different from each other."
+  },
+  {
+    "qid": "246",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between Mercury, Zinc and Metal ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "B",
+    "explanation": "Mercury and Zinc both are different from one another but belong to metal."
+  },
+  {
+    "qid": "250",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between Teacher, Writer and Musician ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "A",
+    "explanation": "A teacher may or may not be a writer and musician. Similarly a musician may or may not be a teacher and writer and so a writer may or may not be a teacher and musician."
+  },
+  {
+    "qid": "267",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between Rabi-Crop, Paddy and Wheat ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "A",
+    "explanation": "Wheat and Paddy are different from each other but Wheat is the Rabi-Crop."
+  },
+  {
+    "qid": "249",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between Elephants, Wolves and Animals ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "B",
+    "explanation": "Elephant and Wolves bear no relationship to each other while both are animals."
+  },
+  {
+    "qid": "248",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between Teacher, Parents and Guardians ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "B",
+    "explanation": "No answer description is available. Let's discuss."
+  },
+  {
+    "qid": "286",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "venn-diagrams",
+    "question": "Which of the following diagrams indicates the best relation between Mammal, Cow and Bat ?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "B",
+    "explanation": "Cow and Bat are different from each other but both are mammal."
+  },
+  {
+    "qid": "494",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "seating-arrangement",
+    "question": "A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?",
+    "options": {
+      "A": "A",
+      "B": "X",
+      "C": "S",
+      "D": "Z"
+    },
+    "answer": "B",
+    "explanation": "The seating arrangement is as follows: Therefore, right of P is X."
+  },
+  {
+    "qid": "549",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "character-puzzles",
+    "question": "Which one will replace the question mark ?",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "3",
+      "D": "6"
+    },
+    "answer": "D",
+    "explanation": "(5 + 4 + 7)/2 = 8 (6 + 9 + 5)/2 = 10 (3 + 7 + 2)/2 = 6 ."
+  },
+  {
+    "qid": "587",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "character-puzzles",
+    "question": "Which one will replace the question mark ?",
+    "options": {
+      "A": "13",
+      "B": "14",
+      "C": "12",
+      "D": "15"
+    },
+    "answer": "D",
+    "explanation": "Sum of numbers in lower half of the circle = 11 + 9 + 3 + 7 = 30 Sum of numbers in upper half of the circle = ? + 4 + 5 + 6 = ? + 15 Upper half = Lower half 30 = ? + 15 ? = 30 - 15 ? = 15. Threfore, 15 is the answer."
+  },
+  {
+    "qid": "588",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "character-puzzles",
+    "question": "Which one will replace the question mark ?",
+    "options": {
+      "A": "45",
+      "B": "29",
+      "C": "39",
+      "D": "37"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "qid": "547",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "character-puzzles",
+    "question": "Which one will replace the question mark ?",
+    "options": {
+      "A": "60",
+      "B": "46",
+      "C": "86",
+      "D": "75"
+    },
+    "answer": "C",
+    "explanation": "(30 - 24) x 8 = 48 and (23 - 12) x 8 = 88 Therefore, (92 - 86) x 8 = 48 ."
+  },
+  {
+    "qid": "589",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "character-puzzles",
+    "question": "Which one will replace the question mark ?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "7",
+      "D": "6"
+    },
+    "answer": "B",
+    "explanation": "Putting the position of the letters in reverse order P = 11, S = 8, V = 5 and Y = 2."
+  },
+  {
+    "qid": "586",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "character-puzzles",
+    "question": "Which one will replace the question mark ?",
+    "options": {
+      "A": "20",
+      "B": "26",
+      "C": "25",
+      "D": "75"
+    },
+    "answer": "B",
+    "explanation": "(2) 2 + (4) 2 = 20 (3) 2 + (9) 2 = 90 Therefore, (1) 2 + (5) 2 = 26 ."
+  },
+  {
+    "qid": "551",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "character-puzzles",
+    "question": "Which one will replace the question mark ?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "C",
+    "explanation": "(4 x 7) % 4 = 7 and (6 x 2) % 3 = 4 Therefore, (6 x 2) % 2 = 6 ."
+  },
+  {
+    "qid": "582",
+    "main_tag": "verbal-reasoning",
+    "sub_tag": "character-puzzles",
+    "question": "Which one will replace the question mark ?",
+    "options": {
+      "A": "33",
+      "B": "38",
+      "C": "32",
+      "D": "37"
+    },
+    "answer": "D",
+    "explanation": "(5 x 6) + 2 = 32 (7 x 6) + 2 = 44 (7 x 5) + 2 = 37 ."
+  }
+]

@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+
+{% block title %}Quiz Result - {{ quiz.title }}{% endblock %}
+
+{% block content %}
+<div class="card" style="text-align: center;">
+    <h2>Quiz Completed!</h2>
+    <div style="margin: 2rem 0;">
+        <p style="font-size: 1.2rem;"><strong>Participant:</strong> {{ attempt.participant_name }}</p>
+        <p style="font-size: 2.5rem; font-weight: bold; color: #27ae60; margin: 1rem 0;">
+            Score: {{ attempt.score }}
+        </p>
+        <p><strong>Time Taken:</strong> {{ time_taken }}</p>
+        <p><strong>Questions:</strong> {{ questions|length }}</p>
+    </div>
+</div>
+
+{% if quiz.show_explanations %}
+<h3>Detailed Results</h3>
+
+{% for question in questions %}
+<div class="card">
+    <h4>Question {{ loop.index }}</h4>
+    <p style="margin: 1rem 0;">{{ question.question_text }}</p>
+
+    <div style="margin: 1rem 0;">
+        {% for key, value in question.options.items() %}
+        <div style="padding: 10px; margin: 5px 0; border-radius: 4px;
+                    {% if key == question.correct_answer %}background: #d4edda; border: 2px solid #28a745;
+                    {% elif key == question.user_answer %}background: #f8d7da; border: 2px solid #dc3545;
+                    {% else %}background: #f8f9fa;{% endif %}">
+            <strong>{{ key }}.</strong> {{ value }}
+            {% if key == question.correct_answer %}
+                <span style="color: #28a745; font-weight: bold;"> ✓ Correct Answer</span>
+            {% endif %}
+            {% if key == question.user_answer and key != question.correct_answer %}
+                <span style="color: #dc3545; font-weight: bold;"> ✗ Your Answer</span>
+            {% endif %}
+            {% if key == question.user_answer and key == question.correct_answer %}
+                <span style="color: #28a745; font-weight: bold;"> ✓ Your Answer</span>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+
+    {% if question.explanation %}
+    <div style="background: #e7f3ff; padding: 15px; border-radius: 4px; margin-top: 1rem;">
+        <strong>Explanation:</strong>
+        <p style="margin-top: 0.5rem;">{{ question.explanation }}</p>
+    </div>
+    {% endif %}
+</div>
+{% endfor %}
+
+{% else %}
+<div class="alert alert-info">
+    <p>Correct answers and explanations are not available for this quiz.</p>
+</div>
+{% endif %}
+{% endblock %}
