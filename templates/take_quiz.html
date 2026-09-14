@@ -21,7 +21,8 @@
         <div style="margin: 1rem 0;">
             {% for key, value in question.options.items() %}
             <label style="display: block; padding: 10px; margin: 5px 0; background: #f8f9fa; border-radius: 4px; cursor: pointer;">
-                <input type="radio" name="q_{{ question.id }}" value="{{ key }}">
+                <input type="radio" name="q_{{ question.id }}" value="{{ key }}"
+                    {% if saved_answers.get(question.id) == key %}checked{% endif %}>
                 <strong>{{ key }}.</strong> {{ value }}
             </label>
             {% endfor %}
@@ -41,6 +42,10 @@ const deadline = new Date("{{ deadline }}");
 
 let isSubmitting = false;
 let timerInterval = null;
+let submissionEventAllowed = false;
+let saveTimer = null;
+const form = document.getElementById('quiz-form');
+const submitButton = form.querySelector('button[type="submit"]');
 
 function beforeUnloadHandler(e) {
     if (!isSubmitting) {
@@ -49,23 +54,23 @@ function beforeUnloadHandler(e) {
     }
 }
 
+function prepareSubmission() {
+    isSubmitting = true;
+    if (timerInterval) {
+        clearInterval(timerInterval);
+        timerInterval = null;
+    }
+    window.removeEventListener('beforeunload', beforeUnloadHandler);
+    submitButton.disabled = true;
+}
+
 function submitQuiz() {
     if (isSubmitting) {
         return;
     }
-
-    isSubmitting = true;
-
-    // Stop the timer so it cannot submit again
-    if (timerInterval) {
-        clearInterval(timerInterval);
-    }
-
-    // Remove the "Leave site?" warning
-    window.removeEventListener('beforeunload', beforeUnloadHandler);
-
-    // Use requestSubmit() so the normal form submit flow is triggered
-    document.getElementById('quiz-form').requestSubmit();
+    prepareSubmission();
+    submissionEventAllowed = true;
+    form.requestSubmit();
 }
 
 function updateTimer() {
@@ -96,14 +101,38 @@ function updateTimer() {
 window.addEventListener('beforeunload', beforeUnloadHandler);
 
 // Handle manual submission
-document.getElementById('quiz-form').addEventListener('submit', function() {
-    isSubmitting = true;
-
-    if (timerInterval) {
-        clearInterval(timerInterval);
+form.addEventListener('submit', function(event) {
+    if (isSubmitting && !submissionEventAllowed) {
+        event.preventDefault();
+        return;
     }
+    if (!isSubmitting) {
+        prepareSubmission();
+    }
+    submissionEventAllowed = false;
+});
 
-    window.removeEventListener('beforeunload', beforeUnloadHandler);
+function saveAnswer(input) {
+    fetch('/quiz/{{ quiz.share_slug }}/attempt/{{ attempt.id }}/save-answer', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({question_id: input.name.replace('q_', ''), answer: input.value}),
+        keepalive: true
+    }).catch(() => {
+        // The final submit merges displayed answers; a later selection or
+        // reload retries persistence after a transient cold-start failure.
+    });
+}
+
+function saveCurrentAnswers() {
+    form.querySelectorAll('input[type="radio"]:checked').forEach(saveAnswer);
+}
+
+form.querySelectorAll('input[type="radio"]').forEach((input) => {
+    input.addEventListener('change', () => {
+        clearTimeout(saveTimer);
+        saveTimer = setTimeout(saveCurrentAnswers, 500);
+    });
 });
 
 // Start timer
